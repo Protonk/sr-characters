@@ -1,9 +1,4 @@
-
-
-____
 ####Human
-
-No magic
 
 ____
 ####Qualities:

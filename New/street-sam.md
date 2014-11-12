@@ -1,7 +1,5 @@
 ####Troll
 
-No magic
-
 ____
 ####Qualities:
 

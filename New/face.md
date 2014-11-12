@@ -1,7 +1,5 @@
 ####Human
 
-Physical Adept
-
 ____
 ####Qualities:
 
@@ -9,7 +7,6 @@ ____
 - Positive: Bilingual, Blandness, Astral chameleon
 
 ____
-
 ####Augments:
 
 - Muscle toner (rank 2)
@@ -50,17 +47,14 @@ ____
 
 ####Adept powers:
 
-- Improved reflexes (level 2): 2.5 PP
-- improved agility (level 2): 2 PP
-- Critical strike (blades): 0.5 PP
-- Improved ability (blades): 0.5 PP
-- Combat sense (level 1): 0.5 PP
+- Improved reflexes (level 2)
+- improved agility (level 2)
+- Critical strike (blades)
+- Improved ability (blades)
+- Combat sense (level 1)
 
 ____
-
-####Final stats:
-
-#####Attributes
+####Attributes
 
 - AGI: 5 [7]
 - STR: 5

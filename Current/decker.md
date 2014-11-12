@@ -1,5 +1,5 @@
-____
 ####Human
+
 ____
 ####Qualities:
 

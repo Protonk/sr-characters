@@ -1,6 +1,20 @@
-####Magician
+####Human
+____
+####Qualities:
 
-#####Spells:
+- Negative: Addiction (stim patches, moderate)
+- Positive: Focused concentration (rating 3), Quick Healer
+
+____
+####Equipment:
+
+- Weapons: Ruger Super Warhawk (wireless smartgun system, 100 APDS rounds, 200 regular rounds), Walther Palm Pistol (concealable holster), flashbangs [10]
+- Armor: Armor jacket, lined coat (with armor vest) 
+- Other: Renraku sensei (rating 3), Goggles (capacity 4: smartlink, flare, thermographic vision), DocWagon contract (basic), medkit [wireless, rating 3], supplies for 3 medkits, stim patch [5 at rating 6]
+- 2 fake SINs (rating 4, with 3 rating 4 fake licenses for each [magic user, firearm, smartlink googles])
+
+____
+####Magic:
 
 - Combat Sense
 - Heal
@@ -14,26 +28,6 @@
 - Physical barrier
 
 ____
-####Human
-____
-####Qualities:
-
-- Negative: Addiction (stim patches, moderate)
-- Positive: Focused concentration (rating 3), Quick Healer
-
-____
-
-
-####Equipment:
-
-- Weapons: Ruger Super Warhawk (wireless smartgun system, 100 APDS rounds, 200 regular rounds), Walther Palm Pistol (concealable holster), flashbangs [10]
-- Armor: Armor jacket, lined coat (with armor vest) 
-- Other: Renraku sensei (rating 3), Goggles (capacity 4: smartlink, flare, thermographic vision), DocWagon contract (basic), medkit [wireless, rating 3], supplies for 3 medkits, stim patch [5 at rating 6]
-- 2 fake SINs (rating 4, with 3 rating 4 fake licenses for each [magic user, firearm, smartlink googles])
-
-____
-####Skills
-
 ####Active:
 
 - Counterspelling (6 + combat), Spellcasting (6 + combat), Banishing (5), Astral Combat (5), Assensing (4), Arcana (3), Pistols (3), Throwing weapons (2), First aid (1) 

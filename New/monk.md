@@ -1,7 +1,4 @@
 ####Human
-
-Physical Adept
-
 ____
 ####Qualities:
 
@@ -22,6 +19,13 @@ ____
 - 1 rating 3 fake SIN with 2 rating 3 fake licenses [rifle, magic]. 1 rating 2 fake SIN with no licenses
 
 ____
+####Adept powers: 
+
+- Improved reflexes (level 3)
+- Improved agility (level 3)
+- Improved ability: Automatics (level 1)
+
+____
 ####Active skills:
 
 - Automatics (6 [7] + assault rifles), Gymnastics (5 + parkour), Running (5), Blades (3 + swords), Sneaking (2)
@@ -39,13 +43,6 @@ ____
 
 - Street fighter (con 1, loy 3)
 - Fixer (con 1, loy 1)
-
-____
-####Adept powers: 
-
-- Improved reflexes (level 3): 3.5 PP
-- Improved agility (level 3): 3 PP
-- Improved ability: Automatics (level 1): 0.5 PP
 
 ____
 ####Attributes

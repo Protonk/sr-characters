@@ -1,15 +1,13 @@
-____
-Human metatype
+####Human
 
-Qualities:
+____
+####Qualities:
 
 - Negative: Moderate addiction (Bliss)
 - Positive: Gearhead, Escape artist
 
 ____
-Gear
-
-Augments:
+####Augments:
 
 - cybereyes (rating 2: smartlink, vision enhancement (rating 2), low light vision)
 - cyberears (rating 1: audio enhancement (rating 1), sound filter (rating 1), spatial recognizer)
@@ -21,7 +19,7 @@ Augments:
 - reflex recorder (longarms)
 - datajack
 
-Gear:
+####Equipment:
 
 - Weapons: Ares Desert Strike (wireless smartgun, bipod, 100 regular rounds, 100 APDs rounds, 7 spare clips), Defiance T-250 (short barrelled, wireless smartgun, 50 regular rounds, 50 flechette rounds, 6 spare clips)
 - Armor: Lined coat, armor jacket, clothes
@@ -33,30 +31,25 @@ Gear:
 - Lifestyle: High, obscure, special work area [6 months]
 
 ____
-Skills
-
-Active:
+####Active skills:
 
 - Electronics skill group (2), Longarms (6 + sniper rifles), Electronic warfare (3 + sensor operations), Armorer (2 + weapon accessories), Disguise (2), Sneaking (2), Escape artist (2), First aid (1), Perception (1)
 
-Knowledge:
+####Knowledge skills:
 
 - Engineering (4), Street drugs (3 + Bliss), Hunting (3), Cannibalizing hardware (2), Late 20th century science fiction (1)
 
-Languages:
+####Languages:
 
 - English N
 
 ____
-
-Contacts (Starting value 3)
+####Contacts
 
 - Equipment smuggler (con 2, loy 1)
 
 ____
-Final stats:
-
-Attributes
+####Attributes
 
 - AGI: 4 [6]
 - STR: 4
@@ -69,14 +62,11 @@ Attributes
 - EDG: 5
 - ESS: 1.1
 - Initiative: 7 [9] + 1D6
+- Money: 3,810 + 5D6 * 100
+- Karma: 5
 
-Inherent limits:
+####Inherent limits:
 
 - Mental: 4
 - Physical: 5 [7]
 - Social: 2
-
-- Leftover karma: 5
-- Leftover money: 3,810
-
-____
