@@ -93,7 +93,9 @@ A former rank and file of security for a Wuxing subsidiary, he was forced out of
 
 I think of this guy like a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely.
 
-16 to hit with knives (which hit at 9P -3 AP), 15 to hit with the pistol. Decent dodge, but the real payoff is in full use of stealth skills for a face that can be very good at certain types of combat. 
+16 to hit with knives (which hit at 9P -3 AP), 15 to hit with the pistol. Decent dodge, but the real payoff is in full use of stealth skills for a face that can be very good at certain types of combat. Burning edge when hitting an unsuspecting opponent with a knife (no dodge roll unless they overcome surprise, so all hits are net hits) will give 19 dice to hit. 
+
+It's also a type of character (physical adept) that can be interesting in combat, but in an intruiging way. My other adept is all combat--max stats and adept powers (including a quality to boost magic one more). This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded role-player. 
 
 ####SINs:
 
