@@ -7,12 +7,6 @@ ____
 - Positive: Bilingual, Blandness, Astral chameleon
 
 ____
-####Augments:
-
-- Muscle toner (rank 2)
-- reflex recorder [blades, pistols]
-- orthoskin (rating 1)
-
 ####Equipment:
 
 - Weapons: Combat knife (concealable holster), Browning Ultra Power (80 regular rounds, 80 APDS rounds, 4 spare clips)
@@ -37,14 +31,12 @@ ____
 - English N, Cantonese N
 
 ____
-
 ####Contacts:
 
 - Fixer (4 con, 2 loy)
 - Smuggler (2 con, 1 loy)
 
 ____
-
 ####Adept powers:
 
 - Improved reflexes (level 2)
@@ -100,6 +92,8 @@ A former rank and file of security for a Wuxing subsidiary, he was forced out of
 ####Role:
 
 I think of this guy like a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely.
+
+16 to hit with knives (which hit at 9P -3 AP), 15 to hit with the pistol. Decent dodge, but the real payoff is in full use of stealth skills for a face that can be very good at certain types of combat. 
 
 ####SINs:
 
