@@ -90,6 +90,6 @@ He's strong enough to rip a car door off its hinges before the driver peels away
 
 ####Role:
 
-Tank. The amount of incoming damage this character can take is absurd. 22 armor and 9 to dodge so almost every damage resistance roll will be body + modified armor: potentially 20 DR for every hit that lands. If they do land, any hit >1 gets reduced by 1 and the character can take 5 hits before facing a wound penalty. Hit with an assault rifle with APDS rounds, they still roll 16 to resist damage (with few net hits, the damage could be stun!).
+Tank. The amount of incoming damage this character can take is absurd. 22 armor and 9 to dodge so almost every damage resistance roll will be body + modified armor: potentially 20 DR for every hit that lands. If they do land, any hit >1 gets reduced by 1 and the character can take 5 hits before facing a wound penalty. Hit with an assault rifle with APDS rounds, they still roll 16 to resist damage.
 
 ####SINs:

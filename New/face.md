@@ -91,11 +91,15 @@ A former rank and file of security for a Wuxing subsidiary, he was forced out of
 
 ####Role:
 
-I think of this guy like a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely.
+This is the character I've toyed with the most. He was once very heavy into cyberware, then unarmed, then secret agent and now this. All the while, the skillset was largely kept constant--46/10 with heavy investment in social skills and deception. This allowed for two combat skills which would be servicable in all ways even with lower stats. Now that I've invested nearly entirely in magic for adept powers, I can raise the stats back up and invest in reaction heavily.
 
-16 to hit with knives (which hit at 9P -3 AP), 15 to hit with the pistol. Decent dodge, but the real payoff is in full use of stealth skills for a face that can be very good at certain types of combat. Burning edge when hitting an unsuspecting opponent with a knife (no dodge roll unless they overcome surprise, so all hits are net hits) will give 19 dice to hit. 
+The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Even astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept. But his powers are simple: get into a superior position via stealth or persuasion and then strike with lethal force. 
 
-It's also a type of character (physical adept) that can be interesting in combat, but in an intruiging way. My other adept is all combat--max stats and adept powers (including a quality to boost magic one more). This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded role-player. 
+In close combat he is 16 to hit with knives (which hit at 9P -3 AP). Burning an edge only adds 3, but net hits on a relatively unarmed and unsuspecting target will be brutal. He's competent with ranged combat (15 to hit) and has decent dodge. Taking damage will reduce that output considerably so he needs support and/or surprise.
+
+Taking advantage of social and stealth skills to gain that support will be just as fun. He's a fair generalist, but very good at donning a fake uniform and slipping past some guards. Once inside he can avoid combat or pick targets off one by one. 
+
+This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 
 ####SINs:
 
