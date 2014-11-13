@@ -26,7 +26,7 @@ ____
 ____
 ####Active skills:
 
-- Athletics skill group (5), Firearms skill group (3), Outdoors skill group (3), Stealth skill group (2), Spellcasting (6 + combat), Perception (6 + searching) Astral Combat (6 + spirits), Counterspelling (6 + combat), Banishing (6), Arcana (4 + focus design), Artificing (4 + metamagic), First aid (3), Pilot ground craft (3 + bike), Locksmith (2), Pilot water craft (2)
+- Firearms skill group (3), Outdoors skill group (3), Stealth skill group (2), Athletics skill group (2), Spellcasting (6 + combat), Perception (6 + searching), Astral Combat (6 + spirits), Counterspelling (6 + combat), Banishing (6), Arcana (4 + focus design), Artificing (4 + metamagic), Summoning (3), Pilot ground craft (3 + bike), First aid (2), Pilot water craft (1)
 
 
 ####Knowledge skills:
@@ -41,9 +41,8 @@ ____
 
 ####Contacts:
 
-- Street mage (con 1, loy 3)
-- Salish scout (con 3, loy 3)
-- State official (con 2, loy 3)
+- Salish scout (con 4, loy 3)
+- State official (con 2, loy 5)
 
 ____
 ####Attributes
