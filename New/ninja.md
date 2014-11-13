@@ -32,11 +32,11 @@ ____
 ____
 ####Active skills:
 
-- Athletics skill group (5), Stealth (6), Blades (6 [8] + swords), Throwing weapons (4 + blades), Navigation (5 + celestial), Survival (4), Tracking (4), Perception (3), First aid (1)
+- Athletics skill group (5), Blades (6 [8] + swords), Throwing weapons (5 + blades), Stealth (5), Navigation (5 + celestial), Survival (4), Tracking (4), Perception (3), First aid (1)
 
 ####Knowledge skills:
 
-- Everett area (3), Redmond area (3), Renraku special forces (3), Magic lore (1)
+- Everett area (3), Redmond area (3), Renraku special forces (2), Magic lore (1), Ares (1)
 
 ####Languages:
 
@@ -61,7 +61,7 @@ ____
 - EDG: 3
 - ESS: 6
 - MAG: 5
-- Initiative: 10 [11] + 1D6 [3D6]
+- Initiative: 10 [11] + 1D6 [2D6]
 - Money: 1500 + 3D6 * 60
 - Karma: 0
 
@@ -92,7 +92,7 @@ H.H.
 
 ####Role:
 
-15 to hit with the katana at 11P -3AP. Against relatively unarmored targets, this should be pretty effective. 
+15 to hit with the katana at 11P -3AP. Against relatively unarmored targets, this should be pretty effective. 12 to hit at range with 8P -1AP throwing knives.
 
 I don't know if I would play this character but they're an interesting attempt to make a physical specialist that isn't a troll. Stealth and athletics checks should be made handily and the character can make their way around the city with little trouble. 
 
