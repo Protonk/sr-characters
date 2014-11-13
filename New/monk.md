@@ -91,7 +91,7 @@ Augustine
 
 Wreck face. Maybe not the most fun but potentially the most dominant combat character in many settings. 
 
-Exceptional attribute boosts Magic, with the choice of Human (7) and Magic (C) allowing me to maximize both edge and magic. I can then stack on all the flat, undispellable adept powers. It leaves room for minimal skills and money but with a options for ranged and melee as well as lots of mobility.
+Exceptional attribute boosts Magic, with the choice of Human (7) and Magic (C) allowing me to maximize both edge and magic. I can then stack on all the flat, undispellable adept powers i want. It leaves room for minimal skills and money but options for ranged and melee as well as lots of mobility.
 
 It's unbelievably tuned. This guy gets 17 dice to hit with the assault rifle. Only 13 to hit with the katana but if I spend an edge I get 19 to hit--I have 6 edge to spend. 17 hits on the assault rifle means that against someone with ~ 10 dodge (pretty standard) I'll hit nearly 90% of the time with an average 2 net hits.
 
