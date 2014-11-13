@@ -52,14 +52,14 @@ ____
 ____
 ####Attributes
 
-- AGI: 5
+- AGI: 6
 - STR: 5
 - CHA: 4
 - LOG: 2
 - INT: 5
 - REA: 1 [2]
 - BOD: 4
-- WIL: 6
+- WIL: 5
 - EDG: 2
 - ESS: 5.0
 - MAG: 5 [4]
@@ -96,8 +96,8 @@ Spade
 
 A very physical version of the occult investigator. Able to astrally perceive (and do combat with spirits), their skill set is focused on tracking down magicians and artificers through forensics or an information network. If you need to find a hermit or a way in to a heavily warded compound and no one else can do it, you call her. 
 
-Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 12 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is also 13 to hit, so only magic opponents need to be engaged in melee.
+Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 13 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is also 14 to hit, so only magic opponents need to be engaged in melee.
 
-Perception and assensing are boosted, as is intuition and willpower. Astral chameleon is chosen to better sneak up on quarry, first impression to smooth the way along that information network. These skills will further the legwork in any run, but are perfect for investigating magic.
+Perception and assensing are boosted, as are investigatory magic skills. Astral chameleon is chosen to better sneak up on quarry, first impression to smooth the way along that information network. These skills will further the legwork in any run, but are perfect for investigating magic.
 
 ####SINs:
