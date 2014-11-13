@@ -36,7 +36,7 @@ ____
 
 ####Languages:
 
-- English N, Orâ€™zet (3)
+- English N, Or-zet (3)
 
 ____
 
@@ -80,12 +80,14 @@ ____
 - damage resistance roll: 7 plus modified armor value
 - 12 to dodge
 
-
 ____
-
 ####Handle:
 
 Indiana
+
+####Role:
+
+13P -8 AP, reach of 2. This character is built around the monofilament whip. Only 14 to hit, but that will change with a synthetic arm (becoming 17 to hit). Bone lacing with orthoskin allows for some flat armor value to handle incoming hits, but it isn't much compared to the tank. If he hits, it'll hurt. Burning edge to land important hits will offer 19 to hit.
 
 ####Goals (in rough order of current importance):
 
