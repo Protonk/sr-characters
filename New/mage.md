@@ -26,19 +26,17 @@ ____
 ____
 ####Active skills:
 
-- Firearms skill group (3), Outdoors skill group (3), Stealth skill group (2), Athletics skill group (2), Spellcasting (6 + combat), Perception (6 + searching), Astral Combat (6 + spirits), Counterspelling (6 + combat), Banishing (6), Arcana (4 + focus design), Artificing (4 + metamagic), Summoning (3), Pilot ground craft (3 + bike), First aid (2), Pilot water craft (1)
-
+- Firearms skill group (3), Outdoors skill group (3), Stealth skill group (2), Athletics skill group (2), Spellcasting (6 + combat), Perception (6 + searching), Assensing (6 + metahumans), Astral Combat (6 + spirits), Counterspelling (6 + combat), Banishing (4), Arcana (4 + focus design), Artificing (4 + metamagic), First aid (3), Pilot ground craft (2 + bike), Pilot water craft (1)
 
 ####Knowledge skills:
 
-- Magic theory (3), Seattle boondocks (2)
+- Seattle outskirts (4 + salish land), Talismongers (1), Magic theory (1)
 
 ####Languages:
 
-- English N, Salish (4), Lakota (3), Crow (2)
+- English N, Salish (4), Lakota (1)
 
 ____
-
 ####Contacts:
 
 - Salish scout (con 4, loy 3)
@@ -50,10 +48,10 @@ ____
 - AGI: 2
 - STR: 1
 - CHA: 5
-- LOG: 4
-- INT: 3
+- LOG: 2
+- INT: 4
 - REA: 3
-- BOD: 3
+- BOD: 4
 - WIL: 6
 - EDG: 2
 - ESS: 6
@@ -65,18 +63,18 @@ ____
 
 ####Inherent limits:
 
-- Mental: 5
-- Physical: 2
-- Social: 6
+- Mental: 4
+- Physical: 3
+- Social: 5
 
 ####Computed stats:
 
 - Condition:
-	- Physical: 9
+	- Physical: 10
 	- Stun: 11
 	- 3 wound boxes
 - armor: 9
-- damage resistance roll: 3 plus modified armor value
+- damage resistance roll: 4 plus modified armor value
 - 7 to dodge
 
 ____
@@ -84,6 +82,6 @@ ____
 
 ####Role:
 
-A skill heavy mage. Knows most everything about magic, but is a hermit. FC allows us to maintain an increased reflex spell of force 4, which will boost initiative considerably. 11 to resist drain. Combat spells are cast with 14 to hit.
+A skill heavy mage. FC allows us to maintain an increased reflex spell of force 4, which will boost initiative considerably. 11 to resist drain. Combat spells are cast with 14 to hit.
 
-The mix of skills is interesting. Combat heavy on magical skills, with non-magical built around a survivalist role. Physical stats are low, but willpower and intuition are relatively high, and the low stats are balanced with many survival, stealth and athletic skills. Arcana and artificing (the free rating 4 skills from magic) are used together to create metamagic foci for hiding signatures.
+The mix of skills is interesting. Combat heavy on magical skills, with non-magical built around a survivalist role. Physical stats are low, but willpower and intuition are relatively high, and the low stats are balanced with many survival, stealth and athletic skills. This is a bush wizard. A capable scout--enlightened muscle.

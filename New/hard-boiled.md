@@ -10,6 +10,7 @@ ____
 
 - Bone density augmentation (rating 3)
 - reflex recorder [unarmed]
+- cybereyes (rating 1: smartlink)
 
 ####Equipment:
 
@@ -32,7 +33,7 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (4), Acting skill group (1), Astral combat (6) + Assensing (6 [7] + astral signatures), Perception (6 [7]), Unarmed (6 [7]), Pistols (5 + revolvers), Artificing (2 + focus analysis), Arcana (2 + focus design), Tracking (1)
+- Stealth skill group (4), Acting skill group (1), Astral combat (6) + Assensing (6 [7] + astral signatures), Perception (6 [7]), Unarmed (6 [7] + subduing), Pistols (4 + revolvers), Artificing (2 + focus analysis), Arcana (2 + focus design), Tracking (1)
 
 ####Knowledge skills:
 
@@ -61,7 +62,7 @@ ____
 - BOD: 4
 - WIL: 6
 - EDG: 2
-- ESS: 5.3
+- ESS: 5.1
 - MAG: 5 [4]
 - Initiative: 7 [8] + 1D6 [2D6]
 - Money: 2400 + 4D6 * 100
@@ -96,7 +97,7 @@ Spade
 
 A very physical version of the occult investigator. Able to astrally perceive (and do combat with spirits), their skill set is focused on tracking down magicians and artificers through forensics or an information network. If you need to find a hermit or a way in to a heavily warded compound and no one else can do it, you call her. 
 
-Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 12 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is also 13 to hit, so only magic opponents need to be engaged in melee.
+Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 12 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is 13 to hit, so only magic opponents need to be engaged in melee.
 
 Perception and assensing are boosted, as are investigatory magic skills. Astral chameleon is chosen to better sneak up on quarry, analytical mind to boost low logic for investigation--8 dice for investigating a magical artifact is nice though. I just need a few hits to know it is significant enough to take to a talismonger. These skills will further the legwork in any run, but are perfect for investigating magic.
 

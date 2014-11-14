@@ -46,36 +46,35 @@ ____
 ____
 ####Attributes
 
-- AGI: 3 [4]
+- AGI: 2 [3]
 - STR: 7
 - CHA: 1
 - LOG: 1
 - INT: 3
-- REA: 5 [6]
+- REA: 3 [4]
 - BOD: 9
-- WIL: 3
+- WIL: 6
 - EDG: 1
 - ESS: 0.75
-- Initiative: 8 [9] + 1D6 [2D6]
+- Initiative: 6 [7] + 1D6 [2D6]
 - Money: 4575 + 3D6 * 50
 - Karma: 0
 
 ####Inherent limits:
 
-- Mental: 2
-- Physical: 8 [8]
+- Mental: 3
+- Physical: 9 [9]
 - Social: 2
 
 ####Computed stats:
 
 - Condition:
 	- Physical: 15
-	- Stun: 9
+	- Stun: 11
 	- 5 wound boxes
-	- overflow: 10
 - armor: 8 naked, 12 from armor jacket, 2 from helmet (22 total!)
 - damage resistance roll: 16 plus modified armor value (always reduce damage >1 by 1 due to platelet factories)
-- 9 to dodge
+- 7 to dodge
 
 ____
 ####Handle:
@@ -90,6 +89,8 @@ He's strong enough to rip a car door off its hinges before the driver peels away
 
 ####Role:
 
-Tank. The amount of incoming damage this character can take is absurd. 22 armor and 9 to dodge so almost every damage resistance roll will be body + modified armor: potentially 20 DR for every hit that lands. If they do land, any hit >1 gets reduced by 1 and the character can take 5 hits before facing a wound penalty. Hit with an assault rifle with APDS rounds, they still roll 16 to resist damage.
+Tank. The amount of incoming damage this character can take is absurd. 22 armor and 9 to dodge so almost every damage resistance roll will be body + modified armor: potentially 20 DR for every hit that lands. Hit with an assault rifle with APDS rounds, they still roll 16 to resist damage. If they do land, any hit >1 gets reduced by 1 and the character can take 5 hits before facing a wound penalty.
+
+They can be something of a menace at range, with 12 to hit on the assault rifle, but their real danger is forcing a melee confrontation to soak damage. Much damage will be stun, so body is raised very high but not maxed in order to allow willpower to max at an even number. This also grants some magic resistance. 
 
 ####SINs:

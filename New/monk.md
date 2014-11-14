@@ -22,13 +22,14 @@ ____
 ####Adept powers: 
 
 - Improved reflexes (level 3)
-- Improved agility (level 3)
-- Improved ability: Automatics (level 1)
+- Improved agility (level 2)
+- Improved ability: Automatics (level 2)
+- Combat sense (level 1)
 
 ____
 ####Active skills:
 
-- Automatics (6 [7] + assault rifles), Gymnastics (5 + parkour), Running (5), Blades (3 + swords), Sneaking (2)
+- Automatics (6 [8] + assault rifles), Gymnastics (5 + parkour), Running (5), Blades (3 + swords), Sneaking (2)
 
 ####Knowledge skills:
 
@@ -47,7 +48,7 @@ ____
 ____
 ####Attributes
 
-- AGI: 5 [8]
+- AGI: 5 [7]
 - STR: 5
 - CHA: 1
 - LOG: 1
@@ -76,7 +77,7 @@ ____
 	- 4 wound boxes
 - armor: 11
 - damage resistance roll: 5 plus modified armor value
-- 14 to dodge
+- 15 to dodge
 
 ____
 ####Handle:
@@ -93,11 +94,11 @@ Wreck face. Maybe not the most fun but potentially the most dominant combat char
 
 Exceptional attribute boosts magic, with the choice of Human (7) and Magic (C) allowing me to maximize both edge and magic. I can then stack on all the flat, undispellable adept powers I want. It leaves room for minimal skills and money but options for ranged and melee as well as lots of mobility.
 
-It's unbelievably tuned. This guy gets 17 dice to hit with the assault rifle. Against someone with ~ 10 dodge (pretty standard for low/mid level grunts) I'll hit nearly 90% of the time with an average 2 net hits. Only 13 to hit with the katana but if I spend an edge I get 19 to hit--I have 6 edge to spend. 
+It's unbelievably tuned. This guy gets 17 dice to hit with the assault rifle. Against someone with ~ 10 dodge (pretty standard for low/mid level grunts) I'll hit nearly 90% of the time with an average 2 net hits. Only 12 to hit with the katana but if I spend an edge I get 18 to hit--I have 6 edge to spend. 
 
 I have 14 + 4D6 initiative. 98% of the time, I'll get three moves in an combat turn. 20% of the time, I'll get four. 
 
-14 dodge means that against an attacker with 12 dice, I'll dodge 70% of the time, 90% of the time, net hits will be limited to 1, with high pain tolerance affording some margin for hits that land. Damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
+15 dodge means that against an attacker with 12 dice, I'll dodge 73% of the time, 90% of the time, net hits will be limited to 1, with high pain tolerance affording some margin for hits that land. Damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
 
 
 
