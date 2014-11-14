@@ -32,7 +32,7 @@ ____
 ____
 ####Active skills:
 
-- Athletics skill group (5), Blades (6 [8] + swords), Throwing weapons (5 + blades), Stealth (5), Navigation (5 + celestial), Survival (4), Tracking (4), Perception (3), First aid (1)
+- Athletics skill group (5), Blades (7 [9] + swords), Throwing weapons (5 + blades), Tracking (5 + urban), Stealth (4), Navigation (4 + celestial), Perception (3), Arcana (3), Survival (2)
 
 ####Knowledge skills:
 
@@ -92,8 +92,12 @@ H.H.
 
 ####Role:
 
-15 to hit with the katana at 11P -3AP. Against relatively unarmored targets, this should be pretty effective. 12 to hit at range with 8P -1AP throwing knives.
+16 to hit with the katana at 11P -3AP. Against relatively unarmored targets, this should be pretty effective. 12 to hit at range with 8P -1AP throwing knives.
 
-I don't know if I would play this character but they're an interesting attempt to make a physical specialist that isn't a troll. Stealth and athletics checks should be made handily and the character can make their way around the city with little trouble. 
+I don't know if I would play this character but they're an interesting attempt to make a physical specialist that isn't a troll. Stealth and athletics checks should be made handily and the character can make their way around the city with little trouble.
+
+One way this character is very interesting is as an inverse to the detective. She seeks magical prey, he prefers non-magical prey. Someone could notice a strong adept if they were magical, but a paranoid guy with info in his brain who needs to be rubbed out will deploy every technical measure available and fail because this character doesn't rely on technical measures. Everything is analog. But they can potentially roll 13 on navigation and 12/14 on tracking. 
+
+Progression by adding adept powers could make this guy incredible. Like indiana (who needs 3 cyberlimbs to become a walking weapon), masking could improve stealth against magical opponents but it's also a +1 to any attribute.
 
 ####SINs:
