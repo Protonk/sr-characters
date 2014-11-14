@@ -98,6 +98,6 @@ A very physical version of the occult investigator. Able to astrally perceive (a
 
 Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 12 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is also 13 to hit, so only magic opponents need to be engaged in melee.
 
-Perception and assensing are boosted, as are investigatory magic skills. Astral chameleon is chosen to better sneak up on quarry, analytical mind to boost low logic for investigation. These skills will further the legwork in any run, but are perfect for investigating magic.
+Perception and assensing are boosted, as are investigatory magic skills. Astral chameleon is chosen to better sneak up on quarry, analytical mind to boost low logic for investigation--8 dice for investigating a magical artifact is nice though. I just need a few hits to know it is significant enough to take to a talismonger. These skills will further the legwork in any run, but are perfect for investigating magic.
 
 ####SINs:
