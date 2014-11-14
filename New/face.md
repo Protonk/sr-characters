@@ -12,19 +12,19 @@ ____
 - Weapons: Combat knife (concealable holster), Browning Ultra Power (80 regular rounds, 80 APDS rounds, 4 spare clips)
 - Comms: Meta Link (rating 1), sub-vocal mic
 - Armor: Actioneer business clothes, Lined coat
-- Gear: lockpick set, medkit (rating 2 [3] + 3 supplies), restraints (plastic), crowbar, monofilament chainsaw
-- Other: RFID, security and stealth tags, standard credstick, silver credstick
+- Gear: lockpick set, medkit (rating 2 [3] + 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
+- Other: RFID, security and stealth tags, standard credstick, silver credstick, microtranceiver.
 - 1 rating 4 SINs with rating 4 [concealed carry, magic] licenses, 1 rating 2 fake SIN with rating 2 fake license [ground craft]
 - Low Lifestyle (obscure, dangerous, cramped) [2 months]
 
 ____
 ####Active skills:
 
-- Stealth skill group (6), Athletics skill group (4), Blades (6 [7] + knives), Pistols (6 + semi-auto), Etiquette (5 + corporate), Con (5 + fast talking), Perception (5), Survival (4), Negotiation (4), First Aid (3), Locksmith (2), Pilot ground craft (2), Palming (2)
+- Stealth skill group (5), Athletics skill group (3), Outdoors skill group (2), Blades (6 [7] + knives), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (4), Negotiation (3 + diplomacy), First Aid (3), Palming (3 + pickpocket), Pilot ground craft (1)
 
 ####Knowledge skills:
 
-- Corporate security (4 + Wuxing), Security companies (2), Special forces (2), Hong Kong Triads (1)
+- Corporate security (2 + Wuxing), Military (2 + special forces), Hong Kong Triads (1 + red dragons)
 
 ####Languages:
 
@@ -61,7 +61,7 @@ ____
 - ESS: 6
 - Initiative: 8 [10] + 1D6 [3D6]
 - Karma: 0
-- Cash: 2915 + 3D6*60
+- Cash: 2555 + 3D6*60
 
 ####Inherent limits:
 
@@ -97,7 +97,7 @@ The result is something of a sneaky face. He's got all the face skills (and a li
 
 In close combat he is 16 to hit with knives (which hit at 9P -3 AP). Burning an edge only adds 3, but net hits on a relatively unarmed and unsuspecting target will be brutal. He's competent with ranged combat (15 to hit) and has decent dodge. Taking damage will reduce that output considerably so he needs support and/or surprise.
 
-Taking advantage of social and stealth skills to gain that support will be just as fun. He's a fair generalist, but very good at donning a fake uniform and slipping past some guards. Once inside he can avoid combat or pick targets off one by one. 
+Taking advantage of social and stealth skills to gain that support will be just as fun. Skill specialization can make a character very powerful in some narrow ways (it's a 2:1 deal on dice per point at creation). In this case I think they're appropriate to the character as well (their background and role), but outdoors and athletics are chosen to not default on physical tests and stealth is chosen to be quite good at sneaking/disguise (both of which are further boosted by the qualities). Then considerable combat skills are established/maxed and "face" (for which there are few if you can target well) are used, with appropriate specializations. So I could roll 11 on a test to talk my way past a corporate guard, potentially more. Or I could roll 12 to pickpocket them!
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 
