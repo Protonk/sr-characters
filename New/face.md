@@ -20,7 +20,7 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (5), Athletics skill group (3), Outdoors skill group (2), Blades (6 [7] + knives), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (4), Negotiation (3 + diplomacy), First Aid (3), Palming (3 + pickpocket), Pilot ground craft (1)
+- Stealth skill group (5), Athletics skill group (3), Outdoors skill group (2), Blades (6 [9] + knives), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (4), Negotiation (3), First Aid (3), Palming (3 + pickpocket), Pilot ground craft (1)
 
 ####Knowledge skills:
 
@@ -39,34 +39,38 @@ ____
 ____
 ####Adept powers:
 
-- Improved reflexes (level 2)
-- improved agility (level 2)
+- Improved reflexes (level 3)
+- improved strength (level 1)
 - Critical strike (blades)
-- Improved ability (blades)
+- Improved ability, blades (level 3)
 - Combat sense (level 1)
+
+####Focus:
+
+* Qi focus (strength 4)
 
 ____
 ####Attributes
 
-- AGI: 5 [7]
-- STR: 5
+- AGI: 4 
+- STR: 6 [7]
 - CHA: 3
 - LOG: 2
 - INT: 4
-- REA: 4 [6]
+- REA: 4 [7]
 - BOD: 3
 - WIL: 3
 - EDG: 3
 - MAG: 6
 - ESS: 6
-- Initiative: 8 [10] + 1D6 [3D6]
+- Initiative: 8 [11] + 1D6 [4D6]
 - Karma: 0
 - Cash: 2555 + 3D6*60
 
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 5 [6]
+- Physical: 6 [7]
 - Social: 5
 
 ####Computed stats:
@@ -78,7 +82,7 @@ ____
 	- overflow: 9
 - armor: 8 from clothes, 9 from others
 - damage resistance roll: 3 plus modified armor value
-- 11 to dodge, always get surprise test
+- 12 to dodge, always get surprise test
 
 ____
 ####Handle:
@@ -95,9 +99,9 @@ This is the character I've toyed with the most. He was once very heavy into cybe
 
 The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Even astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept. But his powers are simple: get into a superior position via stealth or persuasion and then strike with lethal force. 
 
-In close combat he is 16 to hit with knives (which hit at 9P -3 AP). Burning an edge only adds 3, but net hits on a relatively unarmed and unsuspecting target will be brutal. He's competent with ranged combat (15 to hit) and has decent dodge. Taking damage will reduce that output considerably so he needs support and/or surprise.
+In close combat he is 15 to hit with knives (which hit at 11P -3 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. He's competent with ranged combat (12 to hit) and has decent dodge. Taking damage will reduce that output considerably so he needs support and/or surprise.
 
-Taking advantage of social and stealth skills to gain that support will be just as fun. Skill specialization can make a character very powerful in some narrow ways (it's a 2:1 deal on dice per point at creation). In this case I think they're appropriate to the character as well (their background and role), but outdoors and athletics are chosen to not default on physical tests and stealth is chosen to be quite good at sneaking/disguise (both of which are further boosted by the qualities). Then considerable combat skills are established/maxed and "face" (for which there are few if you can target well) are used, with appropriate specializations. So I could roll 11 on a test to talk my way past a corporate guard, potentially more. Or I could roll 12 to pickpocket them!
+Taking advantage of social and stealth skills to gain that support will be just as fun. Skill specialization can make a character very powerful in some narrow ways (it's a 2:1 deal on dice per point at creation). In this case I think they're appropriate to the character as well (their background and role), but outdoors and athletics are chosen to not default on physical tests and stealth is chosen to be quite good at sneaking/disguise (both of which are further boosted by the qualities). Then considerable combat skills are established/maxed and "face" (for which there are few if you can target well) skills are chosen, with appropriate specializations. So I could roll 11 on a test to talk my way past a corporate guard, potentially more. Or I could roll the same to pickpocket them!
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 

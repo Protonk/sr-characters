@@ -24,16 +24,20 @@ ____
 - Improved reflexes (level 3)
 - Improved agility (level 2)
 - Improved ability: Automatics (level 2)
-- Combat sense (level 1)
+- Combat sense (level 3)
+
+####Focus:
+
+* Qi focus (rating 4)
 
 ____
 ####Active skills:
 
-- Automatics (6 [8] + assault rifles), Gymnastics (5 + parkour), Running (5), Blades (3 + swords), Sneaking (2)
+- Automatics (6 [8] + assault rifles), Gymnastics (5 + parkour), Running (5), Blades (3 + swords)
 
 ####Knowledge skills:
 
-- Renraku (3), Seattle docks (3), Squats (2), Street drugs (1), Magic lore (1)
+- Renraku (3), Seattle docks (3), Squats (3), Street drugs (2), Magic lore (1)
 
 ####Languages:
 
@@ -42,8 +46,7 @@ ____
 ____
 ####Contacts:
 
-- Street fighter (con 1, loy 3)
-- Fixer (con 1, loy 1)
+- Fixer (con 3, loy 1)
 
 ____
 ####Attributes
@@ -77,7 +80,7 @@ ____
 	- 4 wound boxes
 - armor: 11
 - damage resistance roll: 5 plus modified armor value
-- 15 to dodge
+- 17 to dodge
 
 ____
 ####Handle:
@@ -98,7 +101,7 @@ It's unbelievably tuned. This guy gets 17 dice to hit with the assault rifle. Ag
 
 I have 14 + 4D6 initiative. 98% of the time, I'll get three moves in an combat turn. 20% of the time, I'll get four. 
 
-15 dodge means that against an attacker with 12 dice, I'll dodge 73% of the time, 90% of the time, net hits will be limited to 1, with high pain tolerance affording some margin for hits that land. Damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
+17 dodge means that against an attacker with 12 dice, I'll dodge 80% of the time, with high pain tolerance affording some margin for hits that land. Damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
 
 
 
