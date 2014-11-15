@@ -10,13 +10,12 @@ ____
 
 - Bone density augmentation (rating 3)
 - reflex recorder [unarmed]
-- cybereyes (rating 1: smartlink)
 
 ####Equipment:
 
-- Armor: Lined coat.
-- Weapons: Ruger Super Warhawk (wireless smartgun, 60 regular rounds)
-- Other: medkit (rating 3 [1], supplies for 2)
+- Armor: Lined coat, actioneer business clothes
+- Weapons: Ruger Super Warhawk (60 regular rounds)
+- Other: medkit (rating 3 [1], supplies for 1), survival kit, forensics kit.
 - Electronics: Renraku Sensei, RFID tags [mostly stealth with some bugs] 
 - Lifestyle: Middle [2 months]
 - Ident: 1 rating 4 fake SIN with rating 4 fake licenses [cyberware, magic], 1 rating 3 fake SIN with rating 4 fake licenses [cyberware, pistol], 1 rating 2 fake SIN with no licenses
@@ -25,19 +24,23 @@ ____
 ####Adept powers: 
 
 - Increased reflexes (level 1)
+- Spell resistance (level 2)
 - Astral perception
 - Killing hands
 - Critical strike (unarmed)
 - Enhanced perception
 
+####Focus:
+
+* Qi (force 3)
 ____
 ####Active skills:
 
-- Stealth skill group (4), Acting skill group (1), Astral combat (6) + Assensing (6 [7] + astral signatures), Perception (6 [7]), Unarmed (6 [7] + subduing), Pistols (4 + revolvers), Artificing (2 + focus analysis), Arcana (2 + focus design), Tracking (1)
+- Stealth skill group (4), Acting skill group (1), Assensing (6 [7] + astral signatures), Perception (6 [7]), Unarmed (6 [7] + subduing), Counterselling (5 + combat), Pistols (4 + revolvers), Artificing (2 + focus analysis), Arcana (2 + focus design), Tracking (1)
 
 ####Knowledge skills:
 
-- Street magic (4), Talismongers (4), Seattle area native politics (2), 20th century detective novels (2), Astral hangouts (2)
+- Street magic (4), Talismongers (4), Seattle area native politics (2), 20th century detective novels (2), Astral hangouts (2), Focus lore (1)
 
 ####Languages:
 
@@ -62,10 +65,10 @@ ____
 - BOD: 4
 - WIL: 6
 - EDG: 2
-- ESS: 5.1
+- ESS: 5.5
 - MAG: 5 [4]
 - Initiative: 7 [8] + 1D6 [2D6]
-- Money: 2400 + 4D6 * 100
+- Money: 2100 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
@@ -97,7 +100,7 @@ Spade
 
 A very physical version of the occult investigator. Able to astrally perceive (and do combat with spirits), their skill set is focused on tracking down magicians and artificers through forensics or an information network. If you need to find a hermit or a way in to a heavily warded compound and no one else can do it, you call her. 
 
-Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 12 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is 13 to hit, so only magic opponents need to be engaged in melee.
+Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 12 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is 11 to hit, so only magic opponents need to be engaged in melee. Against mages, this character walls direct damage. Spell resistance is 15!
 
 Perception and assensing are boosted, as are investigatory magic skills. Astral chameleon is chosen to better sneak up on quarry, analytical mind to boost low logic for investigation--8 dice for investigating a magical artifact is nice though. I just need a few hits to know it is significant enough to take to a talismonger. These skills will further the legwork in any run, but are perfect for investigating magic.
 
