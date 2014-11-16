@@ -24,7 +24,6 @@ ____
 ####Adept powers: 
 
 - Increased reflexes (level 1)
-- Spell resistance (level 2)
 - Astral perception
 - Killing hands
 - Critical strike (unarmed)
@@ -32,15 +31,15 @@ ____
 
 ####Focus:
 
-* Qi (force 3)
+* Masking (force 3)
 ____
 ####Active skills:
 
-- Stealth skill group (4), Acting skill group (1), Assensing (6 [7] + astral signatures), Perception (6 [7]), Unarmed (6 [7] + subduing), Counterselling (5 + combat), Pistols (4 + revolvers), Artificing (2 + focus analysis), Arcana (2 + focus design), Tracking (1)
+- Stealth skill group (4), Acting skill group (1), Assensing (6 [7] + astral signatures), Perception (6 [7]), Unarmed (5 [6] + subduing), Counterselling (4 + combat), Astral combat (3 + spirits), Artificing (2 + focus analysis), Arcana (2 + focus design), Pistols (1 + revolvers), Tracking (1)
 
 ####Knowledge skills:
 
-- Street magic (4), Talismongers (4), Seattle area native politics (2), 20th century detective novels (2), Astral hangouts (2), Focus lore (1)
+- Street magic (4), Talismongers (4), Seattle area native politics (2), 20th century detective novels (2), Astral hangouts (2)
 
 ####Languages:
 
@@ -100,8 +99,8 @@ Spade
 
 A very physical version of the occult investigator. Able to astrally perceive (and do combat with spirits), their skill set is focused on tracking down magicians and artificers through forensics or an information network. If you need to find a hermit or a way in to a heavily warded compound and no one else can do it, you call her. 
 
-Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 12 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is 11 to hit, so only magic opponents need to be engaged in melee. Against mages, this character walls direct damage. Spell resistance is 15!
+Combat is fairly well rounded, with nothing spectacular save the ability to deal physical damage at 11 to hit for physical or magic opponents. It's 9P/S for both, but that's some damage. Targeted augments are chosen to boost unarmed damage. The pistol is 9 to hit, so the focus is track and locate, not combat. 
 
-Perception and assensing are boosted, as are investigatory magic skills. Astral chameleon is chosen to better sneak up on quarry, analytical mind to boost low logic for investigation--8 dice for investigating a magical artifact is nice though. I just need a few hits to know it is significant enough to take to a talismonger. These skills will further the legwork in any run, but are perfect for investigating magic.
+Perception and assensing are boosted, as are investigatory magic skills. Astral chameleon and a masking focus are chosen to better sneak up on quarry, analytical mind to boost low logic for investigation--8 dice for investigating a magical artifact is nice though. I just need a few hits to know it is significant enough to take to a talismonger. These skills will further the legwork in any run, but are perfect for investigating magic.
 
 ####SINs:

@@ -22,7 +22,7 @@ ____
 ####Equipment:
 
 - Armor: Armor jacket, lined coat, helmet 
-- Weapons: Stoner-Ares M202 MMG (gas vent (rating 3), wireless smartgun, 200 regular rounds, 200 APDS rounds, 250 tracer rounds, 4 spare clips), Ruger Super Warhawk (wireless smartgun, 60 APDS rounds), ArmTech MGL-12 (wireless smartgun, 24 frag, 24 HE rounds)
+- Weapons: Stoner-Ares M202 MMG (gas vent (rating 3), wireless smartgun, 200 regular rounds, 200 APDS rounds, 200 tracer rounds, 4 spare clips), Ruger Super Warhawk (wireless smartgun, 60 APDS rounds), ArmTech MGL-12 (wireless smartgun, 24 frag, 24 HE rounds)
 - Other: medkit (rating 6 [1], rating 3 [2], supplies for 2), Biomonitor (wireless), DocWagon Gold contract
 - Vehicles: Harley-Davidson Scorpion
 - 1 rating 4 fake SIN with rating 4 licenses [cyberware, vehicle, pistol], 1 rating 2 fake SIN with rating 4 licenses [cyberware, vehicle]
@@ -35,7 +35,7 @@ ____
 
 ####Knowledge skills:
 
-- Heavy weapon knowledge (4), Sprawl life (2), Ares security forces (2), Skillsoft shops knowledge (1), Squats (1)
+- Heavy weapon knowledge (4), Sprawl life (2), Ares security forces (2), Seattle docks (1), Squats (1)
 
 ####Languages:
 
@@ -45,7 +45,7 @@ ____
 ####Contacts:
 
 - Smuggler (con 2, loy 1)
-- Skillsoft vendor (con 1, loy 2)
+- Arms dealer (con 1, loy 2)
 - Fixer (con 3, loy 2)
 
 ____
@@ -63,7 +63,7 @@ ____
 - ESS: 1.05
 - Initiative: 5 [7] + 1D6 [3D6]
 - Karma: 1
-- Cash: 2700 + 4D6*100
+- Cash: 2880 + 4D6*100
 
 ####Inherent limits:
 
