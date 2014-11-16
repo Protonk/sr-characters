@@ -21,7 +21,7 @@ ____
 ____
 ####Magic:
 
-- Increase attribute
+- Increase willpower
 - Lightning bolt
 - Manabolt
 - Fireball
