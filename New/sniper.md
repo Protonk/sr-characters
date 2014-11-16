@@ -22,20 +22,20 @@ ____
 
 ####Equipment:
 
-- Weapons: Ares Desert Strike (wireless smartgun, bipod, 120 APDS rounds, 6 spare clips), Defiance T-250 (short barrelled, wireless smartgun, 50 gel rounds, 50 flechette rounds, 6 spare clips)
-- Armor: Lined coat, armor jacket, Chameleon suit (wireless, rating 3 wireless thermal dampening), clothes
-- Gear: Goggles (wireless, capacity 6: low light, thermographic, enhancement (rating 3), magnification), Headphones (wireless, capacity 6: spatial recognizer, sound filter (rating 2), enhancement (rating 2)) Monifilament chainsaw, survival kit
+- Weapons: Ares Desert Strike (wireless smartgun, bipod, 120 APDS rounds, 6 spare clips), Defiance T-250 (short barrelled, wireless smartgun, 50 gel rounds, 6 spare clips)
+- Armor: Lined coat, Chameleon suit (wireless, rating 3 wireless thermal dampening), clothes
+- Gear: Goggles (wireless, capacity 6: low light, enhancement (rating 3), magnification), Headphones (wireless, capacity 6: spatial recognizer, sound filter (rating 2), enhancement (rating 2)) Monifilament chainsaw
 - Sensors: Wall mounted sensor (motion(rating 3)) [2], wall mounted sensor (vision magnification (rating 3), laser range finder) [2], omni-direcitonal mic (audio enhancement (rating 3), sound filter (rating 1), spatial recognizer), Sensor Array (rating 5)
 - Countermeasures: Bug scanner (Rating 6) [3], Microtranceiver [3], RFID tags [25: many sensors but at least a few of each kind]
 - Electronics: Erika MCD-1 (virtual machine, decryption, trace), AR Gloves, wireless biomonitor
-- Other: Medkit (rating 3 [2], supplies for 3), Gold DocWagon contract, 20 Chem patches (Bliss)
+- Other: Medkit (rating 3 [2]), Gold DocWagon contract, 20 Chem patches (Bliss)
 - Ident: 2 rating 4 fake SINs with rating 3 fake licenses [cyberware, sensor equipment, concealed weapon, cyberdeck], 1 rating 3 fake sin with rating 4 fake licenses [cyberware, cyberdeck].
 - Lifestyle: High, obscure, special work area [6 months]
 
 ____
 ####Active skills:
 
-- Electronics skill group (2), Longarms (7 [8] + sniper rifles), Electronic warfare (3 + sensor operations), Perception (3), Armorer (2 + weapon accessories), Sneaking (2 [3]), Disguise (1), First aid (1)
+- Electronics skill group (2), Longarms (7 [8] + sniper rifles), Electronic warfare (4 + sensor operations), Perception (2), Armorer (2 + weapon accessories), Hacking (3 + devices), Sneaking (1), Cybercombat (1)
 
 ####Knowledge skills:
 
@@ -64,8 +64,8 @@ ____
 - EDG: 5
 - ESS: 1.0
 - Initiative: 6 [9] + 1D6 [2D6]
-- Money: 4,810 + 5D6 * 100
-- Karma: 2
+- Money: 1,010 + 5D6 * 100
+- Karma: 0
 
 ####Inherent limits:
 
