@@ -15,12 +15,13 @@ ____
 - Gear: lockpick set, medkit (rating 2 [3] + 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
 - Other: RFID, security and stealth tags, standard credstick, silver credstick, microtranceiver.
 - 1 rating 4 SINs with rating 4 [concealed carry, magic] licenses, 1 rating 2 fake SIN with rating 2 fake license [ground craft]
+- Focus: Qi (strength 4)
 - Low Lifestyle (obscure, dangerous, cramped) [2 months]
 
 ____
 ####Active skills:
 
-- Stealth skill group (5), Athletics skill group (3), Outdoors skill group (2), Blades (6 [9] + knives), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (4), Negotiation (3), First Aid (3), Palming (3 + pickpocket), Pilot ground craft (1)
+- Stealth skill group (6), Athletics skill group (3), Outdoors skill group (1), Blades (6 [9] + knives), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
 
 ####Knowledge skills:
 
@@ -44,10 +45,6 @@ ____
 - Critical strike (blades)
 - Improved ability, blades (level 3)
 - Combat sense (level 1)
-
-####Focus:
-
-* Qi focus (strength 4)
 
 ____
 ####Attributes

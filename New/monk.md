@@ -15,6 +15,7 @@ ____
 - Armor: Urban explorer jumpsuit (with helmet) 
 - Weapons: FN HAR (35 regular rounds, 140 APDS rounds, 5 spare clips), Katana
 - Other: medkit (rating 3 [1], supplies for 2)
+- Focus: Qi (rating 4)
 - Squatter [1 month]
 - 1 rating 3 fake SIN with 2 rating 3 fake licenses [rifle, magic]. 1 rating 2 fake SIN with no licenses
 
@@ -25,10 +26,6 @@ ____
 - Improved agility (level 2)
 - Improved ability: Automatics (level 2)
 - Combat sense (level 3)
-
-####Focus:
-
-* Qi focus (rating 4)
 
 ____
 ####Active skills:

@@ -16,7 +16,8 @@ ____
 - Armor: Lined coat, actioneer business clothes
 - Weapons: Ruger Super Warhawk (60 regular rounds)
 - Other: medkit (rating 3 [1], supplies for 1), survival kit, forensics kit.
-- Electronics: Renraku Sensei, RFID tags [mostly stealth with some bugs] 
+- Electronics: Renraku Sensei, RFID tags [mostly stealth with some bugs]
+- Focus: Masking metamagic (force 3)
 - Lifestyle: Middle [2 months]
 - Ident: 1 rating 4 fake SIN with rating 4 fake licenses [cyberware, magic], 1 rating 3 fake SIN with rating 4 fake licenses [cyberware, pistol], 1 rating 2 fake SIN with no licenses
 
@@ -31,7 +32,7 @@ ____
 
 ####Focus:
 
-* Masking (force 3)
+* 
 ____
 ####Active skills:
 

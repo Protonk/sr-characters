@@ -3,7 +3,7 @@ ____
 ####Qualities:
 
 - Negative: Addiction (stim patches, moderate)
-- Positive: Focused concentration (rating 4)
+- Positive: Focused concentration (rating 5)
 
 ____
 ####Equipment:
@@ -30,7 +30,7 @@ ____
 
 ####Knowledge skills:
 
-- Seattle outskirts (4 + salish land), Talismongers (1), Magic theory (1)
+- Seattle outskirts (4 + salish land), Talismongers (1), Magic theory (1), Paracritters (1)
 
 ####Languages:
 
