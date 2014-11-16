@@ -3,7 +3,7 @@ ____
 ####Qualities:
 
 - Negative: Code of honor (warrior's code), Corporate limited SIN
-- Positive: Toughness, Natural athelete, Will to live (rating 2)
+- Positive: Toughness, High pain tolerance (rating 2)
 
 ____
 ####Augments:
@@ -30,12 +30,12 @@ ____
 
 - Mystic armor (level 6)
 - Improved automatics (level 1)
-- Light body (level 1)
+- Direction sense
 
 ____
 ####Active skills:
 
-- Automatics (6 [8] + assault rifles), Tracking (3 + urban), Gymnastics (3), Running (2 + sprinting), Demolitions (2), Pilot ground craft (1)
+- Automatics (6 [8] + assault rifles), Tracking (3 + urban), Gymnastics (2), Running (2 + sprinting), Demolitions (2), Pilot ground craft (1), Navigation (1)
 
 ####Knowledge skills:
 
@@ -65,13 +65,13 @@ ____
 - ESS: 5.05
 - MAG: 4 [3]
 - Initiative: 10 + 1D6
-- Money: 2200 + 5D6 * 500
+- Money: 1900 + 5D6 * 500
 - Karma: 0
 
 ####Inherent limits:
 
 - Mental: 4
-- Physical: 7
+- Physical: 6
 - Social: 4
 
 ####Computed stats:
@@ -92,16 +92,18 @@ Omar
 
 ####Bio:
 
-I had a lot of resources and not a lot of skills, so I went for "expensive hired muscle". He can be ex special forces for Aztecnology, having left the business after a series of ethically murky runs. Now he works with a very specific code: limit collateral damage. That's not usually a problem if he is brought in to a firefight, which is where he works best.
+I had a lot of resources and not a lot of skills, so I went for "expensive hired muscle". He can be ex special forces for Aztecnology, having left the business after a series of ethically murky runs. Now he works with a very specific code: no defenseless person dies--bystanders, children, etc. That's not usually a problem if he is brought in to a firefight, which is where he works best.
 
-You call him up and he helps you clear out a compound of gangers, then he leaves. If you want to hear from him again, speak to his fixer. 
+You call him up and he helps you clear out a compound of gangers, rob a bank or move your things. He will execute the job with extreme force until the target is dead, robbed or moved, respectively. Then he leaves. If you want to hear from him again, speak to his fixer. 
 
 ####Role:
 
-Close quarters combat. For house-to-house fighting or ranged engagements inside 100 yards, this guy is it. 17 to hit on the assault rifle (11P -6AP or 16P -2AP grenades) and 15 to hit on the submachine gun. Outside of sniper rifles (or the whip) it's the best flat damage available. 
+Close quarters combat. For house-to-house fighting or ranged engagements inside 100 yards, this guy is it. 17 to hit on the assault rifle (11P -6AP or 16P -2AP grenades) and 15 to hit on the submachine gun. Outside of sniper rifles (or the whip) it's the best flat damage available and he can deliver it continuously and under fire.
 
-Cyberware is < 1 ESS cost, to limit lost magic. A focus is purchased (keeping in mind the 3 force limit for addiction) to further adept powers. In this case I decided to go high armor, medium force. 17 hits is a lot, but this character has 7 natural armor, 5 wound boxes and platelet factories. They can absorb a lot of stun damange and in high armor (21 total) that will be part of the mix. Intent is to split incoming damage along physical and stun while dealing out physical damage with a high success rate. Will to live provides a buffer until DocWagon gets there if things go south.
+To provide this I chose high armor and soaking capabilities--7 natural armor, 5 wound boxes and platelet factories. 21 total armor forces low AP weapons to do stun damage, splitting tracks. Will to live provides a buffer until DocWagon gets there if things go south. 
 
-On stims or drugs, he could be a considerable force for an hour of combat.  
+On stims or drugs, he could be a considerable force for an hour of combat.
+
+Cyberware is < 1 ESS cost, to limit lost magic. A focus is purchased (keeping in mind the 3 force limit for addiction) to further adept powers. Otherwise, money was freely available when building.   
 
 ####SINs:
