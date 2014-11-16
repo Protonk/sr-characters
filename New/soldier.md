@@ -19,10 +19,10 @@ ____
 - Weapons: Ares Alpha (airburst link, 200 APDS rounds, 15 HE grenades, 3 spare clips), SCK Model 100 (90 APDS rounds, 90 flechette rounds)
 - Other: Medkit (rating 6, rating 3 [2]), Platinum DocWagon contract, wireless biomonitor, Chem patches [Cram, Stim, Jazz, Kamikaze], Explosive foam (rating 12) [4], detonator [4], demolitions shop
 - Electronics: Farlight Caliban, Glasses (rating 3: low lights, flare compensation), Headphones (rating 4: enhancement (rating 2), damper), binoculars (wireless), directional jammer (Rating 6), area jammer (Rating 6)
-- Software: Tutorsofts [demolitions (rating 6), gunnery (rating 6), longarms (rating 6)]
+- Software: Tutorsofts [demolitions (rating 6), gunnery (rating 6), Pilot ground craft (rating 6)]
 - Vehicle: Rover Model 2072
 - Focus: Qi (force 3)
-- Lifestyle: High with garage [6 months]
+- Lifestyle: High, secure with garage [5 months]
 - Ident: 1 rating 4 fake SIN with rating 3 fake licenses [submachine gun, magic, cyberware]. 1 rating 4 fake SIN with rating 4 fake licenses [magic, ground craft, cyberware]
 
 ____

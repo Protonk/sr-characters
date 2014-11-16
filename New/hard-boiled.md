@@ -19,7 +19,7 @@ ____
 - Focus: Flexible signature (force 4)
 - Vehicle: Suzuki Mirage
 - Lifestyle: Middle with garage [3 months]
-- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, concealed carry, vehicle], 1 rating 4 fake SIN with rating 4 fake licenses [concealed carry, vehicle]
+- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, concealed carry, vehicle, private detective], 1 rating 4 fake SIN with rating 4 fake licenses [magic, vehicle, private detective]
 
 ____
 ####Adept powers: 
@@ -75,7 +75,7 @@ ____
 - ESS: 6
 - MAG: 4
 - Initiative: 10 + 1D6
-- Money: 3500 + 4D6 * 100
+- Money: 2700 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
