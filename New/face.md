@@ -108,10 +108,10 @@ Jackie Chan
 - Born: May 7, 2052
 - Downtown Seattle resident
 - Security guard for an unremarkable firm
-- [cyberware, magic, concealed carry, chameleon suit]
+- [magic, concealed carry]
 
 Yan Ti San
 - Born: Feb 22, 2053
 - Redmond resident
 - Courier
-- [cyberware, magic]
+- [grpound craft]
