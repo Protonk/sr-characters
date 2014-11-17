@@ -9,19 +9,19 @@ ____
 ____
 ####Equipment:
 
-- Weapons: Combat knife (concealable holster), Browning Ultra Power (80 regular rounds, 80 APDS rounds, 4 spare clips)
+- Weapons: Combat knife, Browning Ultra Power (80 APDS rounds, 4 spare clips), katana
 - Comms: Meta Link (rating 1), sub-vocal mic
-- Armor: Actioneer business clothes, Lined coat
+- Armor: Actioneer business clothes (concealable holster), Lined coat
 - Gear: lockpick set, medkit (rating 2 [3] + 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
-- Other: RFID, security and stealth tags, standard credstick, silver credstick, microtranceiver.
-- 1 rating 4 SINs with rating 4 [concealed carry, magic] licenses, 1 rating 2 fake SIN with rating 2 fake license [ground craft]
-- Focus: Qi (strength 4)
+- Other: RFID, security and stealth tags, microtranceiver.
+- 1 rating 4 SINs with rating 4 [katana, magic] licenses, 1 rating 2 fake SIN with rating 2 fake license [ground craft]
+- Magical:Focus [Qi (force 4)]
 - Low Lifestyle (obscure, dangerous, cramped) [2 months]
 
 ____
 ####Active skills:
 
-- Stealth skill group (6), Athletics skill group (3), Outdoors skill group (1), Blades (6 [9] + knives), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
+- Stealth skill group (6), Athletics skill group (3), Outdoors skill group (1), Blades (6 [9] + swords), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
 
 ####Knowledge skills:
 
@@ -41,16 +41,16 @@ ____
 ####Adept powers:
 
 - Improved reflexes (level 3)
-- improved strength (level 1)
-- Critical strike (blades)
 - Improved ability, blades (level 3)
-- Combat sense (level 1)
+- Traceless walk
+- Critical strike (blades)
+- Kinesics (level 2)
 
 ____
 ####Attributes
 
 - AGI: 4 
-- STR: 6 [7]
+- STR: 6
 - CHA: 3
 - LOG: 2
 - INT: 4
@@ -62,12 +62,12 @@ ____
 - ESS: 6
 - Initiative: 8 [11] + 1D6 [4D6]
 - Karma: 0
-- Cash: 2555 + 3D6*60
+- Cash: 1555 + 3D6*60
 
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 6 [7]
+- Physical: 6
 - Social: 5
 
 ####Computed stats:
@@ -79,7 +79,7 @@ ____
 	- overflow: 9
 - armor: 8 from clothes, 9 from others
 - damage resistance roll: 3 plus modified armor value
-- 12 to dodge, always get surprise test
+- 11 to dodge
 
 ____
 ####Handle:
@@ -96,9 +96,9 @@ This is the character I've toyed with the most. He was once very heavy into cybe
 
 The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Even astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept. But his powers are simple: get into a superior position via stealth or persuasion and then strike with lethal force. 
 
-In close combat he is 15 to hit with knives (which hit at 11P -3 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. He's competent with ranged combat (12 to hit) and has decent dodge. Taking damage will reduce that output considerably so he needs support and/or surprise.
+In close combat he is 15 to hit with swords (which hit at 10P -3 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. He's competent with ranged combat (12 to hit) and has decent dodge. Taking damage will reduce that output considerably so he needs support and/or surprise. 4D6 flat initiative is brutal.
 
-Taking advantage of social and stealth skills to gain that support will be just as fun. Skill specialization can make a character very powerful in some narrow ways (it's a 2:1 deal on dice per point at creation). In this case I think they're appropriate to the character as well (their background and role), but outdoors and athletics are chosen to not default on physical tests and stealth is chosen to be quite good at sneaking/disguise (both of which are further boosted by the qualities). Then considerable combat skills are established/maxed and "face" (for which there are few if you can target well) skills are chosen, with appropriate specializations. So I could roll 11 on a test to talk my way past a corporate guard, potentially more. Or I could roll the same to pickpocket them!
+Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 12 to bluff a guard (and roll 4-5 on knowledge tests while doing so) or 13 to slip by. At least 10 for anything stealth related and 9 for lockpicking. He could also pose as an employee with a forged badge very effectively. 
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 
