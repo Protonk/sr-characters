@@ -35,7 +35,7 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Electronics skill group (1), Spellcasting (7 + combat), Counterspelling (6 + combat), Ritual spellcasting (6 + spell), Arcana (6 + spell design), Astral combat (6), Assensing (3), Pistols (2 + semi-auto), Perception (2), Pilot ground vehicle (1), First aid (1)
+- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + combat), Counterspelling (6 + combat), Ritual spellcasting (6 + spell), Arcana (6 + spell design), Astral combat (6), Assensing (3), Pistols (2 + semi-auto), Perception (2), Pilot ground vehicle (1), First aid (1)
 
 ####Knowledge skills:
 
@@ -83,7 +83,7 @@ ____
 	- Physical: 9
 	- Stun: 11
 	- 3 wound boxes
-- armor: 9
+- armor: 0 naked
 - damage resistance roll: modified armor value
 - 7 to dodge
 
@@ -96,13 +96,15 @@ Jolee
 
 This guy is a regular runner. Middle income, a shitty car, fake licenses to make all that go down smooth with what passes for the law around here. But his astral form is a menace. On the astral plane, he's burning with holy fire. A naive runner might think he's compensating for a dearth of magical skill by loading up power foci, but he's a profoundly adept mage as well. 
 
-An ambush on the astral plane humiliated him in front of his peers and he has been chasing high risk combat jobs until the shame wears off--this may never happen. Running may be his new life and a meaner outlet for his considerable power.
+An ambush on the astral plane humiliated him in front of his peers and he is chasing high risk combat jobs until the shame lifts--this may never happen. Running may be his new life and a meaner outlet for his considerable power.
 
 ####Role:
 
 Magical weapon. I get 9 magic AND 7 spellcasting, as well as 2 spellcasting foci to support combat spells. Add to that the specialization in combat and I get 20 to hit for combat spells--16 for everything else--counterspelling is 14. He resists drain at 11.
 
 I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and one spell, leaving just enough (7) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
+
+Skill groups are spread out. I don't want to be forced to default on stuff where I could be getting a decent attribute bonus. 
 
 Adding another specialization (or taking an appropriate initiate grade) could make this guy very powerful. If they survived five or ten good runs, they'd be a singular wizard.
 
