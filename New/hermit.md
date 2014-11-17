@@ -3,20 +3,20 @@ ____
 ####Qualities:
 
 - Negative: Addiction (Deepweed, moderate)
-- Positive: Focused concentration (rating 2), Home ground (Salish land, you know a guy), Quick healer (rating 1)
+- Positive: Focused concentration (rating 2), Home ground (Salish land, knows a guy), Quick healer (rating 1)
 
 ____
 ####Equipment:
 
 - Weapons: Remington Roomsweeper (130 flechette rounds, 3 spare clips), survival knife
 - Armor: Lined coat, all-weather jacket
-- Tools: survival kit, camping gear, miniwelder (3 fuel)
+- Tools: survival kit, camping gear
 - Electronics: Goggles (capacity 4:low light, enhancement (rating 2), magnification), Renraku Sensei (satellite link), Mapsofts [various maps of seattle outskirts and boondocks]
 - Other: medkit [rating 6], supplies for 3, Deepweed [lots]
-- Focus: Combat spellcasting (force 4)
+- Magical: Foci [combat spellcasting (force 2), masking (force 1)], Shamanic lodge (beasts, force 4) 
 - Vehicle: Yamaha Growler
 - 1 fake SIN rating 3, with rating 3 fake license [magic, bike]
-- Low, obscure [4 months]
+- Low, obscure [3 months]
 
 ____
 ####Magic:
@@ -63,8 +63,8 @@ ____
 - MAG: 6
 - Initiative: 7 + 1D6
 - Astral Initiative: 8 + 2D6
-- Starting cash: 400 + 3D6 * 50
-- Karma: 0
+- Starting cash: 1200 + 3D6 * 50
+- Karma: 
 
 ####Inherent limits:
 
@@ -95,4 +95,6 @@ If you need a top shelf combat mage and you can afford to wait for the right one
 
 ####Role:
 
-A skill heavy mage. Combat spells are cast with 18 to hit and combat spells are also resisted at 14 (more if an increased willpower is sustained). Edge and initiative are low, as are resources of any kind. This guy **will** mess somone up with magic. 
+A skill heavy mage. Combat spells are cast with 16 to hit and combat spells are also resisted at 14 (more if an increased willpower is sustained). Edge and initiative are low, as are resources of any kind. This guy **will** mess somone up with magic. 
+
+Potentially more fun with an outdoors campaign or as an NPC runner for a specific campaign--like a hired guide. A lot of the skillset is bound up with the character and out of sync with downtown seattle. 
