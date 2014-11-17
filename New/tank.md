@@ -3,36 +3,38 @@
 ____
 ####Qualities:
 
-- Negative: Uncouth
-- Positive: High pain tolerance (level 2), Toughness
+- Negative: 
+- Positive: Toughness, High pain tolerance (Rating 2)
 
 ____
 ####Augments:
 
-- Synaptic booster (rating 1)
-- Synthetic alphaware full cyberlegs (armor +2)
-- Obvious betaware full cyberarm (armor +2, AGI + 1)
-- Alphaware aluminum bone lacing
+- Aluminum bone lacing (betaware)
+- Obvious cyberarm (betaware, armor +2, AGI + 1)
+- Synthetic cyberarm (betaware, armor +1, AGI +1)
+- Synthetic cyberlegs \[2\] (betaware, wireless, armor +2, holster)
+- Orthoskin (alphaware, rating 3)
+- Damage compensators (rating 1)
+- Reflex recorders [blades, pistols]
 - Platelet factories
-- Orthoskin (rating 3)
-- cybereyes (rating 1: smartlink, flare compensation)
 
 ####Equipment:
 
-- Electronics: Commlink (Farlight Caliban), Headphones (rating 1: damper)
-- Armor: Armor jacket, lined coat, helmet
-- Weapons: Combat Axe, FN HAR (wireless smartgun, wireless laser sight, 200 APDS rounds, 100 hollow point, 300 regular rounds), flashbangs [5], high explosive [5]
-- Other: medkit (rating 3 [2], supplies for 2), Docwagon (super platinum), biomontior (wireless)
-- Low lifestyle (2 months)
+- Electronics: Commlink (Farlight Caliban), Headphones (rating 1: damper), Goggles (rating 1: damper, smartlink)
+- Armor: Armor jacket with helmet, lined coat
+- Weapons: Combat Axe, Taurus Omni 6 (wireless smartgun, speed loader, 60 APDS rounds, 20 HE rounds)
+- Other: medkit (rating 3 [2], supplies for 2)
+- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [cyberware, axe], 1 rating 2 fake sin with rating 4 fake license [cyberware]
+- Low lifestyle (3 months)
 
 ____
 ####Active skills:
 
-- Blades (6 + axes), Automatics (6 + assault rifles), Running (3), Throwing weapons (3), Gunnery (1), Free fall (2), Intimidation (1)
+- Blades (6 [7] + axes), Pistols (3 [4] + revolvers), Running (3), Throwing weapons (3), First aid (2), Intimidation (1), Perception (1)
 
 ####Knowledge skills:
 
-- Street gangs (2), Sprawl life (2)
+- Street gangs (2), Sprawl life (2), Smugglers (1), Redmond (1)
 
 ####Languages:
 
@@ -41,40 +43,41 @@ ____
 ____
 ####Contacts:
 
-- Smuggler (con 2, loy 1)
+- Smuggler (con 2, loy 2)
+- Fixer (con 1, loy 1)
 
 ____
 ####Attributes
 
-- AGI: 2 [3]
-- STR: 7
-- CHA: 1
+- AGI: 1 [2]
+- STR: 5
+- CHA: 2
 - LOG: 1
 - INT: 3
-- REA: 3 [4]
-- BOD: 9
+- REA: 5
+- BOD: 8
 - WIL: 6
-- EDG: 1
-- ESS: 0.75
-- Initiative: 6 [7] + 1D6 [2D6]
-- Money: 4575 + 3D6 * 50
-- Karma: 0
+- EDG: 6
+- ESS: 1.2
+- Initiative: 8 + 1D6
+- Money: 4000 + 3D6 * 50
+- Karma: 2
 
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 9 [9]
-- Social: 2
+- Physical: 7
+- Social: 3
 
 ####Computed stats:
 
 - Condition:
-	- Physical: 15
+	- Physical: 12
 	- Stun: 11
-	- 5 wound boxes
-- armor: 8 naked, 12 from armor jacket, 2 from helmet (22 total!)
-- damage resistance roll: 16 plus modified armor value (always reduce damage >1 by 1 due to platelet factories)
-- 7 to dodge
+	- 5 wound boxes (6 for stun with damage compensators)
+- armor: 10 naked (24 decked out, 19 in lines coat)
+- damage resistance roll: 15 plus modified armor value (always reduce damage >1 by 1 due to platelet factories)
+- 8 to dodge
 
 ____
 ####Handle:
@@ -83,14 +86,11 @@ TIO
 
 ####Bio:
 
-This character is...not a thinker. He's bigger than everyone else and he knows it, so minor social problems like not being let into a club or getting brushed off by someone with social status that other people might've ignored tend to get solved with his fists. Or his axe. Or any of the various firearms he has on his person at all times. Sometimes that works, sometimes it doesn't. Along the way he's discovered that cyberware helps it work: a lot.
-
-He's strong enough to rip a car door off its hinges before the driver peels away, but not quite wise enough to realize that's a worse option than tailing the driver, even when he's idling in front of a security station. For jobs requiring finesse, planning and poise he's a liability. For everything else he's a necessity.
 
 ####Role:
 
-Tank. The amount of incoming damage this character can take is absurd. 22 armor and 9 to dodge so almost every damage resistance roll will be body + modified armor: potentially 20 DR for every hit that lands. Hit with an assault rifle with APDS rounds, they still roll 16 to resist damage. If they do land, any hit >1 gets reduced by 1 and the character can take 5 hits before facing a wound penalty.
+Tank. The amount of incoming damage this character can take is absurd. 23 armor means almost every damage resistance roll will be body + modified armor: potentially 20 DR for every hit that lands. Hit with an assault rifle with APDS rounds, they still roll 15 to resist damage. If they do land, any hit >1 gets reduced by 1 and the character can take 5 hits before facing a wound penalty (6 for stun, so splitting tracks will be valuable).
 
-They can be something of a menace at range, with 12 to hit on the assault rifle, but their real danger is forcing a melee confrontation to soak damage. Much damage will be stun, so body is raised very high but not maxed in order to allow willpower to max at an even number. This also grants some magic resistance. 
+They're fair at offense: 11 to hit with the axe, and 9 to hit with the concealed pistol. Real advantage comes from soaking up ***GOBS*** of damage.
 
 ####SINs:
