@@ -30,12 +30,12 @@ ____
 
 - Mystic armor (level 6)
 - Improved automatics (level 1)
-- Direction sense
+- Light body (level 1)
 
 ____
 ####Active skills:
 
-- Automatics (6 [8] + assault rifles), Tracking (3 + urban), Gymnastics (2), Running (2 + sprinting), Demolitions (2), Pilot ground craft (1), Navigation (1)
+- Automatics (6 [8] + assault rifles), Tracking (3 + urban), Gymnastics (2), Running (2 + sprinting), Demolitions (2), Pilot ground craft (1), Throwing weapons (1)
 
 ####Knowledge skills:
 
