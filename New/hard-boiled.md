@@ -104,7 +104,7 @@ Mystic adept version of the occult investigator. Able to astrally perceive (and 
 
 ####Role:
 
-Combat is workable in most cases (12 to hit), but detection and investigation are where it's at: perception and assensing are boosted, as are investigatory magic skills. Astral chameleon and a masking focus are chosen to better sneak up on quarry--attempts to detect my astral signature are at -5. 
+Combat is workable in most cases (12 to hit), but detection and investigation are where it's at: perception and assensing are boosted, as are investigatory magic skills. Astral chameleon and a flexible signature focus are chosen to better sneak up on quarry--attempts to detect my astral signature are at -5. 
 
 Have to start with a lot of karma to burn for power points (mystic adepts don't get them for free) so I have some left over for a focus. 
 
