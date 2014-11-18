@@ -9,19 +9,18 @@ ____
 ____
 ####Equipment:
 
-- Weapons: Combat knife, Browning Ultra Power (80 APDS rounds, 4 spare clips), katana
-- Comms: Meta Link (rating 1), sub-vocal mic
+- Weapons: Combat knife, Browning Ultra Power (80 APDS rounds, 4 spare clips)
 - Armor: Actioneer business clothes (concealable holster), Lined coat
 - Gear: lockpick set, medkit (rating 2 [3] + 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
-- Other: RFID, security and stealth tags, microtranceiver.
+- Other: RFID, security and stealth tags.
 - 1 rating 4 SINs with rating 4 [katana, magic] licenses, 1 rating 2 fake SIN with rating 2 fake license [ground craft]
-- Magical:Focus [Qi (force 4)]
+- Magical:Focus [Qi (force 6)]
 - Low Lifestyle (obscure, dangerous, cramped) [2 months]
 
 ____
 ####Active skills:
 
-- Stealth skill group (6), Athletics skill group (3), Outdoors skill group (1), Blades (6 [9] + swords), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
+- Stealth skill group (6), Athletics skill group (3), Outdoors skill group (1), Blades (6 [8] + knives), Etiquette (6 + corporate), Con (5 + fast talking), Pistols (5 + semi-auto), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
 
 ####Knowledge skills:
 
@@ -41,33 +40,34 @@ ____
 ####Adept powers:
 
 - Improved reflexes (level 3)
-- Improved ability, blades (level 3)
+- Improved ability, blades (level 2)
+- Improved agility (level 1)
 - Traceless walk
 - Critical strike (blades)
-- Kinesics (level 2)
+- Combat sense (level 1)
 
 ____
 ####Attributes
 
-- AGI: 4 
+- AGI: 5 [6]
 - STR: 6
 - CHA: 3
 - LOG: 2
 - INT: 4
 - REA: 4 [7]
-- BOD: 3
+- BOD: 2
 - WIL: 3
 - EDG: 3
 - MAG: 6
 - ESS: 6
 - Initiative: 8 [11] + 1D6 [4D6]
 - Karma: 0
-- Cash: 1555 + 3D6*60
+- Cash: 2500 + 3D6*60
 
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 6
+- Physical: 6 [7]
 - Social: 5
 
 ####Computed stats:
@@ -77,9 +77,9 @@ ____
 	- Stun: 9
 	- 3 wound boxes
 	- overflow: 9
-- armor: 8 from clothes, 9 from others
+- armor: 0 naked
 - damage resistance roll: 3 plus modified armor value
-- 11 to dodge
+- 12 to dodge, always get surprise roll
 
 ____
 ####Handle:
@@ -94,11 +94,11 @@ A former rank and file of security for a Wuxing subsidiary, he was forced out of
 
 This is the character I've toyed with the most. He was once very heavy into cyberware, then unarmed, then secret agent and now this. All the while, the skillset was largely kept constant--46/10 with heavy investment in social skills and deception. This allowed for two combat skills which would be servicable in all ways even with lower stats. Now that I've invested nearly entirely in magic for adept powers, I can raise the stats back up and invest in reaction heavily.
 
-The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Even astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept. But his powers are simple: get into a superior position via stealth or persuasion and then strike with lethal force. 
+The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Even astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept.
 
-In close combat he is 15 to hit with swords (which hit at 10P -3 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. He's competent with ranged combat (12 to hit) and has decent dodge. Taking damage will reduce that output considerably so he needs support and/or surprise. 4D6 flat initiative is brutal.
+In close combat he is 16 to hit with a knife (9P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 4D6 flat initiative is dominant as well.
 
-Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 12 to bluff a guard (and roll 4-5 on knowledge tests while doing so) or 13 to slip by. At least 10 for anything stealth related and 9 for lockpicking. He could also pose as an employee with a forged badge very effectively. 
+Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and roll 4-5 on knowledge tests while doing so) or 11 to slip by (12 on most stealth rolls). He could also pose as an employee with a forged badge pretty effectively. 
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 

@@ -13,7 +13,7 @@ ____
 ####Equipment:
 
 - Armor: Lined coat, actioneer business clothes
-- Weapons: Ruger Super Warhawk (60 regular rounds), Extensible baton
+- Weapons: Ruger Super Warhawk (60 regular rounds)
 - Other: medkit (rating 3 [1], supplies for 1), survival kit, forensics kit.
 - Electronics: Renraku Sensei, RFID tags [mostly stealth with some bugs]
 - Focus: Flexible signature (force 4)
@@ -24,11 +24,10 @@ ____
 ____
 ####Adept powers: 
 
-- Spell resistance (level 4)
+- Improved reflexes (rating 1)
+- Improved body (rating 1)
 - Astral perception
 - Enhanced perception
-- Kinesics (rating 1)
-- Improved tactile sense
 
 ____
 ####Spells:
@@ -68,14 +67,14 @@ ____
 - CHA: 5
 - LOG: 3
 - INT: 5
-- REA: 5 
-- BOD: 3
+- REA: 5 [6]
+- BOD: 3 [4]
 - WIL: 6
 - EDG: 2
 - ESS: 6
 - MAG: 4
-- Initiative: 10 + 1D6
-- Money: 2700 + 4D6 * 100
+- Initiative: 10 [11] + 1D6 [2D6]
+- Money: 2900 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
@@ -87,12 +86,12 @@ ____
 ####Computed stats:
 
 - Condition:
-	- Physical: 10
+	- Physical: 11
 	- Stun: 11
 	- 3 wound boxes
 - armor: 12
 - damage resistance roll: 4 plus modified armor value
-- 8 to dodge
+- 11 to dodge
 
 ____
 ####Handle:
@@ -105,8 +104,8 @@ Mystic adept version of the occult investigator. Able to astrally perceive (and 
 
 ####Role:
 
-Combat is workable in most cases, but excels against magicians. 18 combat spell resistance is absurd. 
+Combat is workable in most cases (12 to hit), but detection and investigation are where it's at: perception and assensing are boosted, as are investigatory magic skills. Astral chameleon and a masking focus are chosen to better sneak up on quarry--attempts to detect my astral signature are at -5. 
 
-Perception and assensing are boosted, as are investigatory magic skills. Astral chameleon and a masking focus are chosen to better sneak up on quarry--attempts to detect my astral signature are at -5. 
+Have to start with a lot of karma to burn for power points (mystic adepts don't get them for free) so I have some left over for a focus. 
 
 ####SINs:
