@@ -74,7 +74,7 @@ ____
 	- Physical: 12
 	- Stun: 11
 	- 5 wound boxes 
-- armor: 10 naked (24 decked out, 19 in lines coat)
+- armor: 10 naked (24 decked out, 19 in lined coat)
 - damage resistance roll: 15 plus modified armor value (always reduce damage >1 by 1 due to platelet factories)
 - 8 to dodge
 

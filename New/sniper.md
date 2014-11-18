@@ -35,7 +35,7 @@ ____
 ____
 ####Active skills:
 
-- Electronics skill group (2), Longarms (7 [8] + sniper rifles), Electronic warfare (4 + sensor operations), Perception (2), Armorer (2 + weapon accessories), Hacking (3 + devices), Sneaking (1), Cybercombat (1)
+- Electronics skill group (2), Longarms (7 [8] + sniper rifles), Electronic warfare (4 + sensor operations), Hacking (3 + devices), Perception (2), Armorer (2 + weapon accessories), Sneaking (1), Cybercombat (1)
 
 ####Knowledge skills:
 
@@ -79,7 +79,7 @@ ____
 	- Physical: 10
 	- Stun: 10
 	- 3 wound boxes
-- armor: 12 from armor jacket, 9 from coat
+- armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
 - 9 to dodge
 
