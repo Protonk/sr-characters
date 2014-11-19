@@ -3,7 +3,7 @@ ____
 ####Qualities:
 
 - Negative: Loss of confidence (astral combat), Allergy (moderate, common: [deepweed, jazz, stim patches])
-- Positive: Aptitude (spellcasting)
+- Positive: Aptitude (spellcasting), Focused concentration (rating 2)
 
 ____
 ####Equipment:
@@ -13,7 +13,7 @@ ____
 - Electronics: Goggles (capacity 6: smartlink, low light, enhancement (rating 2), magnification), Headphones (capacity 4: sound filter (rating 2), enhancement (rating 2)), Renraku Sensei
 - Other: medkit (rating 2) [2] supplies for 3
 - Vehicle: C-N Jackrabbit
-- Magic objects: Rituals [8], Magical lodge (fire, force 3), Foci [Power (force 3), Combat spellcasting (force 2)]
+- Magic objects: Rituals [8], Magical lodge (fire, force 3), Foci [Power (force 3), Combat spellcasting (force 3)]
 - 1 fake SIN rating 4 with rating 4 fake licenses [magic, pistol], 1 rating 3 fake SIN with rating 4 licenses [magic, car]
 - Middle, obscure with garage [3 months]
 
@@ -28,7 +28,6 @@ ____
 - Increase willpower
 - Detox
 - Detect magic
-- Mind probe
 - Armor
 - Mana barrier
 
@@ -49,8 +48,8 @@ ____
 ####Contacts:
 
 - Fixer (con 3, loy 2)
-- Lodge member (con 2, loy 5)
-- Street mage (con 2, loy 3)
+- Lodge member (con 2, loy 3)
+- Street mage (con 1, loy 2)
 
 ____
 ####Attributes
@@ -100,9 +99,9 @@ An ambush on the astral plane humiliated him in front of his peers and he is cha
 
 ####Role:
 
-Magical weapon. I get 9 magic AND 7 spellcasting, as well as 2 spellcasting foci to support combat spells. Add to that the specialization in combat and I get 19 to hit for combat spells--15 for everything else--counterspelling is 14. He resists drain at 11.
+Magical weapon. I get 9 magic AND 7 spellcasting, as well as 2 spellcasting foci to support combat spells. Add to that the specialization in combat and I get 20 to hit for combat spells--15 for everything else--counterspelling is 14. He resists drain at 11.
 
-I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and one spell, leaving just enough (7) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
+I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and two spells, leaving just enough (2) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
 
 Skill groups are spread out. I don't want to be forced to default on stuff where I could be getting a decent attribute bonus. 
 

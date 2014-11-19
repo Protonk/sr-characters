@@ -24,8 +24,8 @@ ____
 
 - Improved reflexes (level 3)
 - Improved agility (level 2)
-- Improved ability: Automatics (level 2)
 - Combat sense (level 3)
+- Improved ability: Automatics (level 2)
 
 ____
 ####Active skills:
@@ -48,18 +48,18 @@ ____
 ____
 ####Attributes
 
-- AGI: 5 [7]
+- AGI: 6 [8]
 - STR: 5
 - CHA: 1
 - LOG: 1
 - INT: 5
-- REA: 6 [9]
+- REA: 5 [8]
 - BOD: 5
 - WIL: 4
 - EDG: 6
 - ESS: 6
 - MAG: 7
-- Initiative: 11 [14] + 1D6 [4D6]
+- Initiative: 10 [13] + 1D6 [4D6]
 - Money: 1075 + 2D6 * 40
 - Karma: 0
 
@@ -75,9 +75,9 @@ ____
 	- Physical: 10
 	- Stun: 10
 	- 4 wound boxes
-- armor: 11
+- armor: 0 naked
 - damage resistance roll: 5 plus modified armor value
-- 17 to dodge
+- 16 to dodge
 
 ____
 ####Handle:
@@ -94,11 +94,11 @@ Wreck face. Maybe not the most fun but potentially the most dominant combat char
 
 Exceptional attribute boosts magic, with the choice of Human (7) and Magic (C) allowing me to maximize both edge and magic. I can then stack on all the flat, undispellable adept powers I want. It leaves room for minimal skills and money but options for ranged and melee as well as lots of mobility.
 
-It's unbelievably tuned. This guy gets 17 dice to hit with the assault rifle. Against someone with ~ 10 dodge (pretty standard for low/mid level grunts) I'll hit nearly 90% of the time with an average 2 net hits. Only 12 to hit with the katana but if I spend an edge I get 18 to hit--I have 6 edge to spend. 
+It's unbelievably tuned. This guy gets 18 dice to hit with the assault rifle. Against someone with ~ 10 dodge (pretty standard for low/mid level grunts) I'll hit nearly 90% of the time with an average 2 net hits. Only 13 to hit with the katana but if I spend an edge I get 18 to hit--I have 6 edge to spend. 
 
 I have 14 + 4D6 initiative. 98% of the time, I'll get three moves in an combat turn. 20% of the time, I'll get four. 
 
-17 dodge means that against an attacker with 12 dice, I'll dodge 80% of the time, with high pain tolerance affording some margin for hits that land. Damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
+16 dodge means that against an attacker with 12 dice, I'll dodge 75% of the time, with high pain tolerance affording some margin for hits that land. Damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
 
 
 
