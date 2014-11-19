@@ -15,10 +15,10 @@ ____
 ####Equipment:
 
 - Armor: Urban explorer jumpsuit (with helmet), Armor jacket (with helmet), clothes (wireless, electrochromatic)
-- Weapons: Ares Alpha (airburst link, 200 APDS rounds, 15 HE grenades, 3 spare clips), SCK Model 100 (90 APDS rounds, 90 flechette rounds)
-- Other: Medkit (rating 6, rating 3 [2]), wireless biomonitor, Chem patches [Cram, Stim, Jazz, Kamikaze], Platinum DocWagon contract
+- Weapons: Ares Alpha (airburst link, 240 APDS rounds, 15 HE grenades, 3 spare clips), SCK Model 100 (90 APDS rounds, 90 flechette rounds)
+- Other: Medkit (rating 6, rating 3 [2], supplies for 3), wireless biomonitor, Chem patches [Cram, Stim, Jazz, Kamikaze], Platinum DocWagon contract
 - Tools: Explosive foam (rating 12) [4], detonator [4], demolitions shop
-- Electronics: Farlight Caliban, Glasses (rating 3: low lights, flare compensation), Headphones (rating 4: enhancement (rating 2), damper), binoculars (wireless), directional jammer (Rating 6), area jammer (Rating 6)
+- Electronics: Transys Avalon, Glasses (rating 3: low lights, flare compensation), Headphones (rating 2: enhancement (rating 2)), binoculars (wireless), directional jammer (Rating 6), area jammer (Rating 6)
 - Software: Tutorsofts [demolitions (rating 6)], Mapsofts [various, mostly in and around downtown]
 - Vehicle: Rover Model 2072
 - Magical: Focus [Qi (force 3)]
@@ -65,7 +65,7 @@ ____
 - ESS: 5.0
 - MAG: 4 [3]
 - Initiative: 10 + 1D6
-- Money: 4300 + 5D6 * 500
+- Money: 5000 + 5D6 * 500
 - Karma: 0
 
 ####Inherent limits:

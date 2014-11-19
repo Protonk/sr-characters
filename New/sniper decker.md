@@ -14,7 +14,7 @@ ____
 - reaction enhancers (rating 2)
 - wired reflexes (rating 1)
 - enhanced articulation
-- commlink (Farlight Caliban)
+- commlink (Transys Avalon)
 - muscle toner (rating 2)
 - reflex recorder [longarms]
 - skin pocket
@@ -64,7 +64,7 @@ ____
 - EDG: 5
 - ESS: 1.0
 - Initiative: 6 [9] + 1D6 [2D6]
-- Money: 1,010 + 5D6 * 100
+- Money: 3,010 + 5D6 * 100
 - Karma: 0
 
 ####Inherent limits:

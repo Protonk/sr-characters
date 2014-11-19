@@ -18,7 +18,7 @@ ____
 - Armor: Lined coat.
 - Weapons: Taurus Omni-6 (wireless smartgun, 30 regular rounds, 60 APDS rounds rounds)
 - Other: Drone repair shop, drone disassembly kit
-- Electronics: Farlight Caliban, Proteus Posiden, wireless biomonitor, sensor array (rating 5), bug scanner (rating 6), data tap
+- Electronics: Transys Avalon, Proteus Posiden, wireless biomonitor, sensor array (rating 5), bug scanner (rating 6), data tap
 - Lifestyle: High with garage [3 months]
 - Vehicles:
 	- MCT-Nissan Roto-Drone (AK-97 (wireless smartgun, 100 regular rounds))
@@ -26,8 +26,8 @@ ____
 	- Lockheed Optic-X2
 	- MCT Fly-Spy [2]
 	- Steel Lynx (Enfield AS-7 (wireless smartgun, 48 flechette rounds), ArmTech MGL–12 (wireless smartgun, 24 HE rounds))
-	- GMC Bulldog (rigger interface, AK-97 (100 APDS rounds))
-- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [cyberware, drone, ground craft], 1 rating 3 fake SIN with rating 4 licenses [cyberware, ground craft]
+	- GMC Bulldog (rigger interface, AK-97 (wireless smartgun, 100 APDS rounds))
+- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [cyberware, drone, ground craft], 1 rating 4 fake SIN with rating 4 licenses [cyberware, ground craft]
 
 ____
 ####Active skills:
@@ -62,7 +62,7 @@ ____
 - EDG: 7
 - ESS: 2.6
 - Initiative: 10 [12] + 1D6 [3D6]
-- Money: 2500 + 5D6 * 100
+- Money: 3500 + 5D6 * 100
 - Karma: 0
 
 ####Inherent limits:

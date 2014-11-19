@@ -100,7 +100,7 @@ An ambush on the astral plane humiliated him in front of his peers and he is cha
 
 ####Role:
 
-Magical weapon. I get 9 magic AND 7 spellcasting, as well as 2 spellcasting foci to support combat spells. Add to that the specialization in combat and I get 20 to hit for combat spells--16 for everything else--counterspelling is 14. He resists drain at 11.
+Magical weapon. I get 9 magic AND 7 spellcasting, as well as 2 spellcasting foci to support combat spells. Add to that the specialization in combat and I get 19 to hit for combat spells--15 for everything else--counterspelling is 14. He resists drain at 11.
 
 I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and one spell, leaving just enough (7) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
 
