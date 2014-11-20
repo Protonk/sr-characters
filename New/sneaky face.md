@@ -13,7 +13,7 @@ ____
 - Armor: Actioneer business clothes (concealable holster), Lined coat
 - Gear: lockpick set, medkit (rating 2 [3] + 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
 - Other: RFID, security and stealth tags.
-- 1 rating 4 SINs with rating 4 [katana, magic] licenses, 1 rating 2 fake SIN with rating 2 fake license [ground craft]
+- 1 rating 4 SINs with rating 4 [pistol, magic] licenses, 1 rating 2 fake SIN with no licenses
 - Magical:Focus [Qi (force 6)]
 - Low Lifestyle (obscure, dangerous, cramped) [2 months]
 
@@ -60,7 +60,7 @@ ____
 - ESS: 6
 - Initiative: 7 [10] + 1D6 [4D6]
 - Karma: 0
-- Cash: 2500 + 3D6*60
+- Cash: 3300 + 3D6*60
 
 ####Inherent limits:
 
@@ -74,7 +74,6 @@ ____
 	- Physical: 10
 	- Stun: 9
 	- 3 wound boxes
-	- overflow: 9
 - armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
 - 10 to dodge
@@ -86,7 +85,7 @@ Condor
 
 ####Bio:
 
-A former rank and file of security for a Wuxing subsidiary, he was forced out of his position when the warehouse his team was guarding got pilfered by runners. He may have been paid off, but he's not going to explain what he did or who he worked for, as they may still be looking for him. All we know is he's good with a knife and a pistol and on the lam from somewhere. 
+A former rank and file security officer for a Wuxing subsidiary, he was forced out of his position when the warehouse his team was guarding got pilfered by runners. He may have been paid off, but he's not going to explain what he did or who he worked for, as they may still be looking for him. All we know is he's good with a knife and a pistol and on the lam from somewhere. 
 
 ####Role:
 
@@ -96,7 +95,7 @@ The result is something of a sneaky face. He's got all the face skills (and a li
 
 In close combat he is 16 to hit with a knife (11P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 4D6 flat initiative is dominant as well.
 
-Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and roll 4-5 on knowledge tests while doing so) or 11 to slip by (12 on most stealth rolls). He could also pose as an employee with a forged badge pretty effectively. 
+Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and roll 4-5 on knowledge tests while doing so) or 11 to slip by (11 on most stealth rolls). He could also pose as an employee with a forged badge pretty effectively. 
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 
