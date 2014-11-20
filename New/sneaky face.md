@@ -20,7 +20,7 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (6), Athletics skill group (3), Outdoors skill group (1), Blades (6 [8] + knives), Etiquette (6 + corporate), Con (5 + fast talking), Pistols (5 + semi-auto), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
+- Stealth skill group (6), Athletics skill group (3), Outdoors skill group (1), Blades (6 [9] + knives), Etiquette (6 + corporate), Con (5 + fast talking), Pistols (5 + semi-auto), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
 
 ####Knowledge skills:
 
@@ -40,27 +40,25 @@ ____
 ####Adept powers:
 
 - Improved reflexes (level 3)
-- Improved ability, blades (level 2)
-- Improved agility (level 1)
-- Traceless walk
+- Improved strength (level 2)
+- Improved ability, blades (level 3)
 - Critical strike (blades)
-- Combat sense (level 1)
 
 ____
 ####Attributes
 
-- AGI: 5 [6]
-- STR: 6
+- AGI: 5
+- STR: 6 [8]
 - CHA: 3
 - LOG: 2
 - INT: 4
-- REA: 4 [7]
-- BOD: 2
-- WIL: 3
+- REA: 3 [6]
+- BOD: 4
+- WIL: 2
 - EDG: 3
 - MAG: 6
 - ESS: 6
-- Initiative: 8 [11] + 1D6 [4D6]
+- Initiative: 7 [10] + 1D6 [4D6]
 - Karma: 0
 - Cash: 2500 + 3D6*60
 
@@ -73,13 +71,13 @@ ____
 ####Computed stats:
 
 - Condition:
-	- Physical: 9
+	- Physical: 10
 	- Stun: 9
 	- 3 wound boxes
 	- overflow: 9
 - armor: 0 naked
-- damage resistance roll: 3 plus modified armor value
-- 12 to dodge, always get surprise roll
+- damage resistance roll: 4 plus modified armor value
+- 10 to dodge
 
 ____
 ####Handle:
@@ -96,7 +94,7 @@ This is the character I've toyed with the most. He was once very heavy into cybe
 
 The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Even astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept.
 
-In close combat he is 16 to hit with a knife (9P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 4D6 flat initiative is dominant as well.
+In close combat he is 16 to hit with a knife (11P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 4D6 flat initiative is dominant as well.
 
 Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and roll 4-5 on knowledge tests while doing so) or 11 to slip by (12 on most stealth rolls). He could also pose as an employee with a forged badge pretty effectively. 
 
