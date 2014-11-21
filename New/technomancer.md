@@ -95,7 +95,7 @@ Spade
 
 ####Bio:
 
-This here's a regular citizen, friend to the community. He's got a small business and everything. But it's a front. He bribed the right people and runs a small decker bar in a little corner of the grid. He'll drop by as a technomancer, posing as a quiet semi-regular, but both the customers and staff beleive the owner to be an absentee landlord; an admin who provided security and hired a manager to run the place. It looks like there's some funny business going on with the funding but everybody gets paid so who cares?
+This here's a regular citizen, friend to the community. He's got a small business and everything. He bribed the right people and runs a small decker bar in a little corner of the grid. He'll drop by as a technomancer, posing as a quiet semi-regular, but both the customers and staff beleive the owner to be an absentee landlord; an admin who provided security and hired a manager to run the place. It looks like there's some funny business going on with the funding but everybody gets paid so who cares?
 
 That's just for fun. 
 

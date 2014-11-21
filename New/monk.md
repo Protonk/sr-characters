@@ -2,8 +2,8 @@
 ____
 ####Qualities:
 
-- Negative: Code of honor (warrior's code)
-- Positive: Exceptional attribute (magic), High pain tolerance
+- Negative: Code of honor (warrior's code), Astral Beacon
+- Positive: Exceptional attribute (magic), Natural athlete
 
 ____
 ####Augments:
@@ -14,8 +14,8 @@ ____
 
 - Armor: Urban explorer jumpsuit (with helmet) 
 - Weapons: FN HAR (35 regular rounds, 140 APDS rounds, 5 spare clips), Katana
-- Other: medkit (rating 3 [1], supplies for 2)
-- Focus: Qi (rating 4)
+- Other: medkit (rating 3 [2])
+- Focus: Qi (rating 7)
 - Squatter [1 month]
 - 1 rating 3 fake SIN with 2 rating 3 fake licenses [rifle, magic]. 1 rating 2 fake SIN with no licenses
 
@@ -26,11 +26,13 @@ ____
 - Improved agility (level 2)
 - Combat sense (level 3)
 - Improved ability: Automatics (level 2)
+- Light body (level 1)
+- Wall running
 
 ____
 ####Active skills:
 
-- Automatics (6 [8] + assault rifles), Gymnastics (5 + parkour), Running (5), Blades (3 + swords)
+- Automatics (6 [8] + assault rifles), Gymnastics (4 + parkour), Running (4 + urban), Blades (2 + swords), Palming (2), First aid (1), Perception (1)
 
 ####Knowledge skills:
 
@@ -43,30 +45,30 @@ ____
 ____
 ####Contacts:
 
-- Fixer (con 3, loy 1)
+- Fixer (con 4, loy 3)
 
 ____
 ####Attributes
 
 - AGI: 6 [8]
 - STR: 5
-- CHA: 1
+- CHA: 2
 - LOG: 1
 - INT: 5
 - REA: 5 [8]
-- BOD: 5
+- BOD: 4
 - WIL: 4
 - EDG: 6
 - ESS: 6
 - MAG: 7
 - Initiative: 10 [13] + 1D6 [4D6]
-- Money: 1075 + 2D6 * 40
+- Money: 1150 + 2D6 * 40
 - Karma: 0
 
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 6 [7]
+- Physical: 6 [8]
 - Social: 4
 
 ####Computed stats:
@@ -76,7 +78,7 @@ ____
 	- Stun: 10
 	- 4 wound boxes
 - armor: 0 naked
-- damage resistance roll: 5 plus modified armor value
+- damage resistance roll: 4 plus modified armor value
 - 16 to dodge
 
 ____
@@ -98,7 +100,7 @@ It's unbelievably tuned. This guy gets 18 dice to hit with the assault rifle. Ag
 
 I have 14 + 4D6 initiative. 98% of the time, I'll get three moves in an combat turn. 20% of the time, I'll get four. 
 
-16 dodge means that against an attacker with 12 dice, I'll dodge 75% of the time, with high pain tolerance affording some margin for hits that land. Damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
+16 dodge means that against an attacker with 12 dice, I'll dodge 73% of the time--damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
 
 
 

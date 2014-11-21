@@ -9,18 +9,19 @@ ____
 ____
 ####Equipment:
 
-- Weapons: Combat knife, Browning Ultra Power (80 APDS rounds, 4 spare clips)
-- Armor: Actioneer business clothes (concealable holster), Lined coat
-- Gear: lockpick set, medkit (rating 2 [3] + 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
+- Weapons: Combat knife, Browning Ultra Power (20 regular rounds, 80 APDS rounds, 4 spare clips)
+- Armor: Actioneer business clothes (concealable holster), Lined coat (concealable holster)
+- Gear: lockpick set, medkit (rating 6, rating 2, 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
+- Electronics: Meta link, glasses (capacity 3: low light, enhancement (rating 2))
 - Other: RFID, security and stealth tags.
-- 1 rating 4 SINs with rating 4 [pistol, magic] licenses, 1 rating 2 fake SIN with no licenses
-- Magical:Focus [Qi (force 6)]
+- 1 rating 4 SIN with rating 4 licenses [pistol, magic], 1 rating 2 fake SIN with rating 4 license [magic]
+- Magical:Focus [Qi (force 4), Masking (force 1)]
 - Low Lifestyle (obscure, dangerous, cramped) [2 months]
 
 ____
 ####Active skills:
 
-- Stealth skill group (6), Athletics skill group (3), Outdoors skill group (1), Blades (6 [9] + knives), Etiquette (6 + corporate), Con (5 + fast talking), Pistols (5 + semi-auto), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
+- Stealth skill group (6), Athletics skill group (2), Outdoors skill group (2), Blades (6 [8] + knives), Etiquette (6 + corporate), Con (5 + fast talking), Pistols (5 + semi-auto), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
 
 ####Knowledge skills:
 
@@ -39,33 +40,33 @@ ____
 ____
 ####Adept powers:
 
-- Improved reflexes (level 3)
-- Improved strength (level 2)
-- Improved ability, blades (level 3)
+- Improved strength (level 3)
+- Improved reflexes (level 2)
+- Improved ability, blades (level 2)
 - Critical strike (blades)
 
 ____
 ####Attributes
 
-- AGI: 5
-- STR: 6 [8]
+- AGI: 6
+- STR: 5 [8]
 - CHA: 3
 - LOG: 2
 - INT: 4
-- REA: 3 [6]
+- REA: 3 [5]
 - BOD: 4
 - WIL: 2
 - EDG: 3
 - MAG: 6
 - ESS: 6
-- Initiative: 7 [10] + 1D6 [4D6]
+- Initiative: 7 [9] + 1D6 [3D6]
 - Karma: 0
-- Cash: 3300 + 3D6*60
+- Cash: 1500 + 3D6*60
 
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 6 [7]
+- Physical: 6 [8]
 - Social: 5
 
 ####Computed stats:
@@ -89,13 +90,13 @@ A former rank and file security officer for a Wuxing subsidiary, he was forced o
 
 ####Role:
 
-This is the character I've toyed with the most. He was once very heavy into cyberware, then unarmed, then secret agent and now this. All the while, the skillset was largely kept constant--46/10 with heavy investment in social skills and deception. This allowed for two combat skills which would be servicable in all ways even with lower stats. Now that I've invested nearly entirely in magic for adept powers, I can raise the stats back up and invest in reaction heavily.
+This is the character I've toyed with the most. He was once very heavy into cyberware, then unarmed, then secret agent and now this. All the while, the skillset was largely kept constant--46/10 with heavy investment in social skills and deception.
 
-The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Even astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept.
+The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept (-3 to detect my signature overall)
 
-In close combat he is 16 to hit with a knife (11P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 4D6 flat initiative is dominant as well.
+In close combat he is 16 to hit with a knife (11P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 3D6 flat initiative is pretty good as well.
 
-Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and roll 4-5 on knowledge tests while doing so) or 11 to slip by (11 on most stealth rolls). He could also pose as an employee with a forged badge pretty effectively. 
+Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and 4-5 on many knowledge tests while doing so) or 11 on most stealth rolls. He could also pose as an employee with a forged badge pretty effectively. 
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 

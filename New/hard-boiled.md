@@ -15,7 +15,7 @@ ____
 - Armor: Lined coat, actioneer business clothes
 - Weapons: Ruger Super Warhawk (60 regular rounds)
 - Other: medkit (rating 3 [1], supplies for 1), survival kit, forensics kit.
-- Electronics: Renraku Sensei, RFID tags [mostly stealth with some bugs]
+- Electronics: Renraku Sensei, RFID tags [mostly stealth with some bugs], glasses (capacity 3: low light, enhancement (rating 2))
 - Focus: Flexible signature (force 4)
 - Vehicle: Suzuki Mirage
 - Lifestyle: Middle with garage [3 months]
@@ -34,14 +34,14 @@ ____
 
 - Manabolt
 - Fireball
-- Mind probe
+- Analyze truth
 - Analyze magic
 - Detect magic
 
 ____
 ####Active skills:
 
-- Firearms skill group (4), Stealth skill group (1), Spellcasting (6 + detection), Counterspelling (6 + combat), Assensing (6 [7] + astral signatures), Tracking (4 + urban), Perception (4 [5]), Etiquette (3), Arcana (2 + focus design), Artificing (2 + focus analysis), Pilot ground vehicle (1)
+- Firearms skill group (2), Acting skill group (2), Stealth skill group (1), Spellcasting (6 + detection), Perception (6 [7] + visual), Assensing (6 [7] + astral signatures), Tracking (4 + urban), Counterspelling (3 + combat), Arcana (2 + focus design), Artificing (2 + focus analysis), Etiquette (1), Pilot ground vehicle (1)
 
 ####Knowledge skills:
 
