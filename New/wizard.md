@@ -38,11 +38,11 @@ ____
 
 ####Knowledge skills:
 
-- Hermetic lodges (3 + fire), Street mages (2), Everett (2), Talismongers (1), Magical foci (1)
+- Hermetic lodges (3 + fire), Street mages (2), Everett (2), Talismongers (2), Magical foci (1)
 
 ####Languages:
 
-- English N, Salish (4), Sperithel (2), Lakota (2), Spanish (1)
+- English N, Salish (4), Sperithel (2), Lakota (2)
 
 ____
 ####Contacts:

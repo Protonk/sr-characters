@@ -16,7 +16,7 @@ ____
 ####Equipment:
 
 - Armor: Lined coat.
-- Weapons: Taurus Omni-6 (wireless smartgun, 30 regular rounds, 60 APDS rounds rounds)
+- Weapons: Taurus Omni-6 (wireless smartgun, 30 regular rounds, 60 APDS rounds)
 - Other: Drone repair shop, drone disassembly kit
 - Electronics: Transys Avalon, Proteus Posiden, wireless biomonitor, sensor array (rating 5), bug scanner (rating 6), data tap
 - Lifestyle: High with garage [3 months]

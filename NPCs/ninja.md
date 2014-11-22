@@ -25,14 +25,14 @@ ____
 - Traceless walk
 - Improved ability: Blades (level 2)
 - Improved strength
-- Critical strike blades 
+- Critical strike (blades)
 - Direction sense
 - Light body (level 1)
 
 ____
 ####Active skills:
 
-- Athletics skill group (5), Blades (7 [9] + swords), Throwing weapons (5 + blades), Tracking (5 + urban), Stealth (4), Navigation (4 + celestial), Perception (3), Arcana (3), Survival (2)
+- Athletics skill group (5), Blades (7 [9] + swords), Throwing weapons (5 + blades), Tracking (5 + urban), Sneaking (4), Navigation (4 + celestial), Perception (3), Palming (3), Survival (2)
 
 ####Knowledge skills:
 
@@ -77,9 +77,9 @@ ____
 	- Physical: 10
 	- Stun: 10
 	- 3 wound boxes
-- armor: 8 in clothes, 9 in suit
+- armor: 0 naked
 - damage resistance roll: 5 plus modified armor value
-- 12 to dodge
+- 11 to dodge
 
 ____
 ####Handle:
