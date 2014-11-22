@@ -12,12 +12,12 @@ ____
 - Cybereyes (betaware, rating 1: [smartlink])
 - Obvious full cyberarm (betaware, wireless gyromount, +2 agility)
 - Obvious full cyberarm (betaware, +2 armor, +2 agility)
-- Aluminum bone lacing (betaware)
+- Aluminum bone lacing
 - Wired reflexes (betaware, wireless, rating 1)
-- Reaction enhancers (betaware, wireless, rating 2)
-- Reflex recorders (betaware) [heavy weapons]
-- Platelet factories (betaware)
-- Damage compensators (betaware, rating 4)
+- Reaction enhancers (alphaware, wireless, rating 2)
+- Reflex recorders [heavy weapons]
+- Platelet factories
+- Damage compensators (alphaware, rating 3)
 
 ####Equipment:
 
@@ -61,10 +61,10 @@ ____
 - BOD: 6
 - WIL: 4
 - EDG: 1
-- ESS: 1.01
+- ESS: 0.7
 - Initiative: 7 [10] + 1D6 [2D6]
 - Karma: 0
-- Cash: 4400 + 4D6*100
+- Cash: 12400 + 4D6*100
 
 ####Inherent limits:
 
@@ -77,7 +77,7 @@ ____
 - Condition:
 	- Physical: 11
 	- Stun: 10
-	- Wound boxes: 3 [5]
+	- Wound boxes: 5 physical, 4 stun
 - armor: 7 naked
 - damage resistance roll: 11 plus modified armor value, > 1 reduced by one.
 - Recoil compensation: 10 for Stoner-Ares in gyro, +1 for first shot

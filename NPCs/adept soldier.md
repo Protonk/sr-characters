@@ -9,33 +9,32 @@ ____
 ####Augments:
 
 - cybereyes (betaware, rating 1: smartlink)
-- orthoskin (betaware, rating 3)
+- orthoskin (betaware, rating 2)
 - platelet factories
 
 ####Equipment:
 
-- Armor: Urban explorer jumpsuit (with helmet), Armor jacket (with helmet), clothes (wireless, electrochromatic)
+- Armor:Full body armor (with helmet (flare compensation)), Armor jacket (with helmet), clothes (wireless, electrochromatic)
 - Weapons: Ares Alpha (airburst link, 240 APDS rounds, 15 HE grenades, 3 spare clips), SCK Model 100 (90 APDS rounds, 90 flechette rounds)
 - Other: Medkit (rating 6, rating 3 [2], supplies for 3), wireless biomonitor, Chem patches [Cram, Stim, Jazz, Kamikaze], Platinum DocWagon contract
 - Tools: Explosive foam (rating 12) [4], detonator [4], demolitions shop
-- Electronics: Transys Avalon, Glasses (rating 3: low lights, flare compensation), Headphones (rating 2: enhancement (rating 2)), binoculars (wireless), directional jammer (Rating 6), area jammer (Rating 6)
+- Electronics: Transys Avalon, Glasses (rating 3: low light, thermographic), Headphones (rating 2: enhancement (rating 2)), binoculars (wireless), directional jammer (Rating 6), area jammer (Rating 6)
 - Software: Tutorsofts [demolitions (rating 6)], Mapsofts [various, mostly in and around downtown]
 - Vehicle: Rover Model 2072
-- Magical: Focus [Qi (force 3)]
+- Magical: Focus [Qi (force 2)]
 - Lifestyle: High, secure with garage [5 months]
-- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, cyberware]. 1 rating 4 fake SIN with rating 4 fake licenses [magic, ground craft, cyberware]
+- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, cyberware, armor]. 1 rating 4 fake SIN with rating 4 fake licenses [magic, ground craft, cyberware]
 
 ____
 ####Adept powers: 
 
 - Mystic armor (level 6)
 - Improved automatics (level 1)
-- Light body (level 1)
 
 ____
 ####Active skills:
 
-- Automatics (6 [7] + assault rifles), Tracking (3 + urban), Gymnastics (2), Running (2 + sprinting), Demolitions (2), Pilot ground craft (1), Throwing weapons (1)
+- Automatics (6 [7] + assault rifles), Tracking (3 + urban), Gymnastics (2), Running (2 + sprinting), Demolitions (2), Pilot ground craft (1), Throwing weapons (1), Unarmed (1)
 
 ####Knowledge skills:
 
@@ -62,10 +61,10 @@ ____
 - BOD: 5
 - WIL: 6
 - EDG: 4
-- ESS: 5.0
+- ESS: 5.175
 - MAG: 4 [3]
 - Initiative: 10 + 1D6
-- Money: 5000 + 5D6 * 500
+- Money: 1000 + 5D6 * 500
 - Karma: 0
 
 ####Inherent limits:
@@ -81,7 +80,7 @@ ____
 	- Stun: 12
 	- 5 wound boxes
 	2 extra overflow
-- armor: 9 naked
+- armor: 8 naked
 - damage resistance roll: 6 plus modified armor value (reduce >1 by 1)
 - 10 to dodge
 
@@ -102,7 +101,7 @@ Just to be clear, you call this guy when you need maximum force for a short time
 
 Close quarters combat. For house-to-house fighting or ranged engagements inside 100 yards, this guy is it. 16 to hit on the assault rifle (11P -6AP or 16P -2AP grenades) and 14 to hit on the submachine gun. Outside of sniper rifles (or the whip) it's the best flat damage available and he can deliver it continuously and under fire.
 
-To provide this I chose high armor and soaking capabilities--9 natural armor, 5 wound boxes and platelet factories. 23 total armor forces low AP weapons to do stun damage, splitting tracks. 
+To provide this I chose high armor (8 natural armor + full body armor) and soaking capabilities: 5 wound boxes and platelet factories. 25 total armor forces low AP weapons to do stun damage, splitting tracks. 
 
 On stims or drugs, he could be a considerable force for an hour of combat.
 

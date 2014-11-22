@@ -9,14 +9,14 @@ ____
 ____
 ####Augments:
 
-- Aluminum bone lacing (betaware)
+- Aluminum bone lacing
 - Obvious cyberarm (betaware, armor +2, AGI +1)
 - Synthetic cyberarm (betaware, armor +1, AGI +1)
 - Synthetic cyberleg (betaware, armor +2, wireless holster)
 - Synthetic cyberleg (betaware, armor +2)
 - cybereyes (betaware, rating 1: wireless smartlink)
 - Orthoskin (alphaware, rating 2)
-- damage compensators (betaware, rating 4)
+- damage compensators (alphaware, rating 3)
 - Reflex recorders [longarms]
 - Platelet factories
 
@@ -60,9 +60,9 @@ ____
 - BOD: 8
 - WIL: 6
 - EDG: 6
-- ESS: 1.05
+- ESS: 0.9
 - Initiative: 8 + 1D6
-- Money: 1400 + 3D6 * 50
+- Money: 7400 + 3D6 * 50
 - Karma: 0
 
 ####Inherent limits:
@@ -76,7 +76,7 @@ ____
 - Condition:
 	- Physical: 12
 	- Stun: 11
-	- 4 physical wound boxes, 6 stun wound boxes (damage compensators)
+	- 4 physical wound boxes, 5 stun wound boxes (damage compensators)
 - armor: 12 naked (26 decked out, 21 in lined coat)
 - damage resistance roll: 15 plus modified armor value (always reduce damage >1 by 1 due to platelet factories)
 - 8 to dodge

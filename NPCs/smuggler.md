@@ -10,7 +10,7 @@ ____
 
 - Obvious full cyberleg (betaware, compartment, jacks (wireless, rating 5), armor +2)
 - Synthetic full cyberleg (betaware, jacks (wireless, rating 5), armor +1)
-- Aluminum bone lacing (betaware)
+- Aluminum bone lacing
 - cybereyes (betaware, rating 2: smartlink, thermographic, low light)
 - reflex recorders [automatics, pilot ground vehicle]
 
@@ -57,9 +57,9 @@ ____
 - BOD: 4
 - WIL: 4
 - EDG: 5
-- ESS: 3.31
+- ESS: 3.01
 - Initiative: 10 + 1D6
-- Money: 3500 + 4D6 * 100
+- Money: 6500 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
