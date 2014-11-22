@@ -2,7 +2,7 @@
 ____
 ####Qualities:
 
-- Negative: Bad luck
+- Negative:
 - Positive: Astral Chameleon
 
 ____
@@ -12,86 +12,76 @@ ____
 
 ####Equipment:
 
-- Armor: Lined coat, actioneer business clothes
-- Weapons: Ruger Super Warhawk (60 regular rounds)
-- Other: medkit (rating 3 [1], supplies for 1), survival kit, forensics kit.
-- Electronics: Renraku Sensei, RFID tags [mostly stealth with some bugs], glasses (capacity 3: low light, enhancement (rating 2))
-- Focus: Flexible signature (force 4)
-- Vehicle: Suzuki Mirage
-- Lifestyle: Middle with garage [3 months]
-- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, concealed carry, vehicle, private detective], 1 rating 4 fake SIN with rating 4 fake licenses [magic, vehicle, private detective]
+- Armor: Lined coat
+- Weapons: Browning Ultra Power (20 regular rounds, 40 hollow point rounds, 3 spare clips), extensible baton
+- Other: medkit (rating 3 [1]), survival kit, forensics kit.
+- Electronics: RFID tags [mostly stealth with some bugs], glasses (capacity 3: low light, enhancement (rating 2))
+- Focus: Flexible signature (force 2)
+- Lifestyle: Low [2 months]
+- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, private detective], 1 rating 2 fake SIN with rating 4 fake license [magic]
 
 ____
 ####Adept powers: 
 
-- Improved reflexes (rating 1)
-- Improved body (rating 1)
 - Astral perception
-- Enhanced perception
-
-____
-####Spells:
-
-- Manabolt
-- Fireball
-- Analyze truth
-- Analyze magic
-- Detect magic
+- Spell resistance (level 2)
+- Enhanced perception (level 1)
+- Kinesics (level 1)
+- Improved tactile sense
 
 ____
 ####Active skills:
 
-- Firearms skill group (2), Acting skill group (2), Stealth skill group (1), Spellcasting (6 + detection), Perception (6 [7] + visual), Assensing (6 [7] + astral signatures), Tracking (4 + urban), Counterspelling (3 + combat), Arcana (2 + focus design), Artificing (2 + focus analysis), Etiquette (1), Pilot ground vehicle (1)
+- Acting skill group (4), Enchanting skill group (1), Assensing (6 [7] + signatures), Perception (6 [7] + searching), Pistols (5 + semi-auto), Tracking (4), Etiquette (4), Navigation (2), Sneaking (2), Clubs (2 + batons), Arcana (1)
 
 ####Knowledge skills:
 
-- Street magic (4 + reagents), Talismongers (4), 20th century detective novels (1)
+- Talismongers (3), Hermetic lodges (2), Safe houses (1), Shamanic lodges (1)
 
 ####Languages:
 
-- English N, Sperethiel (4), Salish (3), Spanish (2)
+- English N, Sperithel (2), Lakota (2), Salish (1)
 
 ____
 ####Contacts:
 
-- Information broker (con 3, loy 4)
+- Fixer (con 1, loy 1)
+- Information broker (con 3, loy 2)
 - Talismonger (con 2, loy 3)
-- Street shaman (con 2, loy 3)
-- Fixer (con 1 loy 1)
 
 ____
 ####Attributes
 
-- AGI: 3
+- AGI: 4
 - STR: 2
-- CHA: 5
+- CHA: 4
 - LOG: 3
 - INT: 5
-- REA: 5 [6]
-- BOD: 3 [4]
+- REA: 4
+- BOD: 4
 - WIL: 6
-- EDG: 2
+- EDG: 6
 - ESS: 6
-- MAG: 4
-- Initiative: 10 [11] + 1D6 [2D6]
-- Money: 2900 + 4D6 * 100
+- MAG: 3
+- Initiative: 9 + 1D6
+- Money: 1100 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
 
 - Mental: 5
-- Physical: 4
-- Social: 7
+- Physical: 3
+- Social: 6
 
 ####Computed stats:
 
 - Condition:
-	- Physical: 11
+	- Physical: 10
 	- Stun: 11
 	- 3 wound boxes
 - armor: 12
 - damage resistance roll: 4 plus modified armor value
-- 11 to dodge
+- 9 to dodge
 
 ____
 ####Handle:
@@ -104,8 +94,6 @@ Mystic adept version of the occult investigator. Able to astrally perceive (and 
 
 ####Role:
 
-Combat is workable in most cases (12 to hit), but detection and investigation are where it's at: perception and assensing are boosted, as are investigatory magic skills. Astral chameleon and a flexible signature focus are chosen to better sneak up on quarry--attempts to detect my astral signature are at -5. 
-
-Have to start with a lot of karma to burn for power points (mystic adepts don't get them for free) so I have some left over for a focus. 
+Stats heavy, with a mix of skills. Adept powers chosen to support assensing (with a hair of spell resistance). Not great in combat, but pretty good at magical leg-work. Very good at perception, pretty capable with conning information out of someone and somewhat well connected. Astral chameleon and a flexible astral signature means I might be able to tail a magician or toss their place without them noticing the signature (-4 to get astral info). A small amount of magical skills and knowledge help investigating magical artifacts and stuff.
 
 ####SINs:
