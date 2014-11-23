@@ -25,18 +25,16 @@ ____
 
 - Astral perception
 - Spell resistance (level 2)
-- Enhanced perception (level 1)
-- Kinesics (level 1)
-- Improved tactile sense
+- Enhanced perception (level 2)
 
 ____
 ####Active skills:
 
-- Acting skill group (4), Enchanting skill group (1), Assensing (6 [7] + signatures), Perception (6 [7] + searching), Pistols (5 + semi-auto), Tracking (4), Etiquette (4), Navigation (2), Sneaking (2), Clubs (2 + batons), Arcana (1)
+- Acting skill group (4), Enchanting skill group (1), Assensing (6 [8] + signatures), Perception (6 [8] + searching), Pistols (5 + semi-auto), Tracking (4), Etiquette (4), Navigation (2), Sneaking (2), Clubs (2 + batons), Arcana (1)
 
 ####Knowledge skills:
 
-- Talismongers (3), Hermetic lodges (2), Safe houses (1), Shamanic lodges (1)
+- Magical preparations (3), Hermetic lodges (2), Safe houses (1), Street mages (1)
 
 ####Languages:
 
