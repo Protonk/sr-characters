@@ -35,7 +35,7 @@ ____
 ____
 ####Active skills:
 
-- Influence skill group (2), Compiling (6 + crack), Decompiling (6 + fault), Registering (6 + data), Software (6 + cleaner), Forgery (2 + false id), Pistols (2), Con (2 + fast talking), Perception (2)
+- Influence skill group (2), Compiling (6 + crack), Decompiling (6 + fault), Registering (6 + data), Software (6 + cleaner), Computer (3 + erase signature), Pistols (2), Con (2), Perception (2)
 
 ####Knowledge skills:
 
