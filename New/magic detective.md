@@ -1,4 +1,14 @@
+###Spade
+
+####Role:
+
+Stats heavy, with a mix of skills. Adept powers chosen to support assensing (with a hair of spell resistance). Not great in combat, but pretty good at magical leg-work. Very good at perception, pretty capable with conning information out of someone and somewhat well connected. Astral chameleon and a flexible astral signature means I might be able to tail a magician or toss their place without them noticing the signature (-4 to get astral info). A small amount of magical skills and knowledge help investigating magical artifacts and stuff.
+
+Worth it for legwork. Assensing and perception can potentially roll **15** (limit 6 w/ 6 edge). Combinded with the astral chameleon and flexible signature and they can see much more about the magical world than it can of them. Good contacts for runs needing lots of legwork and focused on sussing out leads.
+
+____
 ####Human
+
 ____
 ####Qualities:
 
@@ -82,18 +92,8 @@ ____
 - 8 to dodge
 
 ____
-####Handle:
-
-Spade
-
 ####Bio:
 
 Mystic adept version of the occult investigator. Able to astrally perceive (and do combat with magic), their skill set is focused on tracking down magicians and artificers through forensics or an information network. If you need to find a hermit or a way in to a heavily warded compound and no one else can do it, you call her.
-
-####Role:
-
-Stats heavy, with a mix of skills. Adept powers chosen to support assensing (with a hair of spell resistance). Not great in combat, but pretty good at magical leg-work. Very good at perception, pretty capable with conning information out of someone and somewhat well connected. Astral chameleon and a flexible astral signature means I might be able to tail a magician or toss their place without them noticing the signature (-4 to get astral info). A small amount of magical skills and knowledge help investigating magical artifacts and stuff.
-
-Worth it for legwork. Assensing and perception can potentially roll **15** (limit 6 w/ 6 edge). Combinded with the astral chameleon and flexible signature and they can see much more about the magical world than it can of them. Good contacts for runs needing lots of legwork and focused on sussing out leads.
 
 ####SINs:

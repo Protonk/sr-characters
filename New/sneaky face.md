@@ -1,3 +1,18 @@
+###Condor
+
+####Role:
+
+This is the character I've toyed with the most. He was once very heavy into cyberware, then unarmed, then secret agent and now this. All the while, the skillset was largely kept constant--46/10 with heavy investment in social skills and deception.
+
+The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept (-3 to detect my signature overall)
+
+In close combat he is 16 to hit with a knife (11P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 3D6 flat initiative is pretty good as well.
+
+Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and 4-5 on many knowledge tests while doing so) or 11 on most stealth rolls. He could also pose as an employee with a forged badge pretty effectively. 
+
+This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
+
+____
 ####Human
 
 ____
@@ -12,7 +27,6 @@ ____
 - Weapons: Combat knife, Browning Ultra Power (20 regular rounds, 80 APDS rounds, 4 spare clips)
 - Armor: Actioneer business clothes (concealable holster), Lined coat (concealable holster)
 - Gear: lockpick set, medkit (rating 6, rating 2, 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
-- Electronics: Meta link, glasses (capacity 3: low light, enhancement (rating 2))
 - Other: RFID, security and stealth tags.
 - 1 rating 4 SIN with rating 4 licenses [pistol, magic], 1 rating 2 fake SIN with rating 4 license [magic]
 - Magical:Focus [Qi (force 4), Masking (force 1)]
@@ -61,7 +75,7 @@ ____
 - ESS: 6
 - Initiative: 7 [9] + 1D6 [3D6]
 - Karma: 0
-- Cash: 1500 + 3D6*60
+- Cash: 1980 + 3D6*60
 
 ####Inherent limits:
 
@@ -80,25 +94,9 @@ ____
 - 10 to dodge
 
 ____
-####Handle:
-
-Condor
-
 ####Bio:
 
 A former rank and file security officer for a Wuxing subsidiary, he was forced out of his position when the warehouse his team was guarding got pilfered by runners. He may have been paid off, but he's not going to explain what he did or who he worked for, as they may still be looking for him. All we know is he's good with a knife and a pistol and on the lam from somewhere. 
-
-####Role:
-
-This is the character I've toyed with the most. He was once very heavy into cyberware, then unarmed, then secret agent and now this. All the while, the skillset was largely kept constant--46/10 with heavy investment in social skills and deception.
-
-The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept (-3 to detect my signature overall)
-
-In close combat he is 16 to hit with a knife (11P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 3D6 flat initiative is pretty good as well.
-
-Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and 4-5 on many knowledge tests while doing so) or 11 on most stealth rolls. He could also pose as an employee with a forged badge pretty effectively. 
-
-This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 
 ####SINs:
 

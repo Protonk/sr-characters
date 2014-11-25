@@ -1,3 +1,15 @@
+###Jolee
+
+####Role:
+
+Magical weapon. I get 9 magic AND 7 spellcasting, as well as +4 for combat spells: 20 total. He resists drain at 11. and counterspelling is at 14.
+
+I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and two spells, leaving just enough (2) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
+
+Skill groups are spread out. I don't want to be forced to default on stuff where I could be getting a decent attribute bonus. 
+
+Adding another specialization (or taking an appropriate initiate grade) could make this guy very powerful. If they survived five or ten good runs, they'd be a singular wizard.
+
 ####Human
 ____
 ####Qualities:
@@ -87,25 +99,12 @@ ____
 - 7 to dodge
 
 ____
-####Handle:
-
-Jolee
-
 ####Bio:
 
 This guy is a regular runner. Middle income, a shitty car, fake licenses to make all that go down smooth with what passes for the law around here. But his astral form is a menace. On the astral plane, he's burning with holy fire. A naive runner might think he's compensating for a dearth of magical skill by loading up power foci, but he's a profoundly adept mage as well. 
 
 An ambush on the astral plane humiliated him in front of his peers and he is chasing high risk combat jobs until the shame lifts--this may never happen. Running may be his new life and a meaner outlet for his considerable power.
 
-####Role:
-
-Magical weapon. I get 9 magic AND 7 spellcasting, as well as +4 for combat spells: 20 total. He resists drain at 11. and counterspelling is at 14.
-
-I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and two spells, leaving just enough (2) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
-
-Skill groups are spread out. I don't want to be forced to default on stuff where I could be getting a decent attribute bonus. 
-
-Adding another specialization (or taking an appropriate initiate grade) could make this guy very powerful. If they survived five or ten good runs, they'd be a singular wizard.
 
 
 

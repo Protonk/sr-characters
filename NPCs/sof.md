@@ -1,4 +1,14 @@
+###Omar
+
+####Role:
+
+Close quarters combat. For house-to-house fighting or ranged engagements inside 100 yards, this guy is it. 14 to hit on the assault rifle (11P -6AP or 16P -2AP grenades), but with the pump turned on and using kamikaze, he's 17 to hit with 13 + 3D6 initiative and 9 body. 
+
+On stims or drugs, he could be a considerable force for an hour of combat.
+
+____
 ####Human
+
 ____
 ####Qualities:
 
@@ -79,10 +89,6 @@ ____
 - 10 to dodge
 
 ____
-####Handle:
-
-Omar
-
 ####Bio:
 
 I had a lot of resources and not a lot of skills, so I went for "expensive hired muscle". He can be ex special forces for Aztecnology, having left the business after a series of ethically murky runs. Now he works with a very specific code: no defenseless person dies--bystanders, children, etc. That's not usually a problem if he is brought in to a firefight, which is where he works best.
@@ -90,11 +96,5 @@ I had a lot of resources and not a lot of skills, so I went for "expensive hired
 You call him up and he helps you clear out a compound of gangers, rob a bank or move your things. He will execute the job with extreme force until the target is dead, robbed or moved, respectively. Then he leaves. If you want to hear from him again, speak to his fixer.
 
 Just to be clear, you call this guy when you need maximum force for a short time. He's not much of an asset to leg work. 
-
-####Role:
-
-Close quarters combat. For house-to-house fighting or ranged engagements inside 100 yards, this guy is it. 14 to hit on the assault rifle (11P -6AP or 16P -2AP grenades), but with the pump turned on and using kamikaze, he's 17 to hit with 13 + 3D6 initiative and 9 body. 
-
-On stims or drugs, he could be a considerable force for an hour of combat.
 
 ####SINs:

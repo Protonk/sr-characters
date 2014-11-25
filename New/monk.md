@@ -1,3 +1,18 @@
+###Augustine
+
+####Role:
+
+Wreck face. Maybe not the most fun but potentially the most dominant combat character in many settings. 
+
+Exceptional attribute boosts magic, with the choice of Human (7) and Magic (C) allowing me to maximize both edge and magic. I can then stack on all the flat, undispellable adept powers I want. It leaves room for minimal skills and money but options for ranged and melee as well as lots of mobility.
+
+It's unbelievably tuned. This guy gets 18 dice to hit with the assault rifle. Against someone with ~ 10 dodge (pretty standard for low/mid level grunts) I'll hit nearly 90% of the time with an average 2 net hits. Only 13 to hit with the katana but if I spend an edge I get 18 to hit--I have 6 edge to spend. 
+
+I have 14 + 4D6 initiative. 98% of the time, I'll get three moves in an combat turn. 20% of the time, I'll get four. 
+
+16 dodge means that against an attacker with 12 dice, I'll dodge 73% of the time--damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
+
+____
 ####Human
 ____
 ####Qualities:
@@ -83,25 +98,11 @@ ____
 - 16 to dodge
 
 ____
-####Handle:
-
-Augustine
-
 ####Bio:
 
 
 
-####Role:
 
-Wreck face. Maybe not the most fun but potentially the most dominant combat character in many settings. 
-
-Exceptional attribute boosts magic, with the choice of Human (7) and Magic (C) allowing me to maximize both edge and magic. I can then stack on all the flat, undispellable adept powers I want. It leaves room for minimal skills and money but options for ranged and melee as well as lots of mobility.
-
-It's unbelievably tuned. This guy gets 18 dice to hit with the assault rifle. Against someone with ~ 10 dodge (pretty standard for low/mid level grunts) I'll hit nearly 90% of the time with an average 2 net hits. Only 13 to hit with the katana but if I spend an edge I get 18 to hit--I have 6 edge to spend. 
-
-I have 14 + 4D6 initiative. 98% of the time, I'll get three moves in an combat turn. 20% of the time, I'll get four. 
-
-16 dodge means that against an attacker with 12 dice, I'll dodge 73% of the time--damage will be streaky, with dodge after dodge followed up by a serious hit (net hits of 0 => 0 damage bifurcates the outcome a bit).
 
 
 

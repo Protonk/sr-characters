@@ -1,3 +1,10 @@
+###Hess
+
+####Role:
+
+Purpose built smuggler. Not a lot of stats, but fairly well rounded, with cyberware to support smuggling and some combat. Qualities and skills chosen to support smuggling stuff around Seattle (especially to/through the docks). Truck not chosen for subtlety.
+
+____
 ####Human
 ____
 ####Qualities:
@@ -20,9 +27,10 @@ ____
 - Weapons: FN HAR (35 regular rounds, 140 APDS rounds, 5 spare clips)
 - Other: medkit (rating 3 [2]), Explosive foam (rating 12) [4], detonator [4], vehicle repair shop
 - Electronics: Transys Avalon, RFID tags
+- Software: Mapsofts [seattle, docks, various others], datasofts [weapons, buyer lists, pay data]
 - Vehicle: Ares Roadmaster 
-- Middle, obscure with garage [6 months]
-- 1 rating 3 fake SIN with 2 rating 3 fake licenses [rifle, magic]. 1 rating 2 fake SIN with no licenses
+- Middle, obscure with garage [4 months]
+- 1 rating 4 fake SIN with 2 rating 4 fake licenses [cyberware, vehicle]. 1 rating 2 fake SIN with no licenses
 
 ____
 ####Active skills:
@@ -59,7 +67,7 @@ ____
 - EDG: 5
 - ESS: 3.01
 - Initiative: 10 + 1D6
-- Money: 6500 + 4D6 * 100
+- Money: 2700 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
@@ -79,17 +87,11 @@ ____
 - 10 to dodge
 
 ____
-####Handle:
-
-Hess
-
 ####Bio:
 
 
 
-####Role:
-
-Purpose built smuggler. Not a lot of stats, but fairly well rounded, with cyberware to support smuggling and some combat. Qualities and skills chosen to support smuggling stuff around Seattle (especially to/through the docks). Truck not chosen for subtlety. 
+ 
 
 
 ####SINs:

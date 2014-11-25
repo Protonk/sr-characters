@@ -1,3 +1,10 @@
+###Indiana
+
+####Role:
+
+13P -8 AP, reach of 2. This character is built around the monofilament whip. Only 14 to hit, but that will change with a synthetic arm (becoming 17 to hit). Bone lacing with orthoskin allows for some flat armor value to handle incoming hits, but it isn't much compared to the tank. If he hits, it'll hurt. Burning edge to land important hits will offer 19 to hit.
+
+____
 ####Human
 
 ____
@@ -81,13 +88,10 @@ ____
 - 12 to dodge
 
 ____
-####Handle:
+####Bio:
 
-Indiana
 
-####Role:
-
-13P -8 AP, reach of 2. This character is built around the monofilament whip. Only 14 to hit, but that will change with a synthetic arm (becoming 17 to hit). Bone lacing with orthoskin allows for some flat armor value to handle incoming hits, but it isn't much compared to the tank. If he hits, it'll hurt. Burning edge to land important hits will offer 19 to hit.
+####SINs
 
 ####Goals (in rough order of current importance):
 

@@ -1,5 +1,12 @@
 Scratch pad for character sheets: format should follow the below.
 
+###Handle
+
+####Role:
+
+What's cool about the character
+
+____
 ####Metatype
 
 ____
@@ -60,17 +67,9 @@ ____
 - ...
 
 ____
-####Handle:
-
-Name
-
 ####Bio:
 
 Optional
-
-####Role:
-
-Optional, what's cool about the character
 
 ####SINs:
 
