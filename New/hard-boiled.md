@@ -18,7 +18,7 @@ ____
 - Electronics: RFID tags [mostly stealth with some bugs], glasses (capacity 3: low light, enhancement (rating 2))
 - Focus: Flexible signature (force 2)
 - Lifestyle: Low [2 months]
-- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, private detective], 1 rating 2 fake SIN with rating 4 fake license [magic]
+- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, private detective], 1 rating 2 fake SIN with rating 4 fake license [private detective]
 
 ____
 ####Adept powers: 
@@ -34,11 +34,11 @@ ____
 
 ####Knowledge skills:
 
-- Magical preparations (3), Hermetic lodges (2), Safe houses (1), Street mages (1)
+- Magical forensics (3), Hermetic lodges (2), Street mages (2), Safe houses (1), Magic theory (1)
 
 ####Languages:
 
-- English N, Sperithel (2), Lakota (2), Salish (1)
+- English N, Lakota (3), Sperethiel (2)
 
 ____
 ####Contacts:
@@ -53,21 +53,21 @@ ____
 - AGI: 4
 - STR: 2
 - CHA: 4
-- LOG: 3
+- LOG: 4
 - INT: 5
-- REA: 4
+- REA: 3
 - BOD: 4
 - WIL: 6
 - EDG: 6
 - ESS: 6
 - MAG: 3
-- Initiative: 9 + 1D6
+- Initiative: 8 + 1D6
 - Money: 1100 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
 
-- Mental: 5
+- Mental: 6
 - Physical: 3
 - Social: 6
 
@@ -79,7 +79,7 @@ ____
 	- 3 wound boxes
 - armor: 12
 - damage resistance roll: 4 plus modified armor value
-- 9 to dodge
+- 8 to dodge
 
 ____
 ####Handle:
@@ -93,5 +93,7 @@ Mystic adept version of the occult investigator. Able to astrally perceive (and 
 ####Role:
 
 Stats heavy, with a mix of skills. Adept powers chosen to support assensing (with a hair of spell resistance). Not great in combat, but pretty good at magical leg-work. Very good at perception, pretty capable with conning information out of someone and somewhat well connected. Astral chameleon and a flexible astral signature means I might be able to tail a magician or toss their place without them noticing the signature (-4 to get astral info). A small amount of magical skills and knowledge help investigating magical artifacts and stuff.
+
+Worth it for legwork. Assensing and perception can potentially roll **15** (limit 6 w/ 6 edge). Combinded with the astral chameleon and flexible signature and they can see much more about the magical world than it can of them. Good contacts for runs needing lots of legwork and focused on sussing out leads.
 
 ####SINs:

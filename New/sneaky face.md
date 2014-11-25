@@ -21,7 +21,7 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (6), Athletics skill group (2), Outdoors skill group (2), Blades (6 [8] + knives), Etiquette (6 + corporate), Con (5 + fast talking), Pistols (5 + semi-auto), Perception (5), Locksmith (5), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
+- Stealth skill group (6), Athletics skill group (2), Outdoors skill group (2), Blades (6 [8] + knives), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (4), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
 
 ####Knowledge skills:
 

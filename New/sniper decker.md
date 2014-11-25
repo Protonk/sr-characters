@@ -9,9 +9,9 @@ ____
 ____
 ####Augments:
 
-- cybereyes (rating 1: smartlink)
-- cyberears (rating 1: spatial recognizer, filter (rating 2))
-- reaction enhancers (wireless, rating 2)
+- cybereyes (betaware, rating 1: smartlink)
+- cyberears (betaware, rating 1: spatial recognizer, filter (rating 2))
+- reaction enhancers (alphaware, wireless, rating 2)
 - wired reflexes (wireless, rating 1)
 - enhanced articulation
 - muscle toner (rating 2)
@@ -28,7 +28,7 @@ ____
 - Countermeasures: Bug scanner (Rating 6) [3], Microtranceiver [3], RFID tags [25: many sensors but at least a few of each kind]
 - Electronics: Transys Avalon, Erika MCD-1 (virtual machine, decryption, trace), AR Gloves, wireless biomonitor
 - Other: Medkit (rating 3 [2]), Gold DocWagon contract, 20 Chem patches (Bliss)
-- Ident: 2 rating 4 fake SINs with rating 3 fake licenses [cyberware, sensor equipment, concealed weapon, cyberdeck], 1 rating 3 fake sin with rating 4 fake licenses [cyberware, cyberdeck].
+- Ident: 2 rating 4 fake SINs with rating 3 fake licenses [cyberware, sensor equipment, concealed weapon, cyberdeck]
 - Lifestyle: High, obscure, special work area [6 months]
 
 ____
@@ -61,9 +61,9 @@ ____
 - BOD: 4
 - WIL: 4
 - EDG: 5
-- ESS: 1.0
+- ESS: 1.44
 - Initiative: 6 [9] + 1D6 [2D6]
-- Money: 5,010 + 5D6 * 100
+- Money: 3,000 + 5D6 * 100
 - Karma: 0
 
 ####Inherent limits:

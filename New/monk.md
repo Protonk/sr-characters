@@ -26,8 +26,9 @@ ____
 - Improved agility (level 2)
 - Combat sense (level 3)
 - Improved ability: Automatics (level 2)
-- Light body (level 1)
 - Wall running
+- Light body (level 1)
+
 
 ____
 ####Active skills:
@@ -76,7 +77,7 @@ ____
 - Condition:
 	- Physical: 10
 	- Stun: 10
-	- 4 wound boxes
+	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
 - 16 to dodge

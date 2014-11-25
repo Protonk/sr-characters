@@ -11,7 +11,7 @@ ____
 - Weapons: Remington Roomsweeper (wireless smartgun, 130 flechette rounds, 3 spare clips)
 - Armor: Lined coat, chameleon suit (rating 3 thermal damper)
 - Electronics: Goggles (capacity 6: smartlink, low light, enhancement (rating 2), magnification), Headphones (capacity 4: sound filter (rating 2), enhancement (rating 2)), Renraku Sensei
-- Other: medkit (rating 2) [2] supplies for 3
+- Other: medkit (rating 6)
 - Vehicle: C-N Jackrabbit
 - Magic objects: Rituals [8], Magical lodge (fire, force 3), Foci [Power (force 3), Combat spellcasting (force 3)]
 - 1 fake SIN rating 4 with rating 4 fake licenses [magic, pistol], 1 rating 3 fake SIN with rating 4 licenses [magic, car]
@@ -34,11 +34,11 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + combat), Counterspelling (6 + combat), Ritual spellcasting (6 + spell), Arcana (6 + spell design), Astral combat (6), Assensing (3), Pistols (2 + semi-auto), Perception (2), Pilot ground vehicle (1), First aid (1)
+- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + combat), Counterspelling (6 + combat), Astral combat (5), Ritual spellcasting (4 + spell), Assensing (4), Perception (4), Pistols (4 + semi-auto), Pilot ground vehicle (2), Etiquette (2), Arcana (2)
 
 ####Knowledge skills:
 
-- Hermetic lodges (3 + fire), Street mages (2), Everett (2), Talismongers (2), Magical foci (1)
+- Hermetic lodges (3 + fire), Street mages (3), Talismongers (2), Magic theory (2)
 
 ####Languages:
 
@@ -67,7 +67,7 @@ ____
 - MAG: 6 [9]
 - Initiative: 7 + 1D6
 - Astral Initiative: 8 + 2D6
-- Starting cash: 700 + 4D6 * 100
+- Starting cash: 1100 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
@@ -99,7 +99,7 @@ An ambush on the astral plane humiliated him in front of his peers and he is cha
 
 ####Role:
 
-Magical weapon. I get 9 magic AND 7 spellcasting, as well as 2 spellcasting foci to support combat spells. Add to that the specialization in combat and I get 20 to hit for combat spells--15 for everything else--counterspelling is 14. He resists drain at 11.
+Magical weapon. I get 9 magic AND 7 spellcasting, as well as +4 for combat spells: 20 total. He resists drain at 11. and counterspelling is at 14.
 
 I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and two spells, leaving just enough (2) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
 

@@ -21,11 +21,11 @@ ____
 
 ####Equipment:
 
-- Armor: Armor jacket, lined coat, helmet 
+- Armor: Armor jacket (with helmet), lined coat, electrochromatic clothes
 - Weapons: Stoner-Ares M202 MMG (gas vent (rating 3), shock pad, wireless smartgun, 600 APDS rounds, 200 tracer rounds, 2 spare clips, 2 spare belts), Ruger Super Warhawk (wireless smartgun, 60 APDS rounds), ArmTech MGL-12 (wireless smartgun, airburst link, 24 frag, 24 HE rounds)
-- Other: medkit (rating 3 [2], supplies for 2), Biomonitor (wireless), DocWagon Super-Platinum contract, repair shop
-- Electronics: Transys Avalon, Goggles (capacity 4: flare compensation, enhancement (rating 2), thermographic)
-- Software: Tutorsofts [Automotive mechanic (rating 4), Pilot ground craft (rating 5)]
+- Other: medkit (rating 6, rating 3 [2], supplies for 2), Biomonitor (wireless), DocWagon Super-Platinum contract, repair shop
+- Electronics: Transys Avalon, Goggles (capacity 4: flare compensation, enhancement (rating 2), thermographic), AR gloves
+- Software: Tutorsofts [Automotive mechanic (rating 4), Pilot ground craft (rating 6), Throwing weapons (rating 4)]
 - Vehicles: Harley-Davidson Scorpion
 - 1 rating 4 fake SIN with rating 4 licenses [cyberware, vehicle, pistol], 1 rating 4 fake SIN with rating 4 licenses [cyberware, vehicle]
 - Middle lifestyle with garage (3 months)
@@ -64,7 +64,7 @@ ____
 - ESS: 0.7
 - Initiative: 7 [10] + 1D6 [2D6]
 - Karma: 0
-- Cash: 12400 + 4D6*100
+- Cash: 4800 + 4D6*100
 
 ####Inherent limits:
 

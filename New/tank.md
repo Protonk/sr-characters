@@ -77,7 +77,7 @@ ____
 	- Physical: 12
 	- Stun: 11
 	- 4 physical wound boxes, 5 stun wound boxes (damage compensators)
-- armor: 12 naked (26 decked out, 21 in lined coat)
+- armor: 11 naked (25 decked out, 20 in lined coat)
 - damage resistance roll: 15 plus modified armor value (always reduce damage >1 by 1 due to platelet factories)
 - 8 to dodge
 
@@ -91,7 +91,7 @@ TIO
 
 ####Role:
 
-Tank. The amount of incoming damage this character can take is absurd. 23 armor means almost every damage resistance roll will be body + modified armor: potentially 20 DR for every hit that lands. Hit with an assault rifle with APDS rounds, they still roll 15 to resist damage. If they do land, any hit >1 gets reduced by 1 and the character can take 5 hits before facing a wound penalty, so splitting tracks will be valuable.
+Tank. The amount of incoming damage this character can take is absurd. 25 armor means almost every damage resistance roll will be body + modified armor: potentially 20 DR for most every hit that lands. Hit with an assault rifle with APDS rounds, they still roll 15 to resist damage. If they do land, any hit >1 gets reduced by 1 and the character can take 5 hits before facing a wound penalty, so splitting tracks will be valuable.
 
 They're fair at offense: 13 to hit with shotguns, and 10 to hit with the concealed pistol. Real advantage comes from soaking up ***GOBS*** of damage. Damage compensators are chosen over high pain tolerance to add more wound boxes to stun (since much of the damage will come on that track). Magic resistance is chosen to ensure that I at least roll 8 against spells. 
 
