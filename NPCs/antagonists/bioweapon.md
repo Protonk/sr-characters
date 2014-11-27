@@ -2,11 +2,9 @@
 
 ####Role:
 
-Physical weapon.
+Bio weapon.
 
-Bioware was taken to have a strong street sam with a relatively normal appearance--a bodyguard or attache, perhaps. Until you meet him on the field in full body armor.
-
-I found optimal offensive combat with bioware is about taking physical risks. Pain editor + adrenaline pump means you dish out maximum pain without incoming damage getting in the way for a short period. With the right initiative boosts you could have multiple combat turns with 4 passes each all dishing out damage with no wound modifiers. 
+Optimal offensive combat with bioware is about taking physical risks. Pain editor + adrenaline pump means you dish out maximum pain without incoming damage getting in the way for a short period. With the right initiative boosts you could have multiple combat turns with 4 passes each all dishing out damage with no wound modifiers. 
 
 During those turns his offensive capacity is huge; the adrelanine pump adds +3 to combat stats. With Kamikaze we have max init and more physical stats. 10 WIL + 4 magic resist means mages hoping to capitalize on a dump stat are out of luck.
 
@@ -45,7 +43,7 @@ ____
 
 ####Equipment:
 
-- Armor: Full body armor (with helmet (visual [smartlink, flare compensation, thermographic vision], audio [spatial recognizer (rating 2)]), wireless chemical seal), Armor jacket (concealable holster), Actioneer business clothes
+- Armor: Full body armor (with helmet (visual [smartlink, flare compensation, thermographic vision], audio [spatial recognizer (rating 2)]), chemical seal), Armor jacket (concealable holster), Actioneer business clothes
 - Weapons: Ares Alpha (wireless smartgun, airburst link, 240 APDS rounds, 100 explosive rounds, 15 HE grenades, 3 spare clips), SCK Model 100 (wireless smartgun, 90 flechette rounds), Monofilament whip
 - Other: Chem patches [Stim, Kamikaze], Bliss
 - Medical: Medkit (rating 6, rating 3 [2]), wireless biomonitor, private medical support (combat medics, equivalent to docwagon)

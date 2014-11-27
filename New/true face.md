@@ -4,11 +4,11 @@
 
 True face.
 
-Can potentially roll ***17*** to impersonate someone's voice, 12-16 for other impersonation and 14+ for con rolls. A good disguise--which they're well equipped to make--will have them rolling 20 impersonating someone face to face. 
+Can potentially roll 13-16 impersonation and 14-18 con on the spot. A good disguise--which they're well equipped to make--will have them rolling 20 impersonating someone face to face. 
 
-Etiquette and negotiation tests are lower (9-13) because she's a con artist. A magic user may make her for a physical adept, but almost all adept talents are devoted to deception (plus a mentor spirit). Karma is spent on two active skills, 4,000 Y with the remainder in contacts. 
+Etiquette and negotiation tests are lower (9-11) because she's a con artist. A magic user may make her for a physical adept, but almost all adept talents are devoted to deception (plus a mentor spirit). Karma is spent on two active skills, 4,000 Y with the remainder in contacts. 
 
-With the support of a good team, she could bug nearly any building in Seattle. Oh, and she's got plenty of recording equipment and broad electronics knowledge. 
+With the support of a good team, she could bug nearly any building in Seattle. Oh, and she's got plenty of recording equipment and broad electronics knowledge. Not so hot at combat--versatile, but no great shakes. 
 
 ####Human
 
@@ -36,12 +36,12 @@ ____
 - Improved reflexes (level 1)
 - Voice control (level 2 [3])
 - Traceless walk
-- Kinesics (level 2)
+- Improved impersonation (level 1)
 
 ____
 ####Active skills:
 
-- Firearms skill group (4), Influence skill group (3), Cracking skill group (2), Electronics skill group (1), Impersonation (6 + human), Con (6 [8] + fast talking), Disguise (6 + cosmetics), Perception (5 + searching), Sneaking (5), Forgery (4 + false id), Palming (4), Locksmith (2), Artisan (1 + clothing), Pilot ground vehicle (1), First aid (1)
+- Firearms skill group (4), Influence skill group (3), Cracking skill group (2), Electronics skill group (1), Impersonation (6 [7] + human), Con (6 [8] + fast talking), Disguise (6 + cosmetics), Perception (5 + searching), Sneaking (5), Forgery (4 + false id), Palming (4), Locksmith (2), Artisan (1 + clothing), Pilot ground vehicle (1), First aid (1)
 
 ####Knowledge skills:
 
@@ -63,8 +63,8 @@ ____
 ____
 ####Attributes
 
-- AGI: 4
-- STR: 3
+- AGI: 5
+- STR: 2
 - CHA: 6
 - LOG: 4
 - INT: 5
@@ -81,14 +81,14 @@ ____
 ####Inherent limits:
 
 - Mental: 5
-- Physical: 3 [4]
+- Physical: 3 [3]
 - Social: 7 [10]
 
 ####Computed stats:
 
 - Condition:
 	- Physical: 9
-	- Stun: 9
+	- Stun: 10
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 2 plus modified armor value
@@ -97,6 +97,9 @@ ____
 ____
 ####Bio:
 
+Not so much the con artist with a heart of gold, but the con artist who has thanksgiving plans to keep. She's still nominally a UCAS citizen, but her parents are stuck in Denver and the paperwork is endless, so getting anything means working in the shadows. She didn't start off as a runner. That trendy bag you saw a d-list celebrity wear to a trid award show? Probably one of her knockoffs, right down to faking the branded RFID tags. 
+
+Over time she realized that spiriting information in bits and pieces from a tight lipped corporation was more profitable when the target was something like a missile system. She can plant information (or an incriminating object) just as easily. 
 
 ####SINs:
 
