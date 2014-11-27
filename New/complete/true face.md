@@ -113,7 +113,7 @@ Real: Jessica Knox
 * Magic adept
 
 
-Miranda Priestly -- **Rating 4**
+Alan Keller -- **Rating 4**
 - Born: Feb 22, 2050
 - Docks resident
 - Hired muscle
@@ -125,7 +125,7 @@ Miranda Priestly -- **Rating 4**
 - University wageslave
 - [magic, scanning equipment, baton]
 
-Miranda Priestly -- **Rating 4**
+Claire Booth -- **Rating 4**
 - Born: Oct 15, 2051
 - Tacoma resident
 - Cab driver
