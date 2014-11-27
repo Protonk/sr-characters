@@ -4,13 +4,13 @@
 
 True face.
 
-Can potentially roll 13-16 for impersonation (+1 more for con) on the spot. A good disguise--which they're well equipped to make--will force most rolls to see past the disguse to hit thresholds of 7 and up (way more in some situations). Without modifiers this is simply above most NPC's mental limit. Oh, and she's got plenty of recording equipment and broad electronics knowledge and photographic memory can help surveilling marks.
+Can potentially roll 13-16 for impersonation (+1 more for con) on the spot. A good disguise--which they're well equipped to make--will force most rolls to see past the disguse to hit thresholds of 7 and up (way more in some situations). Without modifiers this is simply above most NPC's mental limit.
 
-With the support of a good team, she could bug nearly any building in Seattle.
+Oh, and she's got plenty of recording equipment and broad electronics knowledge. With the support of a good team, she could bug nearly any building in Seattle.
 
 Etiquette and negotiation tests are lower (9-11) because she's a con artist; first impression is taken to smooth this over for meets with Johnsons and the like. Not so hot at combat--versatile, but no great shakes. 
 
-Almost all adept talents are devoted to deception (plus a mentor spirit). Astral perception is taken scope out targets and ensure her adept signature (where it can't be masked) won't reveal her disguise. Karma is spent on a flexible signature focus, with the remainder in contacts. 
+Almost all adept talents are devoted to deception (plus a mentor spirit). Astral perception is taken to scope out targets and ensure her adept signature (where it can't be masked) won't reveal her disguise. Photographic memory helps her keep stories straight. Karma is spent on a flexible signature focus, with the remainder in contacts. 
 
 ####Human
 
