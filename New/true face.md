@@ -10,14 +10,13 @@ Etiquette and negotiation tests are lower (9-13) because she's a con artist. A m
 
 With the support of a good team, she could bug nearly any building in Seattle. Oh, and she's got plenty of recording equipment and broad electronics knowledge. 
 
-
 ####Human
 
 ____
 ####Qualities:
 
 - Negative: National SIN, Dependents (parents)
-- Positive: First impression, Mentor spirit (raven), Bilingual
+- Positive: First impression, Mentor spirit (raven), Photographic memory
 
 ____
 ####Equipment:
@@ -42,15 +41,15 @@ ____
 ____
 ####Active skills:
 
-- Firearms skill group (4), Influence skill group (3), Cracking skill group (2), Electronics skill group (1), Impersonation (6 + human), Con (6 [8] + fast talking), Disguise (6 + cosmetics), Perception (5 + searching), Sneaking (5), Forgery (4 + false id), Palming (4), Locksmith (2), Pilot ground vehicle (2), Artisan (1 + clothing), First aid (1)
+- Firearms skill group (4), Influence skill group (3), Cracking skill group (2), Electronics skill group (1), Impersonation (6 + human), Con (6 [8] + fast talking), Disguise (6 + cosmetics), Perception (5 + searching), Sneaking (5), Forgery (4 + false id), Palming (4), Locksmith (2), Artisan (1 + clothing), Pilot ground vehicle (1), First aid (1)
 
 ####Knowledge skills:
 
-- Corportate security (4), Safe houses (3), Seattle gangs (2), Bars (2), Clothing manufacture (2), Downtown area (2), Fashion (1 + knockoffs), UCAS politics (1)
+- Corportate security (4), Safe houses (3), Seattle gangs (2), Bars (2), Clothing manufacture (2), Downtown area (2), Fashion (1 + knockoffs)
 
 ####Languages:
 
-- English N, Japanese N
+- English (N + cityspeak)
 
 ____
 ####Contacts:
