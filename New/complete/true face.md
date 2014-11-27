@@ -23,12 +23,12 @@ ____
 ____
 ####Equipment:
 
-- Weapons: Colt America L36 (throwback, 30 regular rounds, 1 spare clip), FN-HAR (wireless smartgun, 100 APDS rounds, 2 spare clips), Stun baton (wireless)
+- Weapons: FN-HAR (wireless smartgun, scope, shock pad, 100 APDS rounds, 2 spare clips), Colt America L36 (throwback, 30 regular rounds, 1 spare clip), Stun baton (wireless)
 - Armor: Actioneer business clothes, Lined coat (concealable holster), electrochromatic clothes (concealable holster)
 - Gear: keycard copier (rating 6), cellular glove molder (rating 4), maglock passkey (wireless, rating 3), forgery shop, disguise shop
 - Medical: medkit (rating 6, rating 2, 3 supplies), wireless biomonitor, DocWagon contract
 - Electronics: Transys Avalon, glasses (capacity 3: smartlink, enhancement (rating 2)), contacts (capacity 3: image link, magnification, enhancement (rating 1)), earbuds (capacity 3: filter (rating 3)), RFID tags [sensor (various), security, stealth], microtranceiver, bug scanner (rating 4), microphone (rating 4), cyberware scanner (rating 2)
-- Magical: Focus [flexible signature (force 2)]
+- Magical: Focus [flexible signature (force 3)]
 - Vehicle: Hyundai Shin-Hyung
 - Ident: 1 rating 4 fake SIN with rating 4 licenses [rifle, magic, car, baton], 1 rating 4 fake SIN with rating 4 licenses [magic, scanning equipment, baton], 1 rating 4 fake SIN with rating 4 licences [car, pistol]
 - High Lifestyle with garage [3 months]
@@ -44,11 +44,11 @@ ____
 ____
 ####Active skills:
 
-- Firearms skill group (3), Influence skill group (3), Cracking skill group (2), Electronics skill group (2), Impersonation (6 [7] + human), Forgery (6 + counterfeiting), Con (6 [8] + fast talking), Disguise (4 + cosmetics), Locksmith (4), Perception (4), Sneaking (3), Palming (3), Assensing (2 + wards), Clubs (2 + batons), Pilot ground vehicle (1)
+- Firearms skill group (4), Influence skill group (3), Cracking skill group (2), Electronics skill group (1), Impersonation (6 [7] + human), Forgery (6 + counterfeiting), Con (6 [8] + fast talking), Disguise (4 + cosmetics), Locksmith (4), Perception (4), Sneaking (3), Palming (3), Assensing (2 + wards), Clubs (2 + batons), Pilot ground vehicle (1)
 
 ####Knowledge skills:
 
-- Corportate security (4), Safe houses (3), Engineering (2 + electrical), Clothing manufacture (2 + knockoffs), Denver (2), Bars (1), Police procedures (1)
+- Corportate security (4), Safe houses (3), Engineering (2 + electrical), Clothing manufacture (2 + counterfeit), Denver (2), Corporate procedures (1 + customs)
 
 ####Languages:
 
@@ -57,11 +57,9 @@ ____
 ____
 ####Contacts:
 
-- Corporate officer (con 2, loy 3)
 - Fence (con 3, loy 2)
-- Information broker (con 3, loy 1)
-- Smuggler (con 1, loy 5)
-- Fixer (con 1, loy 1)
+- Information broker (con 4, loy 2)
+- Counterfeiter (con 2, loy 5)
 
 ____
 ####Attributes
