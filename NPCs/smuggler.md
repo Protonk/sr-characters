@@ -15,8 +15,8 @@ ____
 ____
 ####Augments:
 
-- Obvious full cyberleg (betaware, compartment, jacks (wireless, rating 5), armor +2)
-- Synthetic full cyberleg (betaware, jacks (wireless, rating 5), armor +1)
+- Obvious full cyberleg (betaware, wireless holster, jacks (wireless, rating 3), armor +2)
+- Synthetic full cyberleg (betaware, jacks (wireless, rating 3), compartment)
 - Aluminum bone lacing
 - cybereyes (betaware, rating 2: smartlink, thermographic, low light)
 - reflex recorders [automatics, pilot ground vehicle]
@@ -82,7 +82,7 @@ ____
 	- Physical: 10
 	- Stun: 10
 	- 3 wound boxes
-- armor: 5 naked
+- armor: 4 naked
 - damage resistance roll: 8 plus modified armor value
 - 10 to dodge
 
