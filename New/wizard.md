@@ -2,7 +2,7 @@
 
 ####Role:
 
-Magical weapon. I get 9 magic AND 7 spellcasting, as well as +4 for combat spells: 20 total. He resists drain at 11. and counterspelling is at 14.
+Magical weapon. I get 9 magic AND 7 spellcasting, as well as +4 for combat spells: 19 total. He resists drain at 11. and counterspelling is at 14.
 
 I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and two spells, leaving just enough (2) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
 
@@ -15,7 +15,7 @@ ____
 ####Qualities:
 
 - Negative: Loss of confidence (astral combat), Allergy (moderate, common: [deepweed, jazz, stim patches])
-- Positive: Aptitude (spellcasting), Focused concentration (rating 2)
+- Positive: Aptitude (spellcasting), Mentor spirit (dragonslayer), Quick healer
 
 ____
 ####Equipment:
@@ -23,9 +23,9 @@ ____
 - Weapons: Remington Roomsweeper (wireless smartgun, 130 flechette rounds, 3 spare clips)
 - Armor: Lined coat, chameleon suit (rating 3 thermal damper)
 - Electronics: Goggles (capacity 6: smartlink, low light, enhancement (rating 2), magnification), Headphones (capacity 4: sound filter (rating 2), enhancement (rating 2)), Renraku Sensei
-- Other: medkit (rating 6)
+- Other: medkit (rating 6, rating 3)
 - Vehicle: C-N Jackrabbit
-- Magic objects: Rituals [8], Magical lodge (fire, force 3), Foci [Power (force 3), Combat spellcasting (force 3)]
+- Magic objects: Rituals [8], Magical lodge (dragonslayer, force 3), Foci [Power (force 3)]
 - 1 fake SIN rating 4 with rating 4 fake licenses [magic, pistol], 1 rating 3 fake SIN with rating 4 licenses [magic, car]
 - Middle, obscure with garage [3 months]
 
@@ -46,11 +46,11 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + combat), Counterspelling (6 + combat), Astral combat (5), Ritual spellcasting (4 + spell), Assensing (4), Perception (4), Pistols (4 + semi-auto), Pilot ground vehicle (2), Etiquette (2), Arcana (2)
+- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + combat), Counterspelling (6 + combat), Astral combat (5), Etiquette (4 + fire mages), Assensing (4), Perception (4), Pistols (4 + semi-auto), Pilot ground vehicle (2), Ritual spellcasting (2), Arcana (2), First aid (1)
 
 ####Knowledge skills:
 
-- Hermetic lodges (3 + fire), Street mages (3), Talismongers (2), Magic theory (2)
+- Hermetic lodges (4 + fire), Street mages (3 + everett), Talismongers (2), Magic theory (1)
 
 ####Languages:
 

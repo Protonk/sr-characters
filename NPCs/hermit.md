@@ -2,9 +2,9 @@
 
 ####Role:
 
-A skill heavy mage. Combat spells are cast with 17 to hit and combat spells are also resisted at 14 (more if an increased willpower is sustained). Edge and initiative are low, as are resources of any kind. This guy **will** mess somone up with magic. 
+A skill heavy mage. Combat spells are cast with 16 to hit and combat spells are also resisted at 14 (more if an increased willpower is sustained). Edge and initiative are low, as are resources of any kind. This guy **will** mess somone up with magic. 
 
-Potentially more fun with an outdoors campaign or as an NPC runner for a specific campaign--like a hired guide. A lot of the skillset is bound up with the character and out of sync with downtown seattle. 
+Potentially more fun with an outdoors campaign or as an NPC runner for a specific campaign--like a hired guide. Tracking is at 12, so that's an option.  
 
 ____
 ####Human
@@ -12,7 +12,7 @@ ____
 ####Qualities:
 
 - Negative: Addiction (Deepweed, moderate)
-- Positive: Home ground (Salish land, knows a guy), Quick healer
+- Positive: Home ground (Salish land, knows a guy), Quick healer, Mentor spirit (wolf)
 
 ____
 ####Equipment:
@@ -22,7 +22,7 @@ ____
 - Tools: survival kit, camping gear
 - Electronics: Goggles (capacity 4: low light, enhancement (rating 2), magnification), Renraku Sensei (satellite link), Mapsofts [various maps of seattle outskirts and boondocks]
 - Other: medkit [rating 6], supplies for 3, Deepweed [lots]
-- Magical: Foci [combat spellcasting (force 3), masking (force 3)], Shamanic lodge (beasts, force 4) 
+- Magical: Foci [masking (force 3)], Shamanic lodge (beasts, force 4) 
 - Vehicle: Yamaha Growler
 - 1 fake SIN rating 3, with rating 3 fake license [magic, bike]
 - Low, obscure [3 months]
@@ -73,7 +73,7 @@ ____
 - Initiative: 7 + 1D6
 - Astral Initiative: 8 + 2D6
 - Starting cash: 1200 + 3D6 * 50
-- Karma: 0
+- Karma: 1
 
 ####Inherent limits:
 

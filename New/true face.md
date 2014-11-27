@@ -4,9 +4,9 @@
 
 True face.
 
-Can potentially roll ***17*** to impersonate someone's voice and 12-16 for other impersonation or con rolls. A good disguise--which they're well equipped to make--will have them rolling 20 impersonating someone face to face. 
+Can potentially roll ***17*** to impersonate someone's voice, 12-16 for other impersonation and 14+ for con rolls. A good disguise--which they're well equipped to make--will have them rolling 20 impersonating someone face to face. 
 
-Etiquette and negotiation tests are lower (9-13) because she's a con artist. A magic user may make her for a physical adept, but almost all adept talents are devoted to deception. Photographic memory is taken to better surveil marks with first impression supporting it all. Karma is spent on two active skills, 4,000 Y with the remainder in contacts. 
+Etiquette and negotiation tests are lower (9-13) because she's a con artist. A magic user may make her for a physical adept, but almost all adept talents are devoted to deception (plus a mentor spirit). Karma is spent on two active skills, 4,000 Y with the remainder in contacts. 
 
 With the support of a good team, she could bug nearly any building in Seattle. Oh, and she's got plenty of recording equipment and broad electronics knowledge. 
 
@@ -17,7 +17,7 @@ ____
 ####Qualities:
 
 - Negative: National SIN, Dependents (parents)
-- Positive: First impression, Photographic memory, Bilingual
+- Positive: First impression, Mentor spirit (raven), Bilingual
 
 ____
 ####Equipment:
@@ -34,14 +34,15 @@ ____
 ____
 ####Adept powers:
 
-- Voice control (level 3)
-- Improved body (level 1)
+- Improved reflexes (level 1)
+- Voice control (level 2 [3])
+- Traceless walk
 - Kinesics (level 2)
 
 ____
 ####Active skills:
 
-- Firearms skill group (4), Influence skill group (3), Cracking skill group (2), Electronics skill group (1), Impersonation (6 + human), Con (6 + fast talking), Disguise (6 + cosmetics), Forgery (6 + false id), Perception (6), Palming (4), Locksmith (3), Artisan (2 + clothing), Pilot ground vehicle (2), First aid (1), Animal handling (1)
+- Firearms skill group (4), Influence skill group (3), Cracking skill group (2), Electronics skill group (1), Impersonation (6 + human), Con (6 [8] + fast talking), Disguise (6 + cosmetics), Perception (5 + searching), Sneaking (5), Forgery (4 + false id), Palming (4), Locksmith (2), Pilot ground vehicle (2), Artisan (1 + clothing), First aid (1)
 
 ####Knowledge skills:
 
@@ -68,13 +69,13 @@ ____
 - CHA: 6
 - LOG: 4
 - INT: 5
-- REA: 3
-- BOD: 2 [3]
+- REA: 3 [4]
+- BOD: 2 
 - WIL: 3
 - EDG: 2
 - ESS: 6
 - MAG: 3
-- Initiative: 8 + 1D6
+- Initiative: 8 [9] + 1D6 [2D6]
 - Karma: 0
 - Cash: 3200 + 5D6 * 100
 
@@ -91,8 +92,8 @@ ____
 	- Stun: 9
 	- 3 wound boxes
 - armor: 0 naked
-- damage resistance roll: 3 plus modified armor value
-- 8 to dodge
+- damage resistance roll: 2 plus modified armor value
+- 9 to dodge
 
 ____
 ####Bio:
