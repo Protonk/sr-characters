@@ -40,9 +40,9 @@ ____
 - Improved reflexes (level 3)
 - Improved agility (level 2)
 - Combat sense (level 3)
-- Improved ability: Automatics (level 2)
-- Wall running
-- Light body (level 1)
+- Improved ability: Automatics (level 2) (Qi)
+- Wall running (Qi)
+- Light body (level 1) (Qi)
 
 
 ____

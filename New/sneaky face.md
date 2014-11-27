@@ -56,7 +56,7 @@ ____
 
 - Improved strength (level 3)
 - Improved reflexes (level 2)
-- Improved ability, blades (level 2)
+- Improved ability, blades (level 2) (Qi)
 - Critical strike (blades)
 
 ____
