@@ -1,4 +1,4 @@
-###Spade
+###Ramona
 
 ####Role:
 
@@ -97,3 +97,14 @@ ____
 Mystic adept version of the occult investigator. Able to astrally perceive (and do combat with magic), their skill set is focused on tracking down magicians and artificers through forensics or an information network. If you need to find a hermit or a way in to a heavily warded compound and no one else can do it, you call her.
 
 ####SINs:
+
+Joan Crawford -- **Rating 4**
+- Born: Feb 22, 2050
+- Downtown resident
+- Private detective
+- [magic, private detective]
+
+Rosalind Russell -- **Rating 2**
+- Born: Sep 2051
+- [private detective]
+

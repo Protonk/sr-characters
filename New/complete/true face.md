@@ -111,3 +111,22 @@ Real: Jessica Knox
 * Parents moved to Denver and remain there as UCAS ex-patriates
 	* UCAS citizens, formerly Boeing wageslaves for a weapons division
 * Magic adept
+
+
+Miranda Priestly -- **Rating 4**
+- Born: Feb 22, 2050
+- Docks resident
+- Hired muscle
+- [rifle, magic, car, baton]
+
+Miranda Priestly -- **Rating 4**
+- Born: Jan 4, 2052
+- Downtown resident
+- University wageslave
+- [magic, scanning equipment, baton]
+
+Miranda Priestly -- **Rating 4**
+- Born: Oct 15, 2051
+- Tacoma resident
+- Cab driver
+- [car, pistol]

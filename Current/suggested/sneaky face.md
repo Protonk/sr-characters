@@ -100,14 +100,13 @@ A former rank and file security officer for a Wuxing subsidiary, he was forced o
 
 ####SINs:
 
-Jackie Chan
+Jackie Chan -- **Rating 4**
 - Born: May 7, 2052
 - Downtown Seattle resident
 - Security guard for an unremarkable firm
 - [magic, concealed carry]
 
-Yan Ti San
-- Born: Feb 22, 2053
+Yan Ti San -- **Rating 2**
+- Born: Feb 2053
 - Redmond resident
-- Courier
-- [grpound craft]
+- [ground craft]
