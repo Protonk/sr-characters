@@ -2,7 +2,7 @@
 
 ####Role:
 
-Magical weapon. I get 9 magic AND 7 spellcasting, as well as +4 for combat spells: 19 total. He resists drain at 11. and counterspelling is at 14.
+Magical weapon. I get 9 magic AND 7 spellcasting (16), as well as +2 for combat or health spells. He resists drain at 11.
 
 I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and two spells, leaving just enough (2) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
 
@@ -14,7 +14,7 @@ Adding another specialization (or taking an appropriate initiate grade) could ma
 ____
 ####Qualities:
 
-- Negative: Loss of confidence (astral combat), Allergy (moderate, common: [deepweed, jazz, stim patches])
+- Negative: Loss of confidence (astral combat), Bad rep
 - Positive: Aptitude (spellcasting), Mentor spirit (dragonslayer), Quick healer
 
 ____
@@ -26,7 +26,7 @@ ____
 - Other: medkit (rating 6, rating 3)
 - Vehicle: C-N Jackrabbit
 - Magic objects: Rituals [8], Magical lodge (dragonslayer, force 3), Foci [Power (force 3)]
-- 1 fake SIN rating 4 with rating 4 fake licenses [magic, pistol], 1 rating 3 fake SIN with rating 4 licenses [magic, car]
+- 1 fake SIN rating 4 with rating 4 fake licenses [magic, car], 1 rating 3 fake SIN with rating 4 licenses [magic, pistol]
 - Middle, obscure with garage [3 months]
 
 ____
@@ -46,7 +46,7 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + combat), Counterspelling (6 + combat), Astral combat (5), Etiquette (4 + fire mages), Assensing (4), Perception (4), Pistols (4 + semi-auto), Pilot ground vehicle (2), Ritual spellcasting (2), Arcana (2), First aid (1)
+- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + health), Counterspelling (6 + combat), Astral combat (5), Etiquette (4 [6] + fire mages), Assensing (4), Perception (4), Pistols (4 + semi-auto), Pilot ground vehicle (2), Ritual spellcasting (2), Arcana (2), First aid (1)
 
 ####Knowledge skills:
 
@@ -105,7 +105,15 @@ This guy is a regular runner. Middle income, a shitty car, fake licenses to make
 
 An ambush on the astral plane humiliated him in front of his peers and he is chasing high risk combat jobs until the shame lifts--this may never happen. Running may be his new life and a meaner outlet for his considerable power.
 
+####SINs
 
+Robert Blaise -- **Rating 4**
+- Born December 1, 2035
+- Everett resident
+- University wageslave
+- [magic, car]
 
-
-
+William Peet -- **Rating 3**
+- Born January 2036
+- Everett resident
+- [magic, pistol]
