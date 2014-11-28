@@ -21,7 +21,7 @@ ____
 ####Augments:
 
 - cybereyes (betaware, rating 1: smartlink)
-- cyberears (betaware, rating 1: spatial recognizer, filter (rating 2))
+- cyberears (betaware, rating 1: filter (rating 3))
 - reaction enhancers (alphaware, wireless, rating 2)
 - wired reflexes (wireless, rating 1)
 - enhanced articulation
@@ -34,7 +34,7 @@ ____
 
 - Weapons: Ares Desert Strike (wireless smartgun, bipod, 120 APDS rounds, 6 spare clips), Defiance T-250 (short barrelled, wireless smartgun, 50 gel rounds, 6 spare clips)
 - Armor: Lined coat, Chameleon suit (wireless, rating 3 wireless thermal dampening), clothes
-- Gear: Goggles (wireless, capacity 6: low light, enhancement (rating 3), magnification), Headphones (wireless, capacity 6: spatial recognizer, sound filter (rating 2), enhancement (rating 2)) Monifilament chainsaw
+- Gear: Goggles (wireless, capacity 6: low light, enhancement (rating 3), magnification), Headphones (wireless, capacity 4: spatial recognizer, enhancement (rating 3)), Monifilament chainsaw
 - Sensors: Wall mounted sensor (motion(rating 3)) [2], wall mounted sensor (vision magnification (rating 3), laser range finder) [2], omni-direcitonal mic (audio enhancement (rating 3), sound filter (rating 1), spatial recognizer), Sensor Array (rating 5)
 - Countermeasures: Bug scanner (Rating 6) [3], Microtranceiver [3], RFID tags [25: many sensors but at least a few of each kind]
 - Electronics: Transys Avalon, Erika MCD-1 (virtual machine, decryption, trace), AR Gloves, wireless biomonitor
@@ -45,7 +45,7 @@ ____
 ____
 ####Active skills:
 
-- Electronics skill group (2), Longarms (7 [8] + sniper rifles), Electronic warfare (2 + sensor operations), Hacking (2 + devices), Perception (2), Cybertechnology (2), Tracking (1 + forest), Cybercombat (1 + devices), Sneaking (1), Escape artist (1)
+- Electronics skill group (2), Longarms (7 [8] + sniper rifles). Perception (3), Electronic warfare (2 + sensor operations), Hacking (2 + devices), Cybercombat (2), Tracking (1 + forest), Cybertechnology (1), Sneaking (1), Escape artist (1)
 
 ####Knowledge skills:
 

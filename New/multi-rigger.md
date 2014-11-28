@@ -2,13 +2,13 @@
 
 ####Role:
 
-Topped out drone rigger. Limited skills but near max reaction/logic. Control and gunnery--on smartgun weapons--roll 18 (thresholds for either >1 reduced by 2 to a minimum of one). Oh, and this character has **7** edge. Any time they need to do something beyond the drone limit, burning an edge will make it so. They can burn an edge on the first turn of combat to negate some of the effects of combat paralysis.
+Topped out drone rigger. Limited skills but near max reaction/logic. Control and gunnery--on smartgun weapons--roll 18 (thresholds for either reduced by 2 to a minimum of one). Oh, and this character has **7** edge. Any time they need to do something beyond the drone limit, burning an edge will make it so. They can burn an edge on the first turn of combat to negate some of the effects of combat paralysis.
 
 There's some trickery above to get the skills just right. Start w/ 26 karma, spend 4 on money, 7 on a specialization and 4 on active skills. 10 to raise CHA from 1 -> 2, 1 on contacts. Human (5) is chosen for the edge, so I can get max cash with reasonable but limited skills. 
 
-And I know it gets boring but reaction dominates again. Reaction is the main stat for control and 3 initiative dice is nice. However I want to resist a lot of feedback, so willpower is maxed and I have 11 boxes for incoming stun damage.
+And I know it gets boring but reaction dominates again. Reaction is the main stat for control and 3 initiative dice is nice.
 
-It's a narrow skillset but drones can spy and patrol and you can bring more than one to a job. Pistol is 8 to hit, but the main weapons are the various drones. You could even just zonk out in the van and control 2-3 drones for a run.
+It's a narrow skillset but drones can spy and patrol and you can bring more than one to a job. Pistol is 9 to hit, but the main weapons are the various drones. You could even just zonk out in the van and control 2-3 drones for a run.
 
 ____
 ####Human
@@ -64,14 +64,14 @@ ____
 ____
 ####Attributes
 
-- AGI: 1
+- AGI: 2
 - STR: 1
 - CHA: 2
 - LOG: 5
 - INT: 5
 - REA: 5 [7]
 - BOD: 4
-- WIL: 6
+- WIL: 5
 - EDG: 7
 - ESS: 2.6
 - Initiative: 10 [12] + 1D6 [3D6]
@@ -80,7 +80,7 @@ ____
 
 ####Inherent limits:
 
-- Mental: 7
+- Mental: 6
 - Physical: 3 [4]
 - Social: 3
 

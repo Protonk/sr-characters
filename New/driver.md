@@ -2,7 +2,7 @@
 
 ####Role:
 
-Runner. Driver, really. Don't judge his tricked out step van until you've tried it. Rolls 15 for handling the van, 17 in a bike, remote walker, helicopter...you get the idea. The van can be a getway vehicle or you can whoop ass in it--17 on the rifle or the shotgun with explosive shells. If you can get there in a vehicle, let Max worry about whether or not you should.
+Runner. Driver, really. Don't judge his tricked out step van until you've tried it. Rolls 15 for handling the van, 17 in a bike, remote walker, helicopter...you get the idea (any thresholds for those tests reduced by 2 to a minimum of 1). The van can be a getway vehicle or you can whoop ass in it--17 on the rifle or the shotgun with explosive shells. If you can get there in a vehicle, let Max worry about whether or not you should.
 
 Just don't put him in combat; he's squishy.
 
@@ -40,7 +40,7 @@ ____
 
 ####Knowledge skills:
 
-- Chop shops (4), Street racers (3), Safe houses (3), Drone vendors (2)
+- Chop shops (4), Street racers (3), Safe houses (3), Street life (1 + street docs)
 
 ####Languages:
 
