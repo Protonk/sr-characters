@@ -2,13 +2,13 @@
 
 ####Role:
 
-An effecive combat medit, built around adept powers and high attributes. Uses a sniper rifle as a DMR. 13 + 4D6 initiative means he has time to spend a full initiative pass performing first aid; in combat first aid rolls 6-16 ***after*** modifiers (limit 5). Lots of edge to burn if I really want a healing roll to count.
+An effecive combat medit, built around adept powers and high attributes. Uses a sniper rifle as a DMR. 13 + 4D6 initiative means he has time to spend a full initiative pass performing first aid; in combat first aid rolls 11-16 ***after*** modifiers (limit 5).
 
 He's 18/19 (laser sight) to hit with the rifle; chosen specifically for accuracy (6 is also my physical limit), damage (12P -7AP) and the ability to place an opponent under stress with burst fire (-2 to defend). Against someone with 12 dodge and 12 armor (fairly decent for a starter enemy), He'll hit 84% of the time with a minimum damage of 8 and a median damage of 14.
 
-Against someone with 12 attack, they'll dodge 65% of the time without using initiative or edge. Incoming damage will hurt, they aren't invincible. But those first few turns will be pretty solid.
+Against someone with 12 attack, they'll dodge 65% of the time. Incoming damage will hurt, they aren't invincible. But those first few turns will be pretty solid.
 
-Karma is spent on skills and a focus. 
+Anytime I need to snap my fingers and make something happen, I have 7 edge.
 
 ____
 ####Human
@@ -43,7 +43,7 @@ ____
 ____
 ####Active skills:
 
-- Longarms (7 [9] + sniper rifles), First aid (5 [6] + GSW), Running (3), Tracking (3), Medicine (2), Blades (1), Navigation (1), Perception (1)
+- Longarms (7 [9] + sniper rifles), First aid (6 [7] + GSW), Running (3), Tracking (2), Medicine (2), Blades (1), Navigation (1), Perception (1)
 
 ####Knowledge skills:
 
