@@ -2,45 +2,45 @@
 
 ####Role:
 
-Bit more fleshed out monk, focused on unarmed. 15 to hit (17 for subduing) at 13P/S--the highest unarmed damage output I can get from a non-troll. 
+Unarmed rolls 16 at 17P/S--the highest unarmed damage output I can get. Doesn't do much else, but pretty dangerous unarmed. 
 
 ____
-####Human
+####Troll
 ____
 ####Qualities:
 
-- Negative: Astral Beacon
-- Positive: Mentor spirit (shark), Quick healer, Toughness
+- Negative: Distinctive style 
+- Positive: Mentor spirit (shark), Exceptional attribute (strength)
 
 ____
 ####Augments:
 
 - Bone density augmentation (betaware, rating 3)
-- Reflex recorders [unarmed]
+- Muscle toner (betaware, rating 2)
+- Reflex recorders (betaware) [unarmed]
 
 ####Equipment:
 
-- Armor: Lined coat
-- Weapons: Ingram Smartgun X (90 regular rounds, 2 spare clips)
+- Armor: Lined coat, Actioneer business clothes
+- Weapons: Ingram Smartgun X (wireless smartgun, 90 regular rounds, 2 spare clips)
 - Other: Medkits [(wireless, rating 6), (rating 3), supplies for 2]
-- Electronics: Renraku Sensei (satlink)
+- Electronics: Transys Avalon (satlink), glasses (capacity 3: smartlink, flare compensation, low light)
 - Magical: Foci [Qi (force 4)]
-- Lifestyle: Low [2 months]
+- Lifestyle: Middle [3 months]
 - Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, cyberware], 1 rating 2 fake SIN with rating 4 fake license [magic, cyberware]
 
 ____
-####Adept powers: 
+####Adept powers:
 
-- Improved strength (level 3)
-- Improved reflexes (level 1)
-- Improved agility (level 1) (Qi)
-- Killing hands (Shark)
+- Improved reflexes (level 2)
+- Improved strength (level 1 [2]) (Qi)
 - Critical strike (unarmed)
+- Killing hands (shark)
 
 ____
 ####Active skills:
 
-- Unarmed (6 [9] + subduing), Etiquette (3 + runner), Running (3), Perception (3), Automatics (2 + submachine gun), Sneaking (1), First aid (1)
+- Unarmed (6 [9]), Intimidation (3 + physical), Running (3), Perception (3), Automatics (2 + submachine gun),  Etiquette (1)
 
 ####Knowledge skills:
 
@@ -55,29 +55,29 @@ ____
 
 - Fixer (con 1, loy 1)
 - Street fighter (con 1, loy 5)
-- Renraku wageslave (con 1, loy 3)
+- Renraku wageslave (con 2, loy 3)
 
 ____
 ####Attributes
 
-- AGI: 5 [6]
-- STR: 6 [9]
+- AGI: 5 [7]
+- STR: 11 [13]
 - CHA: 4
 - LOG: 2
-- INT: 3
-- REA: 4 [5]
-- BOD: 4
+- INT: 4
+- REA: 2 [4]
+- BOD: 5
 - WIL: 4
-- EDG: 4
-- ESS: 5.37
-- MAG: 6 [5]
-- Initiative: 7 [8] + 1D6 [2D6]
-- Money: 2600 + 3D6 * 60
+- EDG: 2
+- ESS: 5.02
+- MAG: 5 [4]
+- Initiative: 6 [8] + 1D6 [3D6]
+- Money: 1200 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
 
-- Mental: 3
+- Mental: 4
 - Physical: 6 [9]
 - Social: 5
 
@@ -87,9 +87,9 @@ ____
 	- Physical: 10
 	- Stun: 10
 	- 3 wound boxes
-- armor: 0 naked
-- damage resistance roll: 8 plus modified armor value
-- 8 to dodge
+- armor: 2 naked
+- damage resistance roll: 10 plus modified armor value
+- 7 to dodge
 
 ____
 ####Bio:
