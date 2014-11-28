@@ -43,7 +43,7 @@ ____
 ____
 ####Active skills:
 
-- Longarms (7 [9] + sniper rifles), First aid (6 [7] + GSW), Running (3), Tracking (2), Medicine (2), Blades (1), Navigation (1), Perception (1)
+- Longarms (7 [9] + sniper rifles), First aid (6 [7] + GSW), Running (3), Tracking (3), Gymnastics (1), Blades (1), Navigation (1), Perception (1)
 
 ####Knowledge skills:
 
