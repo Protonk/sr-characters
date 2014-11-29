@@ -2,13 +2,11 @@
 
 ####Role:
 
-This is the character I've toyed with the most. He was once very heavy into cyberware, then unarmed, then secret agent and now this. All the while, the skillset was largely kept constant--46/10 with heavy investment in social skills and deception.
+He's something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. He can roll 12 to sneak into a compund or bluff past the guard with some forged credentials. 
 
-The result is something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. Astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept (-3 to detect my signature overall)
+Taking advantage of social and stealth skills to gain the upper hand will be important, because he is **brutal** in close combat. 16 to hit with a knife (12P, -2 AP).
 
-In close combat he is 16 to hit with a knife (11P, -2 AP). Burning an edge only adds 3, but net hits on a relatively unarmored or unsuspecting target will be brutal. Taking damage will reduce that output considerably so he needs support and/or surprise. 3D6 flat initiative is pretty good as well.
-
-Taking advantage of social and stealth skills to gain that support will be just as fun. He can roll 10 to bluff a guard (and 4-5 on many knowledge tests while doing so) or 11 on most stealth rolls. He could also pose as an employee with a forged badge pretty effectively. 
+Astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept (-3 to detect my signature overall)
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 
@@ -48,39 +46,41 @@ ____
 ____
 ####Contacts:
 
-- Fixer (4 con, 2 loy)
-- Smuggler (2 con, 1 loy)
+- Fixer (con 4, loy 2)
+- Smuggler (con 3, loy 1)
+- Beat cop (con 1, loy 1)
 
 ____
 ####Adept powers:
 
 - Improved strength (level 3)
-- Improved reflexes (level 2)
+- Improved reflexes (level 1)
+- Improved agility (level 1)
 - Improved ability, blades (level 2) (Qi)
 - Critical strike (blades)
 
 ____
 ####Attributes
 
-- AGI: 6
-- STR: 5 [8]
-- CHA: 3
+- AGI: 5 [6]
+- STR: 6 [9]
+- CHA: 4
 - LOG: 2
 - INT: 4
-- REA: 3 [5]
+- REA: 2 [3]
 - BOD: 4
 - WIL: 2
 - EDG: 3
 - MAG: 6
 - ESS: 6
-- Initiative: 7 [9] + 1D6 [3D6]
+- Initiative: 6 [7] + 1D6 [2D6]
 - Karma: 0
 - Cash: 1980 + 3D6*60
 
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 6 [8]
+- Physical: 5 [8]
 - Social: 5
 
 ####Computed stats:
@@ -91,7 +91,7 @@ ____
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
-- 10 to dodge
+- 7 to dodge
 
 ____
 ####Bio:

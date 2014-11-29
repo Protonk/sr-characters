@@ -2,9 +2,7 @@
 
 ####Role:
 
-Stats heavy, with a mix of skills. Adept powers chosen to support assensing (with a hair of spell resistance). Not great in combat, but pretty good at magical leg-work. Very good at perception, pretty capable with conning information out of someone and somewhat well connected. Astral chameleon and a flexible astral signature means I might be able to tail a magician or toss their place without them noticing the signature (-4 to get astral info). A small amount of magical skills and knowledge help investigating magical artifacts and stuff.
-
-Worth it for legwork. Assensing and perception can potentially roll **15** (limit 6 w/ 6 edge). Combinded with the astral chameleon and flexible signature and they can see much more about the magical world than it can of them. Good contacts for runs needing lots of legwork and focused on sussing out leads.
+Stats heavy, with a mix of skills. Not great in combat, but pretty good at magical leg-work. Very good at perception and good contacts to follow leads.
 
 ____
 ####Human
@@ -13,7 +11,7 @@ ____
 ####Qualities:
 
 - Negative:
-- Positive: Astral Chameleon
+- Positive: Astral Chameleon, Mentor spirit (dog)
 
 ____
 ####Augments:
@@ -26,52 +24,53 @@ ____
 - Weapons: Browning Ultra Power (20 regular rounds, 40 hollow point rounds, 3 spare clips), extensible baton
 - Other: medkit (rating 3 [1]), survival kit, forensics kit.
 - Electronics: RFID tags [mostly stealth with some bugs], glasses (capacity 3: low light, enhancement (rating 2))
-- Focus: Flexible signature (force 2)
 - Lifestyle: Low [2 months]
 - Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, private detective], 1 rating 2 fake SIN with rating 4 fake license [private detective]
 
 ____
-####Adept powers: 
+####Adept powers:
 
+- Improved reflexes (level 1)
 - Astral perception
-- Spell resistance (level 2)
-- Enhanced perception (level 2)
+- Enhanced perception (level 1)
+- Direction sense (Dog)
+- Tactile sense (Dog)
 
 ____
 ####Active skills:
 
-- Acting skill group (4), Enchanting skill group (1), Assensing (6 [8] + signatures), Perception (6 [8] + searching), Pistols (5 + semi-auto), Tracking (4), Etiquette (4), Navigation (2), Sneaking (2), Clubs (2 + batons), Arcana (1)
+- Influence skill group (2), Biotech skill group (2), Enchanting skill group (1), Assensing (6 [7] + signatures), Perception (6 [7] + searching), Pistols (5 + semi-auto), Tracking (4 [6] + urban), Clubs (3 + batons), Navigation (3), Sneaking (2), Hardware (2)
 
 ####Knowledge skills:
 
-- Magical forensics (3), Hermetic lodges (2), Street mages (2), Safe houses (1), Magic theory (1)
+- Forensics (4), Street life (2 + squats), Police procedures (2), Magical community (2 + Seattle), Safe houses (2), Cyberware clinics (1)
 
 ####Languages:
 
-- English N, Lakota (3), Sperethiel (2)
+- English N, Lakota (2), Sperethiel (2)
 
 ____
 ####Contacts:
 
-- Fixer (con 1, loy 1)
-- Information broker (con 3, loy 2)
-- Talismonger (con 2, loy 3)
+- Information broker (con 3, loy 1)
+- Fence (con 3, loy 2)
+- Beat cop (con 1, loy 3)
 
 ____
 ####Attributes
 
-- AGI: 4
+- AGI: 3
 - STR: 2
 - CHA: 4
 - LOG: 4
-- INT: 5
-- REA: 3
+- INT: 6
+- REA: 4 [5]
 - BOD: 4
-- WIL: 6
+- WIL: 5
 - EDG: 6
 - ESS: 6
 - MAG: 3
-- Initiative: 8 + 1D6
+- Initiative: 10 [11] + 1D6 [2D6]
 - Money: 1100 + 4D6 * 100
 - Karma: 0
 
@@ -85,11 +84,11 @@ ____
 
 - Condition:
 	- Physical: 10
-	- Stun: 11
+	- Stun: 10
 	- 3 wound boxes
-- armor: 12
+- armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
-- 8 to dodge
+- 11 to dodge
 
 ____
 ####Bio:

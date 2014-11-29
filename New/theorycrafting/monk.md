@@ -2,7 +2,7 @@
 
 ####Role:
 
-Unarmed rolls 16 at 17P/S--the highest unarmed damage output I can get. Doesn't do much else, but pretty dangerous unarmed. 
+Unarmed rolls 16 at 17P/S--the highest unarmed damage output I can reasonably get. Doesn't do much else, but pretty dangerous unarmed. 
 
 ____
 ####Troll
