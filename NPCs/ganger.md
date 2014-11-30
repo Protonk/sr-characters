@@ -17,9 +17,9 @@ ____
 ####Augments:
 
 - Cybereyes (betaware, rating 1: [smartlink])
-- Synthetic full cyberarm (betaware, wireless holster, AGI +3)
-- Synthetic full cyberarm (betaware, Armor +2, AGI +3)
-- Obvious full cyberlegs \[2\] (betaware, Armor +2, AGI +3, jacks (wireless, rating 6))
+- Synthetic full cyberarm \[2\] (betaware, Armor +2, AGI +3)
+- Obvious full cyberleg (betaware, Armor +2, AGI +3, jacks (wireless, rating 6))
+- Obvious full cyberleg (betaware, wireless holster, AGI +3, jacks (wireless, rating 6))
 - Wired reflexes (betaware, wireless, rating 1)
 - Reaction enhancers (alphaware, wireless, rating 2)
 - reflex recorders [automatics, pilot ground vehicle]
@@ -68,7 +68,7 @@ ____
 - ESS: 1.32
 - Initiative: 7 [10] + 1D6 [2D6]
 - Karma: 0
-- Cash: 5000 + 4D6 * 100
+- Cash: 3000 + 4D6 * 100
 
 ####Inherent limits:
 
