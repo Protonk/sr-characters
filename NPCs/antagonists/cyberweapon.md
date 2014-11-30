@@ -4,7 +4,7 @@
 
 Better gunner.
 
-19 to hit for HMG (12P -8AP), 18 for grenades. Sustained long range high damage output par excellence. Short range he's 14 with the axe (hand to hand or thrown) and 15 with the concealed pistol, so no slouch there.
+22 to hit for HMG (12P -8AP), 18 for grenades. Sustained long range high damage output par excellence. Short range he's 16 with the axe (hand to hand or thrown) and 15 with the concealed pistol, so no slouch there.
 
 High value cyberware means he's got bosses. He's Renraku's Gregor Clegane--technically deniable but not really all that subtle. 
 
@@ -21,9 +21,9 @@ ____
 ####Augments:
 
 - Titanium bone lacing (deltaware)
-- Synthetic full cyberlegs \[2\] (deltaware, armor +2)
-- Obvious full cyberarm (deltaware, gyromount, AGI +1, STR +1)
-- Obvious full cyberarm (deltaware, holster, AGI +2, STR +1)
+- Synthetic full cyberlegs \[2\] (deltaware, AGI +4, STR +2, armor +3)
+- Obvious full cyberarm (deltaware, gyromount, AGI +4, STR +2, armor +1)
+- Obvious full cyberarm (deltaware, holster, AGI +4, STR +2, armor +1)
 - cybereyes (rating 2: smartlink, thermographic, image link, enhancement (rating 3))
 - Reflex recorders (deltaware) [heavy weapons, throwing weapons, pistols]
 - Orthoskin (deltaware, rating 3)
@@ -32,7 +32,7 @@ ____
 
 ####Equipment:
 
-- Armor: Armor jacket (with helmet), lined coat
+- Armor: Armor jacket (with helmet), Fully body armor (with helmet)
 - Weapons: RPK HMG (gas vent (rating 3), shock pad, wireless smartgun, 600 APDS rounds, 200 tracer rounds, 3 spare belts), Ares Light Fire 75 (wireless smartgun, 60 hollow point rounds), Krime Cannon (wireless smartgun, airburst link, 48 rounds), Combat axe
 - Other: medkit (rating 6, rating 3 [2], supplies for 2), SuperPlatinum docwagon contract
 - Electronics: Farlight Caliban, jammer (rating 6)
@@ -47,8 +47,8 @@ ____
 ____
 ####Attributes
 
-- AGI: 5 [6]
-- STR: 10 [11]
+- AGI: 5 [9]
+- STR: 10 [12]
 - CHA: 1
 - LOG: 2
 - INT: 3
@@ -71,7 +71,7 @@ ____
 	- Physical: 13
 	- Stun: 10
 	- 3 wound boxes
-- armor: 8 naked
+- armor: 11 naked
 - damage resistance roll: 18 plus modified armor value
 - 11 to dodge
 

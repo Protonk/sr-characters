@@ -38,12 +38,12 @@ ____
 - Titanium bone lacing (deltaware)
 - Orthoskin (deltaware, rating 4)
 - Data lock (deltaware, rating 12)
-- Cyberears (deltaware, rating 1: damper)
+- Cybereyes (deltaware, rating 1: smartlink)
 
 
 ####Equipment:
 
-- Armor: Full body armor (with helmet (visual [smartlink, flare compensation, thermographic vision], audio [spatial recognizer (rating 2)]), chemical seal), Armor jacket (concealable holster), Actioneer business clothes
+- Armor: Full body armor (with helmet (visual [flare compensation, thermographic vision], audio [spatial recognizer (rating 2)]), chemical seal), Armor jacket (concealable holster), Actioneer business clothes
 - Weapons: Ares Alpha (wireless smartgun, airburst link, 240 APDS rounds, 100 explosive rounds, 15 HE grenades, 3 spare clips), SCK Model 100 (wireless smartgun, 90 flechette rounds), Monofilament whip
 - Other: Chem patches [Stim, Kamikaze], Bliss
 - Medical: Medkit (rating 6, rating 3 [2]), wireless biomonitor, private medical support (combat medics, equivalent to docwagon)
