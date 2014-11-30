@@ -64,14 +64,14 @@ ____
 ____
 ####Attributes
 
-- AGI: 5
+- AGI: 4
 - STR: 2
 - CHA: 6
 - LOG: 4
 - INT: 5
 - REA: 3
 - BOD: 2 
-- WIL: 3
+- WIL: 4
 - EDG: 2
 - ESS: 6
 - MAG: 3
@@ -81,7 +81,7 @@ ____
 
 ####Inherent limits:
 
-- Mental: 5
+- Mental: 6
 - Physical: 3
 - Social: 7 [10]
 

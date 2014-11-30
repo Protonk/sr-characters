@@ -6,7 +6,7 @@ An effecive combat medit, built around adept powers and high attributes. Uses a 
 
 He's 18/19 (laser sight) to hit with the rifle; chosen specifically for accuracy (6 is also my physical limit), damage (12P -7AP) and the ability to place an opponent under stress with burst fire (-2 to defend).
 
-Against someone with 12 dodge and 12 armor (fairly decent for a starter enemy), He'll hit 84% of the time with a minimum damage of 8 and a median damage of 14. Against someone with 12 attack, they'll dodge 70% of the time.
+Against someone with 12 dodge and 12 armor (fairly decent for a starter enemy), He'll hit 84% of the time with a minimum damage of 8 and a median damage of 14. Against someone with 12 attack, they'll dodge 67% of the time.
 
 Natural athlete supports getting to places in combat: 9 dice on sprinting rolls. 13 + 4D6 initiative means he has time to spend a full initiative pass performing first aid; in combat first aid rolls 11-16 ***after*** modifiers (limit 5).
 
@@ -39,8 +39,9 @@ ____
 
 - Improved reflexes (level 3)
 - Improved agility (level 1)
-- Combat sense (level 2)
 - Improved longarms (level 2) (Qi)
+- Combat sense (level 1)
+- Inproved first aid (level 1)
 
 ____
 ####Active skills:
@@ -93,7 +94,7 @@ ____
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 5 plus modified armor value
-- 14 to dodge
+- 13 to dodge
 
 ____
 ####Bio:

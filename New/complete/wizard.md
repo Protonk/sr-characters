@@ -2,13 +2,11 @@
 
 ####Role:
 
-Magical weapon. I get 9 magic AND 7 spellcasting (16), as well as +2 for combat or health spells. He resists drain at 11.
+Magical weapon. I get 9 magic AND 7 spellcasting (16), +4 for combat spells. Resists drain at 11 and counterspells combat spells at 17.
 
-I had a lot of karma to play with. I spent a bunch on foci (keeping in mind the various limits) and two spells, leaving just enough (2) to boost contacts. I'm going to say this guy lives in everett but is in driving distances of some appropriate lodges. 
+I had a bit of karma to play with. I spent it on a focus, leaving just enough (2) to boost contacts. Skill groups are spread out. I don't want to be forced to default on stuff where I could be getting a decent attribute bonus.
 
-Skill groups are spread out. I don't want to be forced to default on stuff where I could be getting a decent attribute bonus. 
-
-Adding another specialization (or taking an appropriate initiate grade) could make this guy very powerful. If they survived five or ten good runs, they'd be a singular wizard.
+Even sustaining an increased reflexes I'm at 18 to hit for combat spells. Increased willpower isn't worth it. I need force 6 to meet the minimum and the bonus is *net* hits. I could cheese this with edge and roll a force 1 increased willpower, but I don't super want to do that.  
 
 ####Human
 ____
@@ -33,24 +31,24 @@ ____
 ####Magic:
 
 - Lightning bolt
-- Flamethrower
+- Fireball
 - Manabolt
-- Manaball
 - Heal
-- Increase willpower
-- Detox
-- Detect magic
+- Increase reflexes
+- Increase Charisma
+- Detect enemies
+- Influence
 - Armor
 - Mana barrier
 
 ____
 ####Active skills:
 
-- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + health), Counterspelling (6 + combat), Astral combat (5), Etiquette (4 [6] + fire mages), Assensing (4), Perception (4), Pistols (4 + semi-auto), Pilot ground vehicle (2), Ritual spellcasting (2), Arcana (2), First aid (1)
+- Stealth skill group (2), Outdoors skill group (1), Athletics skill group (1), Acting skill group (1), Spellcasting (7 + combat), Counterspelling (6 + combat), Astral combat (5), Etiquette (4 [6] + fire mages), Assensing (4), Perception (4), Pistols (4 + semi-auto), Pilot ground vehicle (2), Ritual spellcasting (2), Arcana (2), First aid (1)
 
 ####Knowledge skills:
 
-- Hermetic lodges (4 + fire), Street mages (3 + everett), Talismongers (2), Magic theory (1)
+- Hermetic lodges (3 + everett), Magic theory (2 + astral), History (1) 
 
 ####Languages:
 
@@ -59,25 +57,25 @@ ____
 ____
 ####Contacts:
 
-- Fixer (con 3, loy 2)
-- Lodge member (con 2, loy 3)
 - Street mage (con 1, loy 2)
+- Lodge member (con 1, loy 2)
+- Fixer (con 1, loy 5)
 
 ____
 ####Attributes
 
 - AGI: 1
 - STR: 1
-- CHA: 2
+- CHA: 3
 - LOG: 5
-- INT: 4
+- INT: 3
 - REA: 3
 - BOD: 2
 - WIL: 6
 - EDG: 2
 - ESS: 6
 - MAG: 6 [9]
-- Initiative: 7 + 1D6
+- Initiative: 6 + 1D6
 - Astral Initiative: 8 + 2D6
 - Starting cash: 1100 + 4D6 * 100
 - Karma: 0
@@ -86,7 +84,7 @@ ____
 
 - Mental: 6
 - Physical: 2
-- Social: 5
+- Social: 6
 
 ####Computed stats:
 

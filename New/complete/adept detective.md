@@ -2,7 +2,11 @@
 
 ####Role:
 
-Stats heavy, with a mix of skills. Not great in combat, but pretty good at magical leg-work. Very good at perception and good contacts to follow leads.
+Physical adept version of the occult investigator. Able to astrally perceive, their skill set is focused on tracking down anyone, not just mages. Stats heavy, with a mix of skills making for a solid investigator of any mystery. 
+
+Rolls 13+ for perception/assensing and 12-14 for tracking. Good knowledge rolls (6-8) for magic, biotech and hardware. Sneaking and social skills (but not great, 5-6). With astral chameleon and no focus she will appear mundane to most perfuntory searches. A fair amount of edge for most situations. Edge spent well wil have her rolling 15-20 for many situations. 
+
+Not great in combat but good in a team of 4.
 
 ____
 ####Human
@@ -21,7 +25,7 @@ ____
 ####Equipment:
 
 - Armor: Lined coat
-- Weapons: Browning Ultra Power (20 regular rounds, 40 hollow point rounds, 3 spare clips), extensible baton
+- Weapons: Browning Ultra Power (20 regular rounds, 40 hollow point rounds, 3 spare clips), stun baton
 - Other: medkit (rating 3 [1]), survival kit, forensics kit.
 - Electronics: RFID tags [mostly stealth with some bugs], glasses (capacity 3: low light, enhancement (rating 2))
 - Lifestyle: Low [2 months]
@@ -93,7 +97,7 @@ ____
 ____
 ####Bio:
 
-Mystic adept version of the occult investigator. Able to astrally perceive (and do combat with magic), their skill set is focused on tracking down magicians and artificers through forensics or an information network. If you need to find a hermit or a way in to a heavily warded compound and no one else can do it, you call her.
+
 
 ####SINs:
 
