@@ -2,7 +2,7 @@
 
 ####Role:
 
-19 to hit with the katana (9P 3AP). 18-20 on sneaking rolls, 13-15 on palming. 10 on navigation, tracking and perception.
+19 to hit with the katana (9P 3AP). 18-20 on sneaking rolls, 13-15 on palming. 10 on navigation, tracking and perception. 16 to hit with knives.
 
 ____
 ####Human
@@ -83,7 +83,7 @@ ____
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
-- 10 to dodge, always get surprise test
+- 10 to dodge
 
 ____
 ####Bio:

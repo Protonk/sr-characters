@@ -2,7 +2,7 @@
 
 ####Role:
 
-Runner. Driver, really. Don't judge his tricked out step van until you've tried it. Rolls 15 for handling the van, 17 in a bike, remote walker, helicopter...you get the idea (any thresholds for those tests reduced by 2 to a minimum of 1). The van can be a getway vehicle or you can whoop ass in it--17 on the rifle or the shotgun with explosive shells. If you can get there in a vehicle, let Max worry about whether or not you should.
+Runner. Driver, really. Don't judge his tricked out step van until you've tried it. Rolls 15 for handling the van, 16-17 in a bike, remote walker, helicopter...you get the idea (any thresholds for those tests reduced by 2 to a minimum of 1). The van can be a getway vehicle or you can whoop ass in it--17 on the rifle or the shotgun with explosive shells. If you can get there in a vehicle, let Max worry about whether or not you should.
 
 Just don't put him in combat; he's squishy.
 
@@ -18,7 +18,7 @@ ____
 ####Augments:
 
 - Control rig (rating 2)
-- Synaptic booster
+- Synaptic booster (rating 1)
 - Cybereyes (rating 1: smartlink)
 - Datajack
 
@@ -27,7 +27,7 @@ ____
 - Armor: Lined coat
 - Weapons: Colt M-23 (wireless smartgun, 140 APDS rounds, 3 spare clips)
 - Other: medkit (rating 3 [2]), vehicle repair shop
-- Electronics: Transys Avalon
+- Electronics: Transys Avalon (AR gloves)
 - Software: Mapsofts [seattle highways, various others]
 - Vehicle: GMC Bulldog (rigger interface, weapon mounts [Colt M-23 (wireless smartgun, 100 regular rounds),  Enfield AS-7 (wireless smartgun, 100 explosive rounds)]) 
 - Middle, with garage [4 months]
@@ -65,7 +65,7 @@ ____
 - EDG: 5
 - ESS: 3.5
 - Initiative: 9 [10] + 1D6 [2D6]
-- Money: 1500 + 4D6 * 100
+- Money: 1350 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:

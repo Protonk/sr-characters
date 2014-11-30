@@ -38,14 +38,14 @@ ____
 - Sensors: Wall mounted sensor (motion(rating 3)) [2], wall mounted sensor (vision magnification (rating 3), laser range finder) [2], omni-direcitonal mic (audio enhancement (rating 3), sound filter (rating 1), spatial recognizer), Sensor Array (rating 5)
 - Countermeasures: Bug scanner (Rating 6) [3], Microtranceiver [3], RFID tags [25: many sensors but at least a few of each kind]
 - Electronics: Transys Avalon, Erika MCD-1 (virtual machine, decryption, trace), AR Gloves, wireless biomonitor
-- Other: Medkit (rating 3 [2]), Gold DocWagon contract, 20 Chem patches (Bliss)
+- Other: Medkit (rating 3, supplies for 2), Gold DocWagon contract, 20 Chem patches (Bliss)
 - Ident: 2 rating 4 fake SINs with rating 3 fake licenses [cyberware, sensor equipment, concealed weapon, cyberdeck]
 - Lifestyle: High, obscure, special work area [6 months]
 
 ____
 ####Active skills:
 
-- Electronics skill group (2), Longarms (7 [8] + sniper rifles). Perception (3), Electronic warfare (2 + sensor operations), Hacking (2 + devices), Cybercombat (2), Tracking (1 + forest), Cybertechnology (1), Sneaking (1), Escape artist (1)
+- Electronics skill group (2), Longarms (7 [8] + sniper rifles). Perception (3), Electronic warfare (2 + sensor operations), Hacking (2 + devices), Cybercombat (2), Tracking (1 + forest), Cybertechnology (1), First aid (1), Escape artist (1)
 
 ####Knowledge skills:
 
@@ -74,7 +74,7 @@ ____
 - EDG: 5
 - ESS: 1.44
 - Initiative: 6 [9] + 1D6 [2D6]
-- Money: 3,000 + 5D6 * 100
+- Money: 3,450 + 5D6 * 100
 - Karma: 0
 
 ####Inherent limits:

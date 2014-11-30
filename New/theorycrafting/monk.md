@@ -2,7 +2,7 @@
 
 ####Role:
 
-Unarmed rolls 16 at 17P/S--the highest unarmed damage output I can reasonably get. Doesn't do much else, but pretty dangerous unarmed. 
+Unarmed rolls 16 at 16P/S--the highest unarmed damage output I can reasonably get. Doesn't do much else, but pretty dangerous unarmed. 
 
 ____
 ####Troll
@@ -15,8 +15,8 @@ ____
 ____
 ####Augments:
 
-- Bone density augmentation (betaware, rating 3)
-- Muscle toner (betaware, rating 2)
+- Bone density augmentation (betaware, rating 2)
+- Muscle toner (alphaware, rating 2)
 - Reflex recorders (betaware) [unarmed]
 
 ####Equipment:
@@ -88,7 +88,7 @@ ____
 	- Stun: 10
 	- 3 wound boxes
 - armor: 2 naked
-- damage resistance roll: 10 plus modified armor value
+- damage resistance roll: 9 plus modified armor value
 - 7 to dodge
 
 ____
