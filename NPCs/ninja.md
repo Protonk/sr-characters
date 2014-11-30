@@ -2,13 +2,7 @@
 
 ####Role:
 
-15 to hit with the katana at 11P -3AP. Against relatively unarmored targets, this should be pretty effective. 12 to hit at range with 8P -1AP throwing knives.
-
-I don't know if I would play this character but they're an interesting attempt to make a physical specialist that isn't a troll. Stealth and athletics checks should be made handily and the character can make their way around the city with little trouble.
-
-One way this character is very interesting is as an inverse to the detective. She seeks magical prey, he prefers non-magical prey. Someone could notice a strong adept if they were magical, but a paranoid guy with info in his brain who needs to be rubbed out will deploy every technical countermeasure available and fail because this character doesn't rely on technical measures. Everything is analog. But they can potentially roll 13 on navigation and 12/14 on tracking. 
-
-Progression by adding adept powers could make this guy incredible. Like indiana (who needs 3 cyberlimbs to become a walking weapon), masking could improve stealth against magical opponents but they could also take a +1 to any attribute or +2 to a skill.
+19 to hit with the katana (9P 3AP). 18-20 on sneaking rolls, 13-15 on palming. 10 on navigation, tracking and perception.
 
 ____
 ####Human
@@ -19,38 +13,33 @@ ____
 - Positive: Catlike, Aptitude (blades)
 
 ____
-####Augments:
-
-- None
-
 ####Equipment:
 
-- Armor: Chameleon suit, actioneer business clothes (holster for knife)
+- Armor: Actioneer business clothes
 - Weapons: Katana, throwing knives (40), combat knife
-- Other: medkit (rating 3 [1], supplies for 2)
+- Other: medkit (rating 3 [1], supplies for 1)
+- Magical: Foci [Qi (force 4)]
 - Lifestyle: Low [2 month]
-- 1 rating 3 fake SIN with rating 3 fake licenses [katana, magic]. 1 rating 2 fake SIN with rating 3 fake license [magic]
+- 1 rating 4 fake SIN with rating 4 fake licenses [katana, magic]. 1 rating 2 fake SIN with rating 4 fake license [magic]
 
 ____
 ####Adept powers: 
 
+- Improved agility (level 2)
 - Improved reflexes (level 1)
 - Traceless walk
-- Improved strength
-- Improved ability: Blades (level 1)
-- Combat sense (level 1)
+- Improved blades (level 2)
+- Improved sneaking (level 2) (Qi)
 - Critical strike (blades)
-- Direction sense
-- Light body (level 1)
 
 ____
 ####Active skills:
 
-- Athletics skill group (5), Blades (7 [8] + swords), Throwing weapons (5 + blades), Tracking (4 + urban), Sneaking (4), Navigation (4 + celestial), Perception (3), Palming (3), Survival (2), Locksmith (1)
+- Outdoors skill group (5), Blades (7 [9] + swords), Sneaking (6 [10] + urban), Throwing weapons (6 + blades), Palming (5 + legerdemain), Perception (5), Etiquette (4 + runner), Running (2), Gymnastics (1), First aid (1)
 
 ####Knowledge skills:
 
-- Everett area (3), Redmond area (3), Renraku special forces (2), Magic lore (1), Ares (1)
+- Redmond area (3), Renraku special forces (2), Magic lore (2), Ares (2), Street life (1)
 
 ####Languages:
 
@@ -59,41 +48,42 @@ ____
 ____
 ####Contacts:
 
-- Fixer (con 3, loy 3)
+- Fixer (con 2, loy 2)
+- Lonestar officer (con 1, loy 4)
 
 ____
 ####Attributes
 
-- AGI: 5
-- STR: 6 [7]
-- CHA: 2
+- AGI: 6 [8]
+- STR: 5
+- CHA: 3
 - LOG: 2
 - INT: 5
-- REA: 5 [6]
-- BOD: 5
-- WIL: 4
+- REA: 4 [5]
+- BOD: 4
+- WIL: 3
 - EDG: 3
 - ESS: 6
-- MAG: 5
-- Initiative: 10 [11] + 1D6 [2D6]
-- Money: 1500 + 3D6 * 60
-- Karma: 0
+- MAG: 6
+- Initiative: 9 [10] + 1D6 [2D6]
+- Money: 2800 + 3D6 * 60
+- Karma: 3
 
 ####Inherent limits:
 
 - Mental: 4
-- Physical: 6 [8]
-- Social: 4
+- Physical: 6 [6]
+- Social: 5
 
 ####Computed stats:
 
 - Condition:
 	- Physical: 10
-	- Stun: 10
+	- Stun: 9
 	- 3 wound boxes
 - armor: 0 naked
-- damage resistance roll: 5 plus modified armor value
-- 12 to dodge, always get surprise test
+- damage resistance roll: 4 plus modified armor value
+- 10 to dodge, always get surprise test
 
 ____
 ####Bio:
