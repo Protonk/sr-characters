@@ -2,7 +2,7 @@
 
 ####Role:
 
-Summoner. He's a 3 magic aspected magician but he can summon spirits at 11. 17 for spirits of water. Banishing is at 11 for any spirit (13 for water). 
+Summoner. He's a 3 magic aspected magician but he can summon spirits of water at 17. Banishing is at 11 for any spirit (13 for water). 
 
 Broadly knowledgable for engineering and cyberware stuff, he's also lucky. 8 edge means I can burn an edge to reliably summon a force 6 water spirit or banish a force 4 fire spirit.
 

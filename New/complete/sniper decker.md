@@ -98,5 +98,16 @@ ____
 
 This guy grew up fending critters off the family farm. Of course it was a body farm, deep in Lakota land, mages bound to points in the earth, submerged in an irreversible coma. And they were paracritters. So he's good with a rifle. Turns out that's a valuable skill in the sixth world. Along the way he's made some money and built up considerable cyberware to hone his skills. 
 
+####SINs:
 
+Stan Fiddel -- **Rating 4**
+* Born May 27, 2048
+* Tacoma resident
+* Surveyor
+* [cyberware, sensor equipment, concealed weapon, cyberdeck]
 
+Chris Hume -- **Rating 4**
+* Born May 3, 2048
+* Downtown resident
+* Engineer
+* [cyberware, sensor equipment, concealed weapon, cyberdeck]
