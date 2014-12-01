@@ -1,10 +1,3 @@
-###Indiana
-
-####Role:
-
-13P -8 AP, reach of 2. This character is built around the monofilament whip. Only 14 to hit, but that will change with a synthetic arm (becoming 17 to hit). Bone lacing with orthoskin allows for some flat armor value to handle incoming hits, but it isn't much compared to the tank. If he hits, it'll hurt. Burning edge to land important hits will offer 19 to hit.
-
-____
 ####Human
 
 ____
@@ -16,26 +9,26 @@ ____
 ____
 ####Augments:
 
-- synaptic booster (rating 2)
-- orthoskin (rating 3)
-- Bone lacing (aluminum)
+- Aluminum bone lacing
+- Orthoskin (Rating 3)
+- Synthetic full cyberarm (betaware, wireless holster, AGI + 3)
+- Synaptic booster (rating 1)
+- Synthcaridum (rating 1)
+- Commlink (Transys Avalon)
 - reflex recorder (exotic melee weapon)
-- cybereyes (rating 1: smartlink)
-
 
 ####Equipment:
 
-- Weapons: Monifilament whip (wireless), Colt America L36 (wireless smartgun, 50 regular rounds, 50 hollow-point rounds, 50 APDS rounds, 8 spare clips), extensible baton (wireless)
-- Electronics: Transys Avalon
+- Weapons: Monofilament whip (wireless), Colt America L36 (50 hollow-point rounds, 2 spare clips), extensible baton (wireless)
 - Armor: Lined coat, clothes
 - Other: Medkit (rating 3 [2], supplies for 3)
-- Identity: 1 fake SIN (rating 4), with rating 4 fake licenses: [cyberware, concealed carry [pistol]]. one fake SIN (rating 2) with one rating 4 fake license: [cyberware]
+- Ident: 1 fake SIN (rating 4), with rating 4 fake licenses: [cyberware, pistol]. one fake SIN (rating 2) with one rating 4 fake license: [cyberware]
 - Lifestyle: Low, obscure [3 months]
 
 ____
 ####Active skills:
 
-- Firearms skill group (2), Exotic melee weapon (7 [8]), Clubs (4 + parrying), Running (4 + sprinting), Etiquette (2 + street), Palming (3), First aid (2), Perception (2), Unarmed (1)
+- Exotic melee weapon (7 [8]), Clubs (4 + parrying), Running (4 + sprinting), Etiquette (2 + street), First aid (2), Perception (1), Palming (1)
 
 ####Knowledge skills:
 
@@ -50,56 +43,55 @@ ____
 ####Contacts
 
 - Bar owner (con 1, loy 2): 
-- Smuggler (con 3, loy 3):
+- Smuggler (con 2, loy 1):
 - Fixer (con 2, loy 1):
 
 ____
 ####Attributes:
 
-- AGI: 6
-- STR: 5
+- AGI: 6 [9]
+- STR: 4
 - CHA: 3
 - LOG: 1
 - INT: 5
-- REA: 5 [7]
-- BOD: 5
-- WIL: 2
-- EDG: 5
-- ESS: 2.75
-- Initiative: 10 [12] + 1D6 [3D6]
+- REA: 5 [6]
+- BOD: 4
+- WIL: 4
+- EDG: 7
+- ESS: 2.65
+- Initiative: 10 [11] + 1D6 [2D6]
 - Money: 36090
 - Karma: 8
 
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 6 [7]
-- Social: 3
+- Physical: 6 [6]
+- Social: 4
 
 ####Computed Stats
 
 - Condition:
 	- Physical: 10
-	- Stun: 9
+	- Stun: 10
 	- 3 wound boxes
-	- overflow: 9
-- armor: 5 naked, 9 from lined coat
-- damage resistance roll: 7 plus modified armor value
-- 12 to dodge
+- armor: 5 naked
+- damage resistance roll: 6 plus modified armor value
+- 11 to dodge
 
 ____
-####Bio:
+####Handle:
 
+Indiana
 
-####SINs
+####Role:
+
+Refined a bit:
+- 17 to hit at 14P -8 AP. That's better than a strength 10 troll with a combat axe and nearly every sniper rifle.
+- Dodge and armor are basically the same, with better running and attack stats. 
 
 ####Goals (in rough order of current importance):
 
 - Find a better apartment (Middle, obscure): ~ 10000
 - Learn more about Aztec security teams (1 karma for a knowledge skill, 2-3k paying contacts for info or bribing people)
-- Save for betaware cyberlimb: Synthetic arm (+3 agility, concealable holster (wireless)): - 0.7 ESS, 21500 * 1.5 + a finders fee ~ 36000 (highest availability: 8 for limb, 9R for agility)
-  - Willing to pay 5k up front to smuggler to find the right clinic and get an entre. 
 - Learn gymnastics (2 karma for a rating 1 active skill, probably 4-5k in vids or whatever)
-- Save for deltaware cyberlimbs: Synthetic legs \[2\] (+3 armor, +2 str, hydraulic jacks (wireless, rating 5)): - 1 ESS, -77000 * 2.25 + a finder's fee ~ 200000 (highest availability: 12 for limb, 15R for armor)
-  - Willing to pay 5k after the first clinic is found to evaluate the second (much more expensive, will have to delay)
-
