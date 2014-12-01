@@ -28,7 +28,7 @@ ____
 ____
 ####Active skills:
 
-- Exotic melee weapon (7 [8]), Clubs (4 + parrying), Running (4 + sprinting), Etiquette (2 + street), First aid (2), Perception (1), Palming (1)
+- Exotic melee weapon (7 [8]), Clubs (4 + parrying), Running (4 + sprinting), Etiquette (2 + street), Pistols (2), Perception (1), First aid (1)
 
 ####Knowledge skills:
 
