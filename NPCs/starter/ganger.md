@@ -27,7 +27,7 @@ ____
 ####Equipment:
 
 - Armor: Armor jacket, Actioneer business clothes
-- Weapons: Combat knife, Ingram Smartgun X (90 regular rounds, 90 APDS rounds, 4 spare clips), Ares Alpha (100 APDS rounds, 15 grenades, 2 spare clips)
+- Weapons: Combat knife, Ingram Smartgun X (90 regular rounds, 90 APDS rounds, 4 spare clips), Ares Alpha (100 APDS rounds, 15 grenades, 2 spare clips), Beretta 201T (wireless smartgun, 40 explosive rounds)
 - Other: Medkits [wireless rating 6, wireless rating 3, supplies for 2], Gold DocWagon contract
 - Electronics: Transys Avalon (AR gloves, satellite link), Goggles (capacity 4: flare compensation, enhancement (rating 2), thermographic)
 - Software: Mapsofts [seattle areas]
@@ -51,7 +51,7 @@ ____
 ____
 ####Contacts:
 
-- Fixer (con 1, loy 2)
+- Gang leader (con 1, loy 2)
 
 ____
 ####Attributes
@@ -68,7 +68,7 @@ ____
 - ESS: 1.32
 - Initiative: 7 [10] + 1D6 [2D6]
 - Karma: 0
-- Cash: 3000 + 4D6 * 100
+- Cash: 2550 + 4D6 * 100
 
 ####Inherent limits:
 

@@ -99,7 +99,7 @@ ____
 ____
 ####Bio:
 
-Worked for a Souix HRT covering broad swaths of the west. Fly out to trouble and dispense with whatever critters or runners causing same. Since they weren't rescuing hikers, this meant he was a point man for a combat team that flew out to research stations, depots and ley lines. They had to find the threat--usually fleeing the scene, occasionally entrenched--and dispatch them, often saving some damn fool civilian who got shot. 
+Worked for a Souix HRT covering broad swaths of the west. Fly out to trouble and dispense with whatever critters or runners causing same. Since they weren't rescuing hikers, this meant he was a point man for a combat team. They had to find the threat--usually fleeing the scene, occasionally entrenched--and dispatch them, often saving some damn fool civilian who got shot. 
 
 After a while, you see too much (or too broad a picture) and the bosses start to worry. At one point he was unceremoniously retired--not kicked out of the Nation or hunted down, just given a desk job and told they didn't care if he quit. He didn't even know the straw that broke the camel's back. Popping on a half dozen drug tests didn't help.
 

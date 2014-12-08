@@ -53,7 +53,7 @@ ____
 ####Contacts:
 
 - Fixer (con 4, loy 3)
-- Smuggler (con 1, loy 2)
+- Spec ops decker (con 1, loy 2)
 
 ____
 ####Attributes

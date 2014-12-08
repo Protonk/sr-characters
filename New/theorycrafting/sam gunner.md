@@ -48,20 +48,6 @@ ____
 
 - Heavy Weapons (6 [7] + machine gun), Pistols (4), Running (3), Pilot ground craft (2 + bike), Intimidation (1), First aid (1), Automotive mechanic (1)
 
-####Knowledge skills:
-
-- Automotive engineering (2 + racecars), Sprawl life (2 + street docs), Ares security forces (2), Tacoma bars (1), Lonestar (1)
-
-####Languages:
-
-- English N
-
-____
-####Contacts:
-
-- Fixer (con 1, loy 1)
-- Smuggler (con 2, loy 2)
-
 ____
 ####Attributes
 
@@ -95,11 +81,3 @@ ____
 - damage resistance roll: 11 plus modified armor value, > 1 reduced by one.
 - Recoil compensation: 10 for Stoner-Ares in gyro, +1 for first shot
 - 10 to dodge
-
-____
-####Bio:
-
-TBD
-
-####SINs:
-

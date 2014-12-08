@@ -52,9 +52,8 @@ ____
 ____
 ####Contacts:
 
-- Salish scout (con 2, loy 4)
-- Ranger (con 1, loy 5)
-- Fixer (con 1, loy 1)
+- Salish scout (con 2, loy 5)
+- Ranger (con 2, loy 5)
 
 ____
 ####Attributes

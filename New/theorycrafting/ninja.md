@@ -37,20 +37,6 @@ ____
 
 - Outdoors skill group (5), Blades (7 [9] + swords), Sneaking (6 [10] + urban), Throwing weapons (6 + blades), Palming (5 + legerdemain), Perception (5), Etiquette (4 + runner), Running (2), Gymnastics (1), First aid (1)
 
-####Knowledge skills:
-
-- Redmond area (3), Renraku special forces (2), Magic lore (2), Ares (2), Street life (1)
-
-####Languages:
-
-- English N, Japanese (4)
-
-____
-####Contacts:
-
-- Fixer (con 2, loy 2)
-- Lonestar officer (con 1, loy 4)
-
 ____
 ####Attributes
 
@@ -84,9 +70,3 @@ ____
 - armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
 - 10 to dodge
-
-____
-####Bio:
-
-
-####SINs:

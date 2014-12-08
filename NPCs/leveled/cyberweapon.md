@@ -2,11 +2,9 @@
 
 ####Role:
 
-Better gunner.
-
 22 to hit for HMG (12P -8AP), 18 for grenades. Sustained long range high damage output par excellence. Short range he's 16 with the axe (hand to hand or thrown) and 15 with the concealed pistol, so no slouch there.
 
-High value cyberware means he's got bosses. He's Renraku's Gregor Clegane--technically deniable but not really all that subtle. 
+That damage resistance roll is absurd. For most incoming damage, he'll ruitinely roll 28-35...he can soak damage for a long time.
 
 ____
 ####Human
@@ -78,5 +76,6 @@ ____
 ____
 ####Bio:
 
+High value cyberware means he's got bosses. He's Renraku's Gregor Clegane--technically deniable but not really all that subtle. 
 
 ####SINs:

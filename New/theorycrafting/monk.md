@@ -40,22 +40,7 @@ ____
 ____
 ####Active skills:
 
-- Unarmed (6 [9]), Intimidation (3 + physical), Running (3), Perception (3), Automatics (2 + submachine gun),  Etiquette (1)
-
-####Knowledge skills:
-
-- Street life (3 + squats), Renraku subsidiaries (2 + Hawaiian), Street fighting (1), Street docs (1)
-
-####Languages:
-
-- English N, Hawaiian (2 + pidgin)
-
-____
-####Contacts:
-
-- Fixer (con 1, loy 1)
-- Street fighter (con 1, loy 5)
-- Renraku wageslave (con 2, loy 3)
+- Unarmed (6 [9]), Intimidation (3 + physical), Running (3), Perception (3), Automatics (2 + submachine gun), Etiquette (1)
 
 ____
 ####Attributes
@@ -73,7 +58,7 @@ ____
 - MAG: 5 [4]
 - Initiative: 6 [8] + 1D6 [3D6]
 - Money: 1200 + 4D6 * 100
-- Karma: 0
+- Karma: 1
 
 ####Inherent limits:
 
@@ -90,14 +75,3 @@ ____
 - armor: 2 naked
 - damage resistance roll: 9 plus modified armor value
 - 7 to dodge
-
-____
-####Bio:
-
-
-
-
-
-
-
-####SINs:

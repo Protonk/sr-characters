@@ -2,7 +2,7 @@
 
 ####Role:
 
-Trickster jerk. Illusion spells roll 20--22 for manipulation, 18 for everything else. A little makeup and a magical disguise could allow him to look like anyone in just a few moments. Can sneak pretty much anywhere undisturbed, mostly by convincing the minimum number of people that he belongs there. Con tests and manipulation spells are +2 from the spirit. 
+Trickster jerk. Illusion spells roll 20, 22 for manipulation, 18 for everything else. A little makeup and a magical disguise could allow him to look like anyone in just a few moments. Can sneak pretty much anywhere undisturbed, mostly by convincing the minimum number of people that he belongs there. Con tests and manipulation spells are +2 from the spirit. 
 
 ####Elf
 ____

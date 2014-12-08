@@ -4,9 +4,8 @@
 
 Physical adept version of the occult investigator. Able to astrally perceive, their skill set is focused on tracking down anyone, not just mages. Stats heavy, with a mix of skills making for a solid investigator of any mystery. 
 
-Rolls 13+ for perception/assensing and 12-14 for tracking. Good knowledge rolls (6-8) for magic, biotech and hardware. Sneaking and social skills (but not great, 5-6). With astral chameleon and no focus she will appear mundane to most perfuntory searches. A fair amount of edge for most situations. Edge spent well wil have her rolling 15-20 for many situations. 
+Rolls 13+ for perception/assensing and 12-14 for tracking. Good knowledge rolls (6-8) for magic, biotech and hardware. Sneaking and social skills (but not great, 5-6). With astral chameleon and no focus she will appear mundane to most perfuntory searches. A fair amount of edge for most situations. Edge spent well will have her rolling 15-20 for many situations. Not great in combat but good in a team of 4.
 
-Not great in combat but good in a team of 4.
 
 ____
 ####Human
