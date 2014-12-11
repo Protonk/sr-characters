@@ -35,7 +35,7 @@ ____
 - Manabolt
 - Heal
 - Increase reflexes
-- Increase Charisma
+- Stealth
 - Detect enemies
 - Influence
 - Armor
@@ -57,9 +57,9 @@ ____
 ____
 ####Contacts:
 
-- Street mage (con 1, loy 2)
+- Street mage (con 1, loy 1)
 - Lodge member (con 1, loy 2)
-- Fixer (con 1, loy 5)
+- Fixer (con 1, loy 6)
 
 ____
 ####Attributes

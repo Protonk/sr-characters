@@ -2,9 +2,9 @@
 
 ####Role:
 
-He's something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. He can roll 12 to sneak into a compund or bluff past the guard with some forged credentials. 
+He's something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. He can roll 12-14 to sneak into a compund or bluff past the guard with some forged credentials. 
 
-Taking advantage of social and stealth skills to gain the upper hand will be important, because he is **brutal** in close combat. 16 to hit with a knife (12P, -2 AP).
+Taking advantage of social and stealth skills to gain the upper hand will be important, because he is **brutal** in close combat. 16 to hit with a knife (11P, -2 AP).
 
 Astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept (-3 to detect my signature overall)
 
@@ -53,17 +53,19 @@ ____
 ____
 ####Adept powers:
 
-- Improved strength (level 3)
+- Improved strength (level 2)
 - Improved reflexes (level 1)
 - Improved agility (level 1)
-- Improved ability, blades (level 2) (Qi)
+- Improved blades (level 2) (Qi)
+- Kinesics (level 2)
+- Combat sense (level 1)
 - Critical strike (blades)
 
 ____
 ####Attributes
 
 - AGI: 5 [6]
-- STR: 6 [9]
+- STR: 6 [8]
 - CHA: 4
 - LOG: 2
 - INT: 4
@@ -80,7 +82,7 @@ ____
 ####Inherent limits:
 
 - Mental: 3
-- Physical: 5 [8]
+- Physical: 5 [7]
 - Social: 5
 
 ####Computed stats:
@@ -91,7 +93,7 @@ ____
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
-- 7 to dodge
+- 8 to dodge, always get surprise test
 
 ____
 ####Bio:
