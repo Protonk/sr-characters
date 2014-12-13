@@ -2,11 +2,7 @@
 
 ####Role:
 
-He's something of a sneaky face. He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. He can roll 12-14 to sneak into a compund or bluff past the guard with some forged credentials. 
-
-Taking advantage of social and stealth skills to gain the upper hand will be important, because he is **brutal** in close combat. 16 to hit with a knife (11P, -2 AP).
-
-Astral chameleon is chosen to reduce his constant Magic 6 presense, someone remembering a bland face in the crowd with no distinguishing cyberware or weapons would maybe note the signature of an adept but might mistake him for a low level physical or magical adept (-3 to detect my signature overall)
+He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. He can roll 13-15 to sneak into a compund or bluff past the guard with some forged credentials. Taking advantage of social and stealth skills to gain the upper hand will be important, because he is **brutal** in close combat. 
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 

@@ -6,8 +6,6 @@ I have no idea how technomancers work, so I picked skills and forms that look go
 
 But they're also (presumably) skilled in blowing things up in the matrix. Software (the computer skill I need for technomancer stuff) and the technomancer skills are all maxed. Physical combat is basically a loss (4 to hit for the pistol), but some social skills and high CHA allow for a little bit of talking it out.
 
-I figured I'd pay for the bar (no reason to exploit it and treat it as net income) as a middle lifestyle cost (paid out for 4 months). they have to maintain their house (low, obscure) and the imputed cost of the bar--bribes to security, registration with the grid, salary--net from the income provided by the bar. He'll also never use the "business" SIN for work. 
-
 ####Human
 ____
 ####Qualities:
@@ -107,6 +105,3 @@ That's just for fun.
 
 He's also a runner of sorts. He's good for infiltrating hosts (though doing so against black IC is dangerous), but he's superlative at legwork. He always knows a guy and if he doesn't, he can sneak around on the matrix to find what he's looking for.
 
-
-
-####SINs:

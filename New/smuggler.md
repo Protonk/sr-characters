@@ -4,7 +4,7 @@
 
 He can roll up looking like a regular ganger or a suit. Even a citizen if you squinted (and mislaid your cyberware detector). 12 to hit with the SMG is acceptable, and he'll always have 2 initiative passes. But damage absorption is where it's at. 21 armor w/ the jacket, 11 base DR and platelets means he can tank a lot of hits. +4 on all healing rolls and he's knowledgable enough to repair cyberware. Multiple tough runs in a week will be fine for this guy.
 
-Ideally, he can smuggle his way around that kind of engagement. Lots of skills with cyberware knowledge (namely scanners), repair, and implantation. He can hide an item in the smuggling compartment and disguise its contents to scanners (A long term test, rolling between 7 and 10). A good outcome (5 net hits) gives a concealability of 6-10 even to some scanners. That's his real value. 
+Ideally, he can smuggle his way around that kind of engagement; lots of cyberware knowledge and skill with repair and implantation. He can hide an item in the smuggling compartment and disguise its contents to scanners (A long term test, rolling between 7 and 10). A good outcome (5 net hits) gives a concealability of 6-10 even to some scanners. That's his real value. 
 
 ____
 ####Ork
@@ -16,7 +16,7 @@ ____
 
 ____
 ####Augments:
-
+  
 - Wired reflexes (betaware, wireless, rating 1)
 - Reaction enhancers (betaware, wireless, rating 1)
 - Synthetic torso (armor +2, smuggling compartment)

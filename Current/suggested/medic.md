@@ -2,15 +2,13 @@
 
 ####Role:
 
-An effecive combat medit, built around adept powers and high attributes. Uses a sniper rifle as a DMR. Can act with high confidence to secure an area or extract a team member. 
+An effecive combat medit, built around adept powers and high attributes.
 
-He's 18 \[19\] (laser sight) to hit with the rifle; chosen specifically for accuracy (6 is also my physical limit), damage (12P -7AP) and the ability to place an opponent under stress with burst fire (-2 to defend).
+The DMR is chosen specifically for accuracy, damage and burst fire. Attacking someone with 12 dodge and 12 armor, he'll hit 84% of the time with a minimum damage of 8 and a median damage of 14.
 
-Attacking someone with 12 dodge and 12 armor (fairly decent for a starter enemy), he'll hit 84% of the time with a minimum damage of 8 and a median damage of 14. Defending against 12 attack, he'll dodge 67% of the time.
+In combat first aid rolls 8-13 ***after*** modifiers. He's very good at making sure even the most beat up runners make it back alive.
 
-Natural athlete supports getting places in combat: 9 dice on sprinting rolls. 13 + 4D6 initiative means he has time to spend a full initiative pass performing first aid; in combat first aid rolls 8-13 ***after*** modifiers (limit 5). He's also very good at making sure even the most beat up runners make it back alive.
-
-Anytime I need to snap my fingers and make something happen, I have 7 edge.
+I have 7 edge, 12 + 4D6 initiative and 14 dodge. I need to test this out, but I'm confident this guy could rip a hole through time.
 
 ____
 ####Human
@@ -40,13 +38,12 @@ ____
 - Improved reflexes (level 3)
 - Improved agility (level 1)
 - Improved longarms (level 2) (Qi)
-- Combat sense (level 1)
-- Inproved first aid (level 1)
+- Combat sense (level 2)
 
 ____
 ####Active skills:
 
-- Longarms (7 [9] + sniper rifles), Medicine (4 + trauma), First aid (3 [4] + Resuscitation), Running (2 + sprinting), Tracking (2 + plains), Clubs (1), Gymnastics (1)
+- Longarms (7 [9] + sniper rifles), Medicine (4 + trauma), First aid (4 + Resuscitation), Running (2 + sprinting), Tracking (1 + plains), Clubs (1), Gymnastics (1)
 
 ####Knowledge skills:
 
@@ -94,7 +91,7 @@ ____
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 5 plus modified armor value
-- 13 to dodge
+- 14 to dodge
 
 ____
 ####Bio:
