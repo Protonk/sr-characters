@@ -2,7 +2,7 @@
 
 ####Role:
 
-Ganger prince. This is the maximally minimal rigger/decker/runner. No major dump stats; can control drones, cars, and turrets; can hack devices or secure a team against countermeasures effectively; and he's not a complete pushover in combat.
+Maximally minimal rigger/decker/runner. No major dump stats; can control drones, cars, and turrets; can hack devices or secure a team against countermeasures effectively; and he's not a complete pushover in combat.
 
 Lots of money (450k) chosen for a deck and a range of expensive but targeted bioware/headware. Some karma spent on raising CHA and a few skills. 
 
@@ -23,13 +23,14 @@ ____
 - Synaptic booster (rating 1)
 - Cerebral booster (rating 1)
 - Control rig (rating 1)
+- Cybereyes (rating 1: smartlink)
 - Datajack
 
 ####Equipment:
 
 - Armor: Armor jacket
 - Weapons: Ingram Smartgun X (rounds: [100 reg, 50 APDS, 50 HP], 4 spare clips)
-- Electronics: Renraku Tsurugi, Goggles (capacity 4: smartlink, enhancment (rating 2)), bug scanner (rating 3)
+- Electronics: Renraku Tsurugi, Goggles (capacity 3: enhancment (rating 2), magnification), bug scanner (rating 3)
 - Other: Medkits [wireless rating 3], supplies for 2.
 - Lifestyle: Middle [3 months]
 - Ident: 1 rating 4 fake SIN with rating 4 licences [deck, cyberware], 1 rating 4 fake SIN with rating 4 licences [cyberware, smg]
@@ -65,9 +66,9 @@ ____
 - BOD: 4
 - WIL: 4
 - EDG: 5
-- ESS: 2.23
+- ESS: 2.03
 - Initiative: 7 [8] + 1D6 [2D6]
-- Money: 5000 + 4D6 * 100
+- Money: 2000 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:

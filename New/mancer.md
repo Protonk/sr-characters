@@ -2,19 +2,15 @@
 
 ####Role:
 
-Snooper. Can roll 13 to create a resonance channel, 11-15 on listening to targets. They can clean up after themselves and defend themselves in matrix combat, but expertise is plowed into cracking codes and listening in on targets. They can also rig into machines as need be, but they're no rigger.
+Snooper. Can roll 13 to create a resonance channel, 11-15 to listen in on targets. They can clean up after themselves and defend themselves in matrix combat, but expertise is plowed into cracking codes and listening in on targets.
 
-Incredibly knowledgable about hardware, they can repair or sabotage nearly anything with moving parts. Once a modification is made, they can jump inside the computer to mask the changes against regular scans (no check engine light if you install a bomb). Or they can snoop on a target via their own security system and erase all mention of their intrusion in the logs. 
-
-They can perform their end of the job from a shitty hourly motel at the corner of nowhere and MLK; tunneling up to a target on the grid. If placed in combat they're competent but not adept in any way.
-
-____
+Exceptional quasi-rigger. The skills are there, alongside the equivalent of a level 1 control rig. 
 ####Human
 ____
 ####Qualities:
 
-- Negative: 
-- Positive: Codeslinger (snoop), Analytical mind
+- Negative: Bad luck, Scorched (Black IC)
+- Positive: Analytical mind
 
 ____
 ####Equipment:
@@ -32,20 +28,24 @@ ____
 - Resonance spike
 - Resonance channel
 - Static veil
-- Cleaner
 
 ####Registered sprites:
 
-- Crack
 - Machine
 
+####Submersion
+
+- Grade 1
+- Mind over machine (level 1)
+
+____
 ####Active skills:
 
-- Engineering skill group (6), Biotech skill group (2), Outdoors skill group (2), Electronic warfare (6 + encryption), Software (6 + channel), Compiling (6 + sprite), Pistols (5 + semi-auto), Registering (5 + sprite), Perception (5), Etiquette (4 + decker), Disguise (3 + trid), Pilot aircraft (2 + remote), Decompiling (2), Pilot ground craft (1 + remote)
+- Engineering skill group (6), Biotech skill group (2), Outdoors skill group (2), Electronic warfare (6 + encryption), Software (6 + channel), Compiling (6 + machine), Registering (5 + data), Pistols (4 + semi-auto), Pilot ground craft (4 + remote), Perception (3), Etiquette (3), Pilot aircraft (2 + remote), Pilot walker (2 + remote), Hardware (2), Decompiling (2)
 
 ####Knowledge skills:
 
-- Matrix security (4 + communications), Emerald city grid (4 + cafes), Engineering (4 + CAD AR), Street life (2 + squats), Corporate security (2 + matrix)
+- Matrix security (4 + communications), Emerald city grid (4 + cafes), Engineering (3), Street life (2 + squats), Corporate security (2 + matrix)
 
 ####Languages:
 
@@ -55,7 +55,8 @@ ____
 ####Contacts:
 
 - Bartender (con 1, loy 3)
-- Matrix admin (con 3, loy 2)
+- Matrix admin (con 4, loy 2)
+- Technomancer (con 2, loy 2)
 
 ____
 ####Attributes
@@ -64,15 +65,15 @@ ____
 - STR: 1
 - CHA: 3
 - LOG: 5
-- INT: 5
-- REA: 3
+- INT: 4
+- REA: 4
 - BOD: 2
 - WIL: 4
 - EDG: 2
 - RES: 5
 - ESS: 6
 - Initiative: 8 + 1D6
-- AR initiative: 10 + 2D6
+- AR initiative: 8 + 2D6
 - Money: 1350 + 4D6 * 100
 - Karma: 0
 
