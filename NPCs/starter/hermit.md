@@ -2,7 +2,7 @@
 
 ####Role:
 
-A skill heavy mage. Combat spells are cast with 16 to hit and combat spells are also resisted at 14 (more if an increased willpower is sustained). Edge and initiative are low, as are resources of any kind. This guy **will** mess somone up with magic. 
+A skill heavy mage. Combat spells are cast with 16 to hit and combat spells are also resisted at 14 (more if an increased willpower is sustained). Edge and initiative are low, as are resources of any kind. This guy **will** mess someone up with magic. 
 
 Potentially more fun with an outdoors campaign or as an NPC runner for a specific campaign--like a hired guide. Tracking is at 12, so that's an option.  
 
@@ -96,5 +96,3 @@ ____
 This character was very constrained in terms of resources at creation, so I decided to make a survivalist. They've lived on Salish land (forests and the like, staying away from important shit) for a while and have built up a rappore with the folks living and working there. Somewhere in the hills they have a cabin, barely the size of a step van. All contact will take place far from this cabin (and they may move the cabin at any time), but he does check email every few weeks.
 
 If you need a top shelf combat mage and you can afford to wait for the right one, you know how to reach him. Physical stats are low, but willpower and intuition are relatively high, and the low stats are balanced with many survival, stealth and athletic skills. This is a bush wizard. A capable scout--enlightened muscle.
-
-####SINs

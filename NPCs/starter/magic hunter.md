@@ -26,6 +26,7 @@ ____
 - Other: Medkits [rating 3, supplies for 1]
 - Lifestyle: Low [3 months]
 - Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, pistol], 1 rating 2 fake SIN with rating 4 fake license [magic]
+
 ____
 ####Adept powers:
 
@@ -100,6 +101,3 @@ ____
 
 ____
 ####Bio:
-
-
-####SINs:

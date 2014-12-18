@@ -2,9 +2,9 @@
 
 ####Role:
 
-22 to hit for HMG (12P -8AP), 18 for grenades. Sustained long range high damage output par excellence. Short range he's 16 with the axe (hand to hand or thrown) and 15 with the concealed pistol, so no slouch there.
+22 to hit with HMG (12P -8AP), 18 with grenades. Sustained long range high damage output par excellence. Short range he's 16 with the axe (hand to hand or thrown) and 15 with the concealed pistol, so no slouch there.
 
-That damage resistance roll is absurd. For most incoming damage, he'll ruitinely roll 28-35...he can soak damage for a long time.
+That damage resistance roll is absurd. For most incoming damage, he'll routinely roll 28-35...he can soak damage for a long time.
 
 ____
 ####Human
@@ -31,9 +31,10 @@ ____
 ####Equipment:
 
 - Armor: Armor jacket (with helmet), Fully body armor (with helmet)
-- Weapons: RPK HMG (gas vent (rating 3), shock pad, wireless smartgun, 600 APDS rounds, 200 tracer rounds, 3 spare belts), Ares Light Fire 75 (wireless smartgun, 60 hollow point rounds), Krime Cannon (wireless smartgun, airburst link, 48 rounds), Combat axe
+- Weapons: RPK HMG (gas vent (rating 3), shock pad, wireless smartgun, rounds: [600 APDS, 200 tracer], 3 spare belts), Ares Light Fire 75 (wireless smartgun, rounds [60 hollow point]), Krime Cannon (wireless smartgun, airburst link, rounds: [48]), Combat axe
 - Other: medkit (rating 6, rating 3 [2], supplies for 2), SuperPlatinum docwagon contract
 - Electronics: Farlight Caliban, jammer (rating 6)
+
 ____
 ####Active skills:
 
@@ -42,6 +43,7 @@ ____
 ####Languages:
 
 - English N
+
 ____
 ####Attributes
 

@@ -52,7 +52,7 @@ ____
 ____
 ####Contacts:
 
-- Fixer (con 4, loy 3)
+- Fixer (con 3, loy 4)
 - Spec ops decker (con 1, loy 2)
 
 ____
@@ -91,10 +91,8 @@ ____
 ____
 ####Bio:
 
-I had a lot of resources and not a lot of skills, so I went for "expensive hired muscle". He can be ex special forces for Aztecnology, having left the business after a series of ethically murky runs. Now he works with a very specific code: no defenseless person dies--bystanders, children, etc. That's not usually a problem if he is brought in to a firefight, which is where he works best.
+Ex special forces for Aztecnology, having left the business after a series of ethically murky runs. Now he works with a very specific code: no defenseless person dies--bystanders, children, etc. That's not usually a problem if he is brought in to a firefight, which is where he works best.
 
 You call him up and he helps you clear out a compound of gangers, rob a bank or move your things. He will execute the job with extreme force until the target is dead, robbed or moved, respectively. Then he leaves. If you want to hear from him again, speak to his fixer.
 
-Just to be clear, you call this guy when you need maximum force for a short time. He's not much of an asset to leg work. 
-
-####SINs:
+Just to be clear, you call this guy when you need maximum force for a short time. He's not much of an asset to leg work.

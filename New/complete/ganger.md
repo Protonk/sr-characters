@@ -4,7 +4,7 @@
 
 Effective support muscle. Good for shaking down targets, hiding from the law and getting info about jobs.
 
-13 to hit with the axe at 11P (reach of 4), 10 to hit with the SMG. 17 armor in the jacket. He's pretty good all around in combat. Can intimidate at 12+, blend in with other gangers at 10+ and find a hideout off the grid at 14. Well rounded Troll, basically the equivalent stats to a human adept, but with great skills. 
+13 to hit with the axe at 11P (reach of 4), 9 to hit with the SMG. 17 armor in the jacket. He's pretty good all around in combat. Can intimidate at 12+, blend in with other gangers at 10+ and find a hideout off the grid at 11+. Well rounded Troll, basically the equivalent stats to a human adept, but with great skills. 
 
 Karma is spent on cash, a focus, and some skills (knowledge and active). We can't default on technical or knowledge skills, so I want to be able to roll on areas the character would know or need. Navigation and tracking are also an option, but he's not great at either (5-8).
 
@@ -41,11 +41,11 @@ ____
 
 ####Active skills:
 
-- Stealth skill group (3), Athletics skill group (2), Blades (6 [7] + axes), Survival (6 [8] + urban), Automatics (4 + smgs), Intimidation (3 + physical), Tracking (3 + urban), Etiquette (2 + ganger), First aid (2), Perception (2), Navigation (1 + celestial), Locksmith (1), Computer (1)
+- Stealth skill group (3), Athletics skill group (2), Blades (6 [7] + axes), Etiquette (4 + ganger), Tracking (4 + urban), Survival (3 [5] + urban), Automatics (3 + smgs),  Intimidation (3 + physical), Navigation (2 + celestial), First aid (2), Perception (2), Locksmith (1), Computer (1)
 
 ####Knowledge skills:
 
--  Seattle gangs (2 + halloweeners), Street life (2 + squats), Seattle (2 + docks), Police procedures (2), Corporate security (1)
+-  Seattle gangs (2 + halloweeners), Street life (2 + squats), Seattle (2 + docks), Police procedures (1 + bounties), Corporate security (1)
 
 ####Languages:
 
