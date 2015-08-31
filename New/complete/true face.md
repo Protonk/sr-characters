@@ -48,7 +48,7 @@ ____
 
 ####Knowledge skills:
 
-- Corportate security (4), Safe houses (3), Engineering (2 + electrical), Clothing manufacture (2 + counterfeit), Denver (2), Corporate procedures (1 + customs)
+- Corporate security (4), Safe houses (3), Engineering (2 + electrical), Clothing manufacture (2 + counterfeit), Denver (2), Corporate procedures (1 + customs)
 
 ####Languages:
 
