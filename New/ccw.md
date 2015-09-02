@@ -11,8 +11,8 @@ ____
 ____
 ####Qualities:
 
-- Negative: Home ground (on the lam), Quick healer 
-- Positive: Criminal SIN, Distinctive Style
+- Negative: Criminal SIN, Distinctive Style
+- Positive: Home ground (on the lam), Quick healer 
 
 ____
 ####Augments:
