@@ -26,7 +26,7 @@ ____
 - Weapons: Cavalier Arms Crockett EBR (laser sight, gas vent (Rating 3), 200 APDS rounds, 5 spare clips), Defiance T–250 (short barelled, laser sight, 20 flechette rounds, 20 regular rounds), stun baton
 - Armor: Armor jacket, Lined coat, Urban explorer jumpsuit (with helmet)
 - Gear: Climbing gear
-- Electronics: Hermes Ikon, Goggles (wireless, capacity 6: low light, enhancement (rating 3), magnification), Headphones (wireless, capacity 4: spatial recognizer, filter (rating 3))
+- Electronics: Hermes Ikon, Goggles (wireless, capacity 6: low light, enhancement (rating 2), magnification), Headphones (wireless, capacity 4: spatial recognizer, filter (rating 3))
 - Magic: Foci [Qi (force 4)]
 - Other: Medkits [wireless rating 6], supplies for 3, trauma and stim patches, Bliss [4], surgical kit
 - Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, shotgun], 1 rating 2 fake sin with rating 4 fake license [magic]
@@ -74,7 +74,7 @@ ____
 - ESS: 6
 - MAG: 6
 - Initiative: 9 [12] + 1D6 [4D6]
-- Money: 1900 + 3D6 * 60 
+- Money: 2500 + 3D6 * 60 
 - Karma: 0
 
 ####Inherent limits:
