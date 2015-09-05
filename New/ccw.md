@@ -22,7 +22,7 @@ ____
 ####Equipment:
 
 - Armor: Lined coat
-- Weapons: Defiance T-250 (40 flechette rounds, 40 beanbag rounds, 40 regular rounds), Stun baton
+- Weapons: Defiance T-250 (short barrel, 40 flechette rounds, 40 beanbag rounds, 40 regular rounds), Stun baton, Enfeld AS-7 (speed loader, 100 APDS rounds, 100 flechette rounds)
 - Other: Medkit (rating 4, supplies for 2)
 - Electronics: Sony Emperor 
 - Lifestyle: Low [2 months]
@@ -70,7 +70,7 @@ ____
 - ESS: 6
 - MAG: 4
 - Initiative: 9 + 1D6 
-- Money: 2000 + 3D6 * 60
+- Money: 1000 + 3D6 * 60
 - Karma: 0
 
 ####Inherent limits:

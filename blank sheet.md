@@ -23,6 +23,16 @@ ____
 - Ident:
 
 ____
+#### Augmentation
+
+-
+
+____
+#### Powers
+
+- 
+
+____
 ####Active skills:
 
 - 

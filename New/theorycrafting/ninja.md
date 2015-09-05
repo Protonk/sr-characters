@@ -27,9 +27,9 @@ ____
 
 - Improved agility (level 2)
 - Improved reflexes (level 1)
-- Traceless walk
+- Traceless walk (Qi)
 - Improved blades (level 2)
-- Improved sneaking (level 2) (Qi)
+- Improved sneaking (level 2)
 - Critical strike (blades)
 
 ____

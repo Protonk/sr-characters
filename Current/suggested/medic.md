@@ -47,7 +47,7 @@ ____
 
 ####Knowledge skills:
 
-- Police procedures (3 + HRT), Research labs (2 + Souix), Sprawl life (2 + street docs), Street drugs (1), Native American Nation politics (1), Pilots (1)
+- Police procedures (3 + HRT), Research labs (2 + Souix), Sprawl life (2 + street docs), Street drugs (1 + bliss), Native American Nation politics (1),
 
 ####Languages:
 
@@ -67,7 +67,7 @@ ____
 - CHA: 2
 - LOG: 4
 - INT: 5
-- REA: 4 [7]
+- REA: 4 [8]
 - BOD: 5
 - WIL: 3
 - EDG: 7
