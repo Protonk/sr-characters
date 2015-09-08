@@ -8,7 +8,7 @@ The DMR is chosen specifically for accuracy, damage and burst fire. Attacking so
 
 In combat first aid rolls 8-13 ***after*** modifiers. He's very good at making sure even the most beat up runners make it back alive.
 
-I have 7 edge, 12 + 4D6 initiative and 14 dodge. I need to test this out, but I'm confident this guy could rip a hole through time.
+I have 7 edge, 13 + 4D6 initiative and 15 dodge. I need to test this out, but I'm confident this guy could rip a hole through time.
 
 ____
 ####Human
@@ -23,10 +23,10 @@ ____
 ####Equipment:
 
 
-- Weapons: Cavalier Arms Crockett EBR (laser sight, gas vent (Rating 3), 200 APDS rounds, 5 spare clips), Defiance T–250 (short barelled, laser sight, 20 flechette rounds, 20 regular rounds), stun baton
+- Weapons: Cavalier Arms Crockett EBR (wireless laser sight, gas vent (Rating 3), 200 APDS rounds, 50 regular rounds, 5 spare clips), Defiance T–250 (short barelled, laser sight, 20 flechette rounds, 20 regular rounds, 20 gel rounds), stun baton
 - Armor: Armor jacket, Lined coat, Urban explorer jumpsuit (with helmet)
-- Gear: Climbing gear
-- Electronics: Hermes Ikon, Goggles (wireless, capacity 6: low light, enhancement (rating 2), magnification), Headphones (wireless, capacity 4: spatial recognizer, filter (rating 3))
+- Gear: Climbing gear, survival kit
+- Electronics: Hermes Ikon, Goggles (wireless, capacity 6: [low light, enhancement (rating 2), magnification]), Headphones (wireless, capacity 4: spatial recognizer, filter (rating 3))
 - Magic: Foci [Qi (force 4)]
 - Other: Medkits [wireless rating 6], supplies for 3, trauma and stim patches, Bliss [4], surgical kit
 - Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, shotgun], 1 rating 2 fake sin with rating 4 fake license [magic]
@@ -43,7 +43,7 @@ ____
 ____
 ####Active skills:
 
-- Longarms (7 [9] + sniper rifles), Medicine (4 + trauma), First aid (4 + Resuscitation), Running (2 + sprinting), Tracking (1 + plains), Clubs (1), Gymnastics (1)
+- Longarms (7 [9] + sniper rifles), Medicine (4 + trauma), First aid (4 + GSW), Running (2 + sprinting), Tracking (1 + plains), Clubs (1), Gymnastics (1)
 
 ####Knowledge skills:
 
@@ -56,7 +56,7 @@ ____
 ____
 ####Contacts
 
-- Street doc (con 2, loy 2)
+- Dealer (con 2, loy 2)
 - Fixer (con 1, loy 1)
 
 ____
@@ -73,8 +73,8 @@ ____
 - EDG: 7
 - ESS: 6
 - MAG: 6
-- Initiative: 9 [12] + 1D6 [4D6]
-- Money: 2500 + 3D6 * 60 
+- Initiative: 9 [13] + 1D6 [4D6]
+- Money: 1500 + 3D6 * 60 
 - Karma: 0
 
 ####Inherent limits:
@@ -91,7 +91,7 @@ ____
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 5 plus modified armor value
-- 14 to dodge
+- 15 to dodge
 
 ____
 ####Bio:

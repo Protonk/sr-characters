@@ -42,7 +42,7 @@ ____
 ____
 ####Active skills:
 
-- Influence skill group (2), Biotech skill group (2), Enchanting skill group (1), Assensing (6 [7] + signatures), Perception (6 [7] + searching), Pistols (5 + semi-auto), Tracking (4 [6] + urban), Clubs (3 + batons), Navigation (3), Sneaking (2), Hardware (2)
+- Influence skill group (3), Biotech skill group (2), Assensing (6 [7] + signatures), Perception (6 [7] + searching), Pistols (5 + semi-auto), Tracking (4 [6] + urban), Clubs (3 + batons), Navigation (3), Sneaking (2), Hardware (2)
 
 ####Knowledge skills:
 
