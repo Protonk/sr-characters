@@ -38,7 +38,7 @@ ____
 
 ####Knowledge skills:
 
-- Sprawl life (3 + squats), Seattle street gangs (3), History (2), Police procedures (2), Street docs (2), Literature (1 + genre fiction),  Magic (1)
+- Sprawl life (3 + street docs), Seattle street gangs (2 + Ancients), History (2), Police procedures (2), Redmond area (2), Literature (1 + genre fiction),  Magic (1)
 
 ####Languages:
 
@@ -88,6 +88,7 @@ ____
 ____
 ####Bio:
 
+Not sure about bio. Could make for a really interesting character (good combinations of qualities). 
 
 ####SINs:
 

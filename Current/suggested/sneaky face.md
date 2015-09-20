@@ -2,7 +2,7 @@
 
 ####Role:
 
-He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. He can roll 13-15 to sneak into a compund or bluff past the guard with some forged credentials. Taking advantage of social and stealth skills to gain the upper hand will be important, because he is **brutal** in close combat. 
+He's got all the face skills (and a little charisma), but he's *really* good at looking like he belongs somewhere or vanishing entirely. He can roll 13-16 to sneak into a compund or bluff past the guard with some forged credentials. Taking advantage of social and stealth skills to gain the upper hand will be important, because he is **brutal** at close range. 
 
 This character sacrifices edge and money to get the maximum practical boost from adept powers while maintaining a broad set of skills and acceptable stats. It's a well rounded glass cannon and an asset to any team.
 
@@ -18,7 +18,7 @@ ____
 ____
 ####Equipment:
 
-- Weapons: Combat knife, Browning Ultra Power (20 regular rounds, 80 APDS rounds, 4 spare clips)
+- Weapons: Browning Ultra Power (20 regular rounds, 80 APDS rounds, 4 spare clips), Streeline Special (24 regular rounds)
 - Armor: Actioneer business clothes (concealable holster), Lined coat (concealable holster)
 - Gear: lockpick set, medkit (rating 6, rating 2, 3 supplies), restraints (plastic), crowbar, monofilament chainsaw, survival kit
 - Other: RFID, security and stealth tags.
@@ -29,7 +29,7 @@ ____
 ____
 ####Active skills:
 
-- Stealth skill group (6), Athletics skill group (2), Outdoors skill group (2), Blades (6 [8] + knives), Pistols (6 + semi-auto), Etiquette (6 + corporate), Con (5 + fast talking), Perception (5), Locksmith (4), Negotiation (3), First Aid (3), Unarmed (2 + subduing), Pilot ground craft (1)
+- Stealth skill group (6), Athletics skill group (2), Outdoors skill group (2), Pistols (6 [7] + semi-auto), Etiquette (6 + corporate), Con (5 [7] + fast talking), Unarmed (5 + subduing), Perception (5), Locksmith (4), Negotiation (3 + diplomacy), First Aid (3), Escape artist (2), Pilot ground craft (1), Free-fall (1)
 
 ####Knowledge skills:
 
@@ -49,47 +49,48 @@ ____
 ____
 ####Adept powers:
 
-- Improved strength (level 2)
-- Improved reflexes (level 1)
+- Improved reflexes (level 2)
 - Improved agility (level 1)
-- Improved blades (level 2) (Qi)
+- Combat sense (level 2)
+- Improved con (level 2) (Qi)
+- Improved pistols (level 1)
+- Critical strike (unarmed)
 - Kinesics (level 2)
-- Combat sense (level 1)
-- Critical strike (blades)
+
 
 ____
 ####Attributes
 
 - AGI: 5 [6]
-- STR: 6 [8]
+- STR: 4
 - CHA: 4
 - LOG: 2
 - INT: 4
-- REA: 2 [3]
+- REA: 2 [4]
 - BOD: 4
-- WIL: 2
+- WIL: 4
 - EDG: 3
 - MAG: 6
 - ESS: 6
-- Initiative: 6 [7] + 1D6 [2D6]
+- Initiative: 6 [8] + 1D6 [3D6]
 - Karma: 0
-- Cash: 1980 + 3D6*60
+- Cash: 1860 + 3D6*60
 
 ####Inherent limits:
 
-- Mental: 3
-- Physical: 5 [7]
-- Social: 5
+- Mental: 4
+- Physical: 4 [5]
+- Social: 4
 
 ####Computed stats:
 
 - Condition:
 	- Physical: 10
-	- Stun: 9
+	- Stun: 10
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
-- 8 to dodge, always get surprise test
+- 10 to dodge, always get surprise test
 
 ____
 ####Bio:

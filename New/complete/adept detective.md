@@ -62,25 +62,25 @@ ____
 ____
 ####Attributes
 
-- AGI: 3
+- AGI: 4
 - STR: 2
 - CHA: 4
 - LOG: 4
 - INT: 6
-- REA: 4 [5]
+- REA: 3 [4]
 - BOD: 4
 - WIL: 5
 - EDG: 6
 - ESS: 6
 - MAG: 3
-- Initiative: 10 [11] + 1D6 [2D6]
+- Initiative: 9 [10] + 1D6 [2D6]
 - Money: 1100 + 4D6 * 100
 - Karma: 0
 
 ####Inherent limits:
 
 - Mental: 6
-- Physical: 3
+- Physical: 3 [4]
 - Social: 6
 
 ####Computed stats:
@@ -91,7 +91,7 @@ ____
 	- 3 wound boxes
 - armor: 0 naked
 - damage resistance roll: 4 plus modified armor value
-- 11 to dodge
+- 10 to dodge
 
 ____
 ####Bio:

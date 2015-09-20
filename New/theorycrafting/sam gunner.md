@@ -4,7 +4,7 @@
 
 Ranged mayhem. Another fun character (Though Indiana will be more fun with time). This guy is built around the nominally crew-served machine gun. The arm has a gyro built in and the stats are stacked. 
 
-Rolls 19 to hit with MMG (at 10P, -7 AP). Can lay down 11 rounds before recoil causes him to lose dice (one complex full auto or two simple bursts). For the second initiative pass, it's 15 for a simple burst, 12 for a complex burst.
+Rolls 18 to hit with MMG (at 10P, -7 AP). Can lay down 11 rounds before recoil causes him to lose dice (one complex full auto or two simple bursts). For the second initiative pass, it's 15 for a simple burst, 12 for a complex burst.
 
 But wait, there's more! He's essentially unperturbed about incoming damage. 21 armor means that most damage will face an 10 + modified armor (likely ~10) damage reduction roll. Whatever gets through will have to move 5 boxes of damage to register a wound, any damage > 1 gets reduced by 1. So the display above can be performed under fire for more than one combat turn. 
 
@@ -51,14 +51,14 @@ ____
 ____
 ####Attributes
 
-- AGI: 6 [8]
+- AGI: 5 [7]
 - STR: 8
 - CHA: 2
 - LOG: 1
-- INT: 4
+- INT: 3
 - REA: 3 [6]
 - BOD: 6
-- WIL: 4
+- WIL: 6
 - EDG: 1
 - ESS: 0.7
 - Initiative: 7 [10] + 1D6 [2D6]
@@ -75,7 +75,7 @@ ____
 
 - Condition:
 	- Physical: 11
-	- Stun: 10
+	- Stun: 11
 	- Wound boxes: 5 physical, 4 stun
 - armor: 7 naked
 - damage resistance roll: 11 plus modified armor value, > 1 reduced by one.

@@ -1,96 +1,99 @@
-###Rollo
+###Name
 
 ####Role:
 
-Not too special. Close quarters shotgun weilder. Lots of armor/body to soak hits. Low initiative but great stats otherwise + lots of contacts. 
+Close combat specialist/tank. High body for a human, with extra damage resistance due to 2 cyberlimbs. High money cost to minimize essense lost. Big problem with tanks: in good armor, most damage gets turned into stun, but they only have so many stun boxes. We mitigate this with the adrelaline pump and high willpower. 
 
+Solid muscle for a group of 3-5. Good grouping of skills for a supporting role. 
+
+10 karma to boost CHA to 2. 11 to skills.
 
 ____
-####Ork
-
+####Human
 ____
 ####Qualities:
 
-- Negative: Criminal SIN, Distinctive Style
-- Positive: Home ground (on the lam), Quick healer 
+- Negative: Insomnia (moderate), Addiction (moderate, bliss)
+- Positive: Will to live (rating 3), Toughness
 
 ____
-####Augments:
-
-- None
-
 ####Equipment:
 
-- Armor: Lined coat
-- Weapons: Defiance T-250 (short barrel, 40 flechette rounds, 40 beanbag rounds, 40 regular rounds), Stun baton, Enfeld AS-7 (speed loader, 100 APDS rounds, 100 flechette rounds)
-- Other: Medkit (rating 4, supplies for 2)
-- Electronics: Sony Emperor 
-- Lifestyle: Low [2 months]
-- Ident: Ident: 1 rating 4 fake SIN with rating 4 fake licenses [magic, shotgun], 1 rating 2 fake sin with rating 4 fake license [magic]
+- Armor: Armor jacket
+- Weapons: Defiance T-250 (short barreled, smartlink, 30 regular rounds, 30 gel rounds), Enfield AS-7 (smartlink, 48 APDS rounds, 48 flechette rounds, 24 gel rounds, 10 explosive rounds), Remington 950 (smartlink, 15 regular rounds)
+- Electronics:
+- Other:
+- Lifestyle: Low [3 months]
+- Ident: 1 rating 4 fake SIN with rating 4 fake licenses [cyberware, shotgun], 1 rating 2 fake SIN with rating 4 fake license [cyberware]
 
 ____
-####Adept powers:
+#### Augmentation
 
-- Mystic Armor (level 4)
-- Pain Resistance (level 2)
-- Improved Longarms (level 2)
+- Synaptic booster (betaware, rating 1)
+- Adrelanine pump (rating 2)
+- Plastic bone lacing (betaware)
+- Orthoskin (rating 3)
+- Obvious full cyberarm (betaware, [agility (rating 2), wireless holster])
+- Synthetic full cyberarm (betaware, [agility (rating 2), smuggling compartment])
+- Cybereyes (betware, capacity 8: [smartlink (betaware), thermographic vision (betware), flare compensation])
+- Reflex recorder (longarms)
+- Commlink (betware, Transys Avalon)
+- Damage compensators (betaware, stun (rating 2))
 
 ____
 ####Active skills:
 
-- Outdoors skill group (2), Longarms (6 [8] + Shotguns), Clubs (4 + batons), Locksmith (4), Con (4), First aid (3), Running (3), Perception (2), Sneaking (1), Pilot ground craft (1)
+- Outdoors skill group (2), Longarms (6 [7] + Shotguns), First aid (4 + GSW), Intimidation (3 + physical), Clubs (3 + batons), Running (2 + sprinting), Etiquette (2), Perception (2), Locksmith (2), Pilot ground craft (1), Sneaking (1)
 
 ####Knowledge skills:
 
-- Seattle street gangs (4), Police procedures (3), Safehouses (3), Dive bars (2)
+- Seattle street gangs (4), Police procedures (3), Safehouses (3), Dive bars (2), Street life (1)
 
 ####Languages:
 
-- English N, Salish (4)
+- English N
 
 ____
 ####Contacts:
 
-- Fixer (con 2, loy 5)
-- Bar owner (con 1, loy 4)
-- Smuggler (con 2, loy 3)
+- Fixer (con 2, loy 4)
+- Bounty hunter (con 1, loy 2)
 
 ____
 ####Attributes
 
-- AGI: 6
-- STR: 3
-- CHA: 3
-- LOG: 4
+- AGI: 4 [6]
+- STR: 2
+- CHA: 2
+- LOG: 1
 - INT: 4
-- REA: 5
-- BOD: 8
-- WIL: 4
-- EDG: 3
-- ESS: 6
-- MAG: 4
-- Initiative: 9 + 1D6 
-- Money: 1000 + 3D6 * 60
+- REA: 4 [5]
+- BOD: 5 [7]
+- WIL: 6
+- EDG: 5
+- ESS: 1.0
+- Initiative: 8 [9] + 1D6 [2D6]
+- Money: 13500
 - Karma: 0
 
 ####Inherent limits:
 
-- Mental: 5
-- Physical: 6
-- Social: 5
+- Mental: 3
+- Physical: 5 [6]
+- Social: 3
 
 ####Computed stats:
 
 - Condition:
-	- Physical: 12
-	- Stun: 10
-	- 5 wound boxes
+	- Physical: 11 [13]
+	- Stun: 12
+	- 3 wound boxes, 5 for stun
 - armor: 4 naked
-- 11 to dodge
+- damage resistance roll: 10 plus modified armor value
+- 9 to dodge
 
 ____
 ####Bio:
-
 
 
 ####SINs:
@@ -98,9 +101,8 @@ ____
 Peter Sellers -- **Rating 4**
 - Born: Feb 22, 2050
 - Barrens resident
-- [magic, shotgun]
+- [cyberware, shotgun]
 
 Bill Russell -- **Rating 2**
 - Born: Sep 2051
-- [magic]
-
+- [cyberware]

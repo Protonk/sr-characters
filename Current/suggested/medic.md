@@ -56,8 +56,8 @@ ____
 ____
 ####Contacts
 
-- Dealer (con 2, loy 2)
-- Fixer (con 1, loy 1)
+- Dealer (con 1, loy 2)
+- Fixer (con 2, loy 1)
 
 ____
 ####Attributes
